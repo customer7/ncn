@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/neurofibromatosis-type-i/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/notes/neurofibromatosis-type-i/","tags":["NF1"],"created":"2023-04-24T21:31:51.000-05:00","updated":"2023-05-11T15:14:40.663-05:00"}
 ---
 
-
-#NF1 
 
 **Neurofibromatosis type I (NF-1)** or **von Recklinghausen syndrome**, is a complex multi-system human disorder caused by the mutation of neurofibromin, a gene on chromosome 17 that is responsible for production of protein neurofibromin which is responsible for regulating the RAS-mediated cell growth signaling pathway. NF-1 is an autosomal dominant disorder. 
 
