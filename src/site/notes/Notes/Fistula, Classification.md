@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fistula-classification/","created":"2023-05-11T20:45:00.074-05:00","updated":"2023-05-11T20:48:25.090-05:00"}
+{"dg-publish":true,"permalink":"/notes/fistula-classification/","created":"2023-05-11T20:45:00.074-05:00","updated":"2023-05-11T20:52:14.915-05:00"}
 ---
 
 
@@ -38,7 +38,7 @@
 { #47c631}
 
 - Type V: direct drainage into spinal perimedullary veins in addition to all of the above; progressive myelopathy in 50%
-\* Diameter greater than 5 mm or 3x larger than diameter of draining vein
+- \* Diameter greater than 5 mm or 3x larger than diameter of draining vein
 
 ![](https://i.imgur.com/jtfvoAE.jpg)
 
