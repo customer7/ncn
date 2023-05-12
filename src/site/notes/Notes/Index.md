@@ -3,4 +3,4 @@
 ---
 
 
-I am in the process of migrating my notes from my personal vault to this repository. This will be the knowledge hub of this website. Weblink is the main reference method for readers' convenience. Please feel free to [[About/About Me\|contract me]] if a link is broken.
+I am in the process of migrating my notes from my personal vault to this repository. This will be the knowledge hub of this website. Weblink is the main reference method for readers' convenience. Please feel free to [[About Me\|contract me]] if a link is broken.
