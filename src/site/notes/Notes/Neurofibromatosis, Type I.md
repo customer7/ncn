@@ -16,4 +16,4 @@ The NIH criteria^[[Neurofibromatosis type I - Wikipedia](https://en.wikipedia.or
 7. A first degree relative (parent, sibling, or offspring) with NF-1 by the above criteria
 
 ## Cases
-- [[Cases/Nerves, Peripheral/Paraspinal Lumbar Tumor\|Paraspinal Lumbar Tumor]]
+- [[Paraspinal Lumbar Tumor\|Paraspinal Lumbar Tumor]]
