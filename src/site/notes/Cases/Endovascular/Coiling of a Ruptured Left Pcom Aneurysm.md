@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/coiling-of-a-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","endo","coil","embolization","Pcom"],"created":"2023-04-24T21:29:35.000-05:00","updated":"2023-05-11T14:53:05.916-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/coiling-of-a-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","endo","coil","embolization","Pcom"],"created":"2023-04-24T21:29:35.000-05:00","updated":"2023-05-11T20:55:30.564-05:00"}
 ---
 
 
@@ -137,9 +137,9 @@ Control DSA, Post-Coil embolization - Left ICA injection, PA and lateral
 ## Reference
 
 ![](https://i.imgur.com/qySC7OA.png)
-[Netter's Neurology - 9780323554763](https://www.us.elsevierhealth.com/netters-neurology-9780323554763.html)
+- [Netter's Neurology - 9780323554763](https://www.us.elsevierhealth.com/netters-neurology-9780323554763.html)
 
 ---
 
 ![](https://i.imgur.com/NwyFP7h.jpg)
-[The free online ophthalmology book! - TimRoot.com](https://timroot.com/ophthobook/)
+- [The free online ophthalmology book! - TimRoot.com](https://timroot.com/ophthobook/)
