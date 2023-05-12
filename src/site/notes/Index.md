@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2023-04-24T21:21:28.000-05:00","updated":"2023-05-12T08:32:47.829-05:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2023-04-24T21:21:28.000-05:00","updated":"2023-05-12T08:42:01.837-05:00"}
 ---
 
 
@@ -13,3 +13,7 @@ Cases presented on this web site are for educational purposes. They are all in c
 Some of the content on this website is garnered from the internet. If there is a concern of copyright infringement, please don't hesitate to [[About Me\|contact me]].
 
 ---
+
+Here are some links to start with:
+- [[Notes/Index\|Notes]]
+- [[Cases/Index\|Cases]]
