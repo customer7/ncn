@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/cases/index/","created":"2023-05-11T14:23:01.282-05:00","updated":"2023-05-11T22:06:19.326-05:00"}
 ---
 
 
@@ -7,10 +7,10 @@
 
 ### Tumor
 
-- [[Cases/Peripheral Nerves/A Large Paraspinal Lumbar Tumor\|A Large Paraspinal Lumbar Tumor]]
+- [[Cases/Nerves, Peripheral/Paraspinal Lumbar Tumor\|Paraspinal Lumbar Tumor]]
 
 ## Vascular
 
 ### Aneurysm
 
-- [[Cases/Endovascular/Coiling of a Ruptured Left Pcom Aneurysm\|Coiling of a Ruptured Left Pcom Aneurysm]]
+- [[Cases/Endovascular/Coiling, Ruptured Left Pcom Aneurysm\|Coiling, Ruptured Left Pcom Aneurysm]]
