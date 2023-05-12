@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2023-04-24T21:21:28.000-05:00","updated":"2023-05-12T12:12:01.752-05:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"created":"2023-04-24T21:21:28.000-05:00","updated":"2023-05-12T14:36:40.135-05:00"}
 ---
 
 
@@ -15,5 +15,5 @@ Some of the content on this website is garnered from the internet. If there is a
 ---
 
 Here are some links to start with:
-- [[Notes/Index\|Notes]]
 - [[Cases/Index\|Cases]]
+- [[Notes/Index\|Notes]]
