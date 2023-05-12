@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/score-rcvs-2-for-reversible-cerebral-vasoconstriction-syndrome/","tags":["score","grading"],"created":"2023-05-12T08:28:27.008-05:00","updated":"2023-05-12T08:28:54.035-05:00"}
+{"dg-publish":true,"permalink":"/notes/score-rcvs-2-for-reversible-cerebral-vasoconstriction-syndrome/","tags":["score","grading"],"created":"2023-05-12T08:28:27.008-05:00","updated":"2023-05-12T08:35:54.498-05:00"}
 ---
 
 
@@ -22,7 +22,7 @@ The **RCVS<sub>2</sub>** score can be utilized to distinguish [[Syndrome, Revers
 - Subarachnoid hemorrhage present on imaging
 	- Absent: 0
 	- Present: +1
-
+---
 - \* Triggers: orgasm, physical exertion, acute stressful or emotional situations, Valsalva maneuvers (eg, straining, coughing, sneezing), bathing, and swimming.^[[Reversible cerebral vasoconstriction syndrome - UpToDate](https://www.uptodate.com/contents/reversible-cerebral-vasoconstriction-syndrome#H185045495)]
 
 ## Classification
