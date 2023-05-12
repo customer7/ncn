@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fistula-classification/","created":"2023-05-11T20:45:00.074-05:00","updated":"2023-05-11T20:46:16.366-05:00"}
+{"dg-publish":true,"permalink":"/notes/fistula-classification/","created":"2023-05-11T20:45:00.074-05:00","updated":"2023-05-11T20:48:25.090-05:00"}
 ---
 
 
@@ -24,8 +24,6 @@
 
 ![](https://i.imgur.com/8wV2fSr.jpg)
 
-#isr
-
 ### Cognard Classification of Cerebral Dural Arteriovenous Fistulas
 { #b5d1ce}
 
@@ -40,15 +38,13 @@
 { #47c631}
 
 - Type V: direct drainage into spinal perimedullary veins in addition to all of the above; progressive myelopathy in 50%
-- * Diameter greater than 5 mm or 3x larger than diameter of draining vein
+\* Diameter greater than 5 mm or 3x larger than diameter of draining vein
 
 ![](https://i.imgur.com/jtfvoAE.jpg)
 
 ![](https://i.imgur.com/CyorQKs.jpg)
 
 ![](https://i.imgur.com/xHZcURA.jpg)
-
-#isr 
 
 ## Carotid-Cavernous 
 ### Barrow Classification of Carotid-Cavernous Fistulas
