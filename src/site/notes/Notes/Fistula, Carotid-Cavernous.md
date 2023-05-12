@@ -11,7 +11,7 @@
 
 ## Classifications
 
-### [[Fistula, Classification#^f4b429\|Barrow Classification]]
+### [[Notes/Fistula, Classification#^f4b429\|Barrow Classification]]
 
 - Type A (direct): high-flow shunts between ICA and CS
 - Type B (indirect): meningeal branch of ICA to CS
