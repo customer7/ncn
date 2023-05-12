@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fistula-classification/","created":"2023-05-11T20:45:00.074-05:00","updated":"2023-05-11T20:52:14.915-05:00"}
+{"dg-publish":true,"permalink":"/notes/fistula-classification/","created":"2023-05-11T20:45:00.074-05:00","updated":"2023-05-11T22:04:19.708-05:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 { #f87e53}
 
 
-![](https://i.imgur.com/X87CxX7.png)^[[Intracranial Dural Arteriovenous Fistulae | Stroke](https://www.ahajournals.org/doi/10.1161/STROKEAHA.116.012784)]
+![](https://i.imgur.com/X87CxX7.png)[Intracranial Dural Arteriovenous Fistulae | Stroke](https://www.ahajournals.org/doi/10.1161/STROKEAHA.116.012784)
 
 ### Borden Classification of Dural Arteriovenous Fistulas
 { #8a4eff}
