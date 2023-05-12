@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/notes/score-rcvs-2-for-reversible-cerebral-vasoconstriction-syndrome/","tags":["score","grading"],"created":"2023-05-12T08:28:27.008-05:00","updated":"2023-05-12T08:35:54.498-05:00"}
+{"dg-publish":true,"permalink":"/notes/score-rcvs-2-for-reversible-cerebral-vasoconstriction-syndrome/","tags":["score","grading"],"created":"2023-05-12T08:28:27.008-05:00","updated":"2023-05-12T10:48:07.367-05:00"}
 ---
 
 
-The **RCVS<sub>2</sub>** score can be utilized to distinguish [[Syndrome, Reversible Cerebral Vasoconstriction\|reversible cerebral vasoconstriction syndrome]] from other intracranial arteriopathies at admission.^[[RCVS₂ Score for Reversible Cerebral Vasoconstriction Syndrome - MDCalc](https://www.mdcalc.com/calc/10347/rcvs2-score-reversible-cerebral-vasoconstriction-syndrome)]
+The **RCVS<sub>2</sub>** score can be utilized to distinguish [[Syndrome, Reversible Cerebral Vasoconstriction\|reversible cerebral vasoconstriction syndrome]] from other intracranial arteriopathies at admission.^[[RCVS2 score and diagnostic approach for reversible cerebral vasoconstriction syndrome - PubMed](https://pubmed.ncbi.nlm.nih.gov/30635475/)]
 
-## Scoring System
+## Scoring System^[[RCVS₂ Score for Reversible Cerebral Vasoconstriction Syndrome - MDCalc](https://www.mdcalc.com/calc/10347/rcvs2-score-reversible-cerebral-vasoconstriction-syndrome)]
 
 - Recurrent or single thunderclap headache
 	- Absent: 0
