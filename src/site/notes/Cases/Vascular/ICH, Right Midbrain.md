@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/ich-right-midbrain/","tags":["ICH","midbrain"],"created":"2023-05-12T22:23:44.154-05:00","updated":"2023-05-12T22:33:18.063-05:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/ich-right-midbrain/","tags":["ICH","midbrain"],"created":"2023-05-12T22:23:44.154-05:00","updated":"2023-05-12T22:40:02.975-05:00"}
 ---
 
 
@@ -88,5 +88,5 @@ Brain MRI with Contrast - T1WI, Axial, Coronal, and Sagittal
 
 ## Discussion
 
-- Most likely diagnosis is hypertensive IPH due to the side effect of lisdexamfetamine
+- Most likely diagnosis is hypertensive ICH due to the side effect of lisdexamfetamine
 - No evidence of cavernous malformation on brain MRI
