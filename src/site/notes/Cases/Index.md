@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index/","created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-12T22:31:05.716-05:00"}
+{"dg-publish":true,"permalink":"/cases/index/","created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-12T22:41:45.967-05:00"}
 ---
 
 
-## Endoascular
+## Endovascular
 
 ### Aneurysm
 
