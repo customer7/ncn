@@ -13,4 +13,4 @@
 
 ### ICH
 
-- [[ICH, Right Midbrain\|ICH, Right Midbrain]]
+- [[Cases/Vascular/ICH, Right Midbrain\|ICH, Right Midbrain]]
