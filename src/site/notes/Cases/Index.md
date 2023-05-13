@@ -1,10 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index/","created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-11T22:19:35.000-05:00"}
+{"dg-publish":true,"permalink":"/cases/index/","created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-12T22:31:05.716-05:00"}
 ---
 
 
-## Vascular
+## Endoascular
 
 ### Aneurysm
 
 - [[Cases/Endovascular/Coiling, Ruptured Left Pcom Aneurysm\|Coiling, Ruptured Left Pcom Aneurysm]]
+
+## Vascular
+
+### ICH
+
+- [[Cases/Vascular/ICH, Right Midbrain\|ICH, Right Midbrain]]
