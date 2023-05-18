@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/abbreviations/","created":"2023-05-12T22:05:52.000-05:00","updated":"2023-05-17T16:39:51.986-05:00"}
+{"dg-publish":true,"permalink":"/notes/abbreviations/","created":"2023-05-12T22:05:52.000-05:00","updated":"2023-05-17T21:44:37.645-05:00"}
 ---
 
 
@@ -8,3 +8,4 @@
 - ICH - intracerebral hemorrhage
 - GCS - Glasgow coma scale
 - PERRLA - pupils equal, round, reactive to light and accomodation
+- POD - post-operative day
