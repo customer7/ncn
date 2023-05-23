@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/neurofibromatosis-type-i/","tags":["NF1"],"created":"2023-04-24T21:31:51.000-05:00","updated":"2023-05-11T20:32:05.000-05:00"}
+{"dg-publish":true,"permalink":"/notes/neurofibromatosis-type-i/","tags":["NF1"],"created":"2023-04-24T21:31:51.000-05:00","updated":"2023-05-23T18:32:34.292-05:00"}
 ---
 
 
@@ -16,4 +16,4 @@ The NIH criteria^[[Neurofibromatosis type I - Wikipedia](https://en.wikipedia.or
 7. A first degree relative (parent, sibling, or offspring) with NF-1 by the above criteria
 
 ## Cases
-- [[Paraspinal Lumbar Tumor\|Paraspinal Lumbar Tumor]]
+- [[Cases/PNS/Schwannoma, Lumbar Paraspinal\|Schwannoma, Lumbar Paraspinal]]
