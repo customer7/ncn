@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pns/schwannoma-lumbar-paraspinal/","tags":["NF1","tumor/lsp","PNS","schwannoma"],"created":"2023-05-12T22:42:34.000-05:00","updated":"2023-05-23T18:29:25.365-05:00"}
+{"dg-publish":true,"permalink":"/cases/pns/schwannoma-lumbar-paraspinal/","tags":["NF1","tumor/lsp","PNS","schwannoma"],"created":"2023-05-12T22:42:34.000-05:00","updated":"2023-05-23T18:34:17.004-05:00"}
 ---
 
 
 ## H&P
 
 - 43M, left-hand dominant
-- PMHx: NF-1, right leg malignant nerve sheath tumor s/p resection, chemotherapy, and radiation at 15
+- PMHx: [[Notes/Neurofibromatosis, Type I\|NF1]], right leg malignant nerve sheath tumor s/p resection, chemotherapy, and radiation at 15
 - PSHx: right AKA for osteomyelitis (non-healing femur fracture s/p ORIF)
 - FHx: skin lesions on father's side
 - SoHx: smoking x25y, +EtOH, marijauna
