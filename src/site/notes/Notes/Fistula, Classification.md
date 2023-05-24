@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fistula-classification/","tags":["CCF"],"created":"2023-05-13T11:11:54.480-05:00","updated":"2023-05-13T11:15:00.443-05:00"}
+{"dg-publish":true,"permalink":"/notes/fistula-classification/","tags":["CCF"],"created":"2023-05-13T11:11:54.480-05:00","updated":"2023-05-23T21:42:46.235-05:00"}
 ---
 
 
