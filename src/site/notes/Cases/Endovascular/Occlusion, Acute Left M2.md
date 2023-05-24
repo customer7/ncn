@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.273-05:00","updated":"2023-05-24T05:20:54.415-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.273-05:00","updated":"2023-05-24T05:25:08.548-05:00"}
 ---
 
 
@@ -51,7 +51,7 @@ CTP head - CBF and Tmax
 - Status post tPA
 - Meets DEFUSE 3^[[Thrombectomy for Stroke at 6 to 16 Hours with Selection by Perfusion Imaging | NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa1713973)] criteria for MT
 	- Ischemic core \< 70 mL
-	- Mismatch volume \≥ 1.5 mL
+	- Mismatch volume ≥ 1.5 mL
 	- Mismatch ratio \> 1.8
 
 ---
