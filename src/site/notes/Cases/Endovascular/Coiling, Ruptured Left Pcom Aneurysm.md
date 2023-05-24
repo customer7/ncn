@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","endo","coil","embolization","Pcom"],"created":"2023-04-24T21:29:35.000-05:00","updated":"2023-05-12T22:36:48.562-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","endo","coil","embolization","Pcom"],"created":"2023-04-24T21:29:35.000-05:00","updated":"2023-05-19T18:55:37.000-05:00"}
 ---
 
 
@@ -10,7 +10,9 @@
 - PSHx: none
 - FHx: noncontributory
 - SoHx: denies smoking/EtOH/illicit drugs
-- HPI: 2 days of left eye pain, headache, blurry vision
+- HPI: 
+	- Presented to ED
+	- Two days of left eye pain, headache, blurry vision
 - PE: left ptosis, anisocoria (L>R), EOMi, others normal
 
 ---
