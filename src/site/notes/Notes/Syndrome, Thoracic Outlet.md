@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/syndrome-thoracic-outlet/","tags":["syndrome","PNS","rib","TOS"],"created":"2023-05-23T20:37:25.587-05:00","updated":"2023-05-23T21:39:19.875-05:00"}
+{"dg-publish":true,"permalink":"/notes/syndrome-thoracic-outlet/","tags":["syndrome","PNS","rib","TOS"],"created":"2023-05-23T20:37:25.000-05:00","updated":"2023-05-23T21:39:19.000-05:00"}
 ---
 
 
