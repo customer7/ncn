@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/abbreviations/","created":"2023-05-12T22:05:52.000-05:00","updated":"2023-05-21T16:56:57.000-05:00"}
+{"dg-publish":true,"permalink":"/notes/abbreviations/","created":"2023-05-12T22:05:52.000-05:00","updated":"2023-05-22T21:48:50.063-05:00"}
 ---
 
 
@@ -7,9 +7,15 @@
 - "-" - negative
 - BLE - bilateral lower extremities
 - BUE - bilateral upper extremities
+- CAD - coronary artery disease
+- CT - computed tomography
+- DM - diabetes mellitus
 - ED - emergency department
+- EtOH - alcohol
 - GCS - Glasgow coma scale
 - HD - hospital day
+- HLD - hyperlipidemia
+- HTN - hypertension
 - ICH - intracerebral hemorrhage
 - LLE - left lower extremity
 - LUE - left upper extremity
