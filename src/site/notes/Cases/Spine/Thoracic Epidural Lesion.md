@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/spine/thoracic-epidural-lesion/","tags":["tumor/tsp"],"created":"2023-05-17T16:29:14.000-05:00","updated":"2023-05-19T18:54:54.000-05:00"}
+{"dg-publish":true,"permalink":"/cases/spine/thoracic-epidural-lesion/","tags":["tumor/tsp"],"created":"2023-05-17T16:29:14.000-05:00","updated":"2023-05-19T18:54:54.874-05:00"}
 ---
 
 
