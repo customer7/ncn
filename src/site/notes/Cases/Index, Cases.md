@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index-cases/","created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-23T18:38:41.839-05:00"}
+{"dg-publish":true,"permalink":"/cases/index-cases/","created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-23T21:31:25.190-05:00"}
 ---
 
 
@@ -10,6 +10,10 @@
 - [[Cases/Endovascular/Coiling, Ruptured Left Pcom Aneurysm\|Coiling, Ruptured Left Pcom Aneurysm]]
 
 ## PNS
+
+### Functional
+
+- [[Cases/PNS/Cervical Rib and TOS\|Cervical Rib and TOS]]
 
 ### Neoplasm
 
