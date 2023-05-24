@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-05-24T04:45:21.051-05:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-05-24T05:14:47.050-05:00"}
 ---
 
 
@@ -31,6 +31,7 @@
 - MRI - magnetic resonance imaging
 - MRV - magnetic resonance venography
 - MT - mechanical thrombectomy
+- mTICI - modified treatment in cerebral ischemia score
 - NCS - nerve conduction study
 - NIHSS - Natioanl Institutes of Health stroke scale
 - OSH - outside hospital
@@ -43,5 +44,7 @@
 - RUE - right upper extremity
 - Tmax - time to maximum
 - TOS - [[Notes/Syndrome, Thoracic Outlet\|thoracic outlet syndrome]]
+- tPA - tissue plasminogen activator
+- TICI - thrombolysis in cerebral infarction scale
 - TTF - transfer/transferred to floor
 - VOF - venous output function
