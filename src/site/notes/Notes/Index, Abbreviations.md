@@ -1,15 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-05-24T04:41:18.359-05:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-05-24T04:45:21.051-05:00"}
 ---
 
 
 - "+" - positive
 - "-" - negative
+- AIF - arterial input function
 - BLE - bilateral lower extremities
 - BUE - bilateral upper extremities
 - CAD - coronary artery disease
+- CBF - cerebral blood flow
 - CT - computed tomography
 - CTA - computed tomography angiography
+- CTP - computed tomography perfusion
 - CTV - computed tomography venography
 - DM - diabetes mellitus
 - ED - emergency department
@@ -23,6 +26,7 @@
 - ICH - intracerebral hemorrhage
 - LLE - left lower extremity
 - LUE - left upper extremity
+- LVO - large vessel occlusion
 - MRA - magnetic resonance angiography
 - MRI - magnetic resonance imaging
 - MRV - magnetic resonance venography
@@ -37,5 +41,7 @@
 - RLE - right lower extremity
 - ROM - range of motion
 - RUE - right upper extremity
+- Tmax - time to maximum
 - TOS - [[Notes/Syndrome, Thoracic Outlet\|thoracic outlet syndrome]]
 - TTF - transfer/transferred to floor
+- VOF - venous output function
