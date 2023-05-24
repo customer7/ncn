@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-23T21:50:56.746-05:00"}
+{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-23T21:52:02.818-05:00"}
 ---
 
 
@@ -23,7 +23,7 @@
 
 ### Degenerative
 
-- [[Cases/Spine/Cervical Kyphosis\|Cervical Kyphosis]]
+- [[Cases/Spine/Kyphosis, Cervical\|Kyphosis, Cervical]]
 
 ### Neoplasm
 
