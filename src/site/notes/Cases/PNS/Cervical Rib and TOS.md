@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T20:36:27.408-05:00","updated":"2023-05-23T21:26:59.183-05:00"}
+{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T20:36:27.408-05:00","updated":"2023-05-23T21:47:45.710-05:00"}
 ---
 
 
@@ -100,7 +100,7 @@ This picture is slightly out of focus.
 ## Intra-Op X-ray
 
 ![](https://i.imgur.com/cURCJVZ.jpg)
-From left to right: a clamp was used to identify the cervical rig; the tip of the Penfield No. 4 was at the costovertebral junction of C7; after the resection of the cervical rib.
+From left to right: a clamp was used to identify the cervical rib; the tip of the Penfield No. 4 was at the costovertebral junction of C7; after the resection of the cervical rib.
 
 ---
 
