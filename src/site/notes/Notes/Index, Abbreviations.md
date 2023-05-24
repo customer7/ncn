@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-05-23T21:50:49.219-05:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-05-24T04:41:18.359-05:00"}
 ---
 
 
@@ -9,6 +9,8 @@
 - BUE - bilateral upper extremities
 - CAD - coronary artery disease
 - CT - computed tomography
+- CTA - computed tomography angiography
+- CTV - computed tomography venography
 - DM - diabetes mellitus
 - ED - emergency department
 - EMG - electromyography
@@ -16,11 +18,17 @@
 - GCS - Glasgow coma scale
 - HD - hospital day
 - HLD - hyperlipidemia
+- H&P - history and physical examination
 - HTN - hypertension
 - ICH - intracerebral hemorrhage
 - LLE - left lower extremity
 - LUE - left upper extremity
+- MRA - magnetic resonance angiography
+- MRI - magnetic resonance imaging
+- MRV - magnetic resonance venography
+- MT - mechanical thrombectomy
 - NCS - nerve conduction study
+- NIHSS - Natioanl Institutes of Health stroke scale
 - OSH - outside hospital
 - OT - occupational therapy
 - PERRLA - pupils equal, round, reactive to light and accomodation
