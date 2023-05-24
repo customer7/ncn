@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fistula-carotid-cavernous/","created":"2023-05-13T11:10:31.363-05:00","updated":"2023-05-13T11:11:26.370-05:00"}
+{"dg-publish":true,"permalink":"/notes/fistula-carotid-cavernous/","created":"2023-05-13T11:10:31.000-05:00","updated":"2023-05-13T11:11:26.000-05:00"}
 ---
 
 
