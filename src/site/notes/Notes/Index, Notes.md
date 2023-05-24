@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-notes/","created":"2023-05-12T08:30:35.000-05:00","updated":"2023-05-17T21:51:24.073-05:00"}
+{"dg-publish":true,"permalink":"/notes/index-notes/","created":"2023-05-12T08:30:35.000-05:00","updated":"2023-05-23T21:45:59.697-05:00"}
 ---
 
 
@@ -8,4 +8,4 @@ We are in the process of migrating the notes from the personal vault to this rep
 ---
 
 Here are some useful links:
-- [[Notes/Abbreviations\|Abbreviations]]
+- [[Notes/Index, Abbreviations\|Index, Abbreviations]]
