@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/spine/kyphosis-cervical/","tags":["spine/c","fusion","corpectomy"],"created":"2023-05-22T21:19:31.000-05:00","updated":"2023-05-22T21:45:03.988-05:00"}
+{"dg-publish":true,"permalink":"/cases/spine/kyphosis-cervical/","tags":["spine/c","fusion","corpectomy"],"created":"2023-05-22T21:19:31.000-05:00","updated":"2023-05-22T21:45:03.000-05:00"}
 ---
 
 
