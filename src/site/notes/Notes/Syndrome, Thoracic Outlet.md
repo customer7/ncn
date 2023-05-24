@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/syndrome-thoracic-outlet/","tags":["syndrome","PNS","rib","TOS"],"created":"2023-05-23T20:37:25.587-05:00","updated":"2023-05-23T21:20:23.246-05:00"}
+{"dg-publish":true,"permalink":"/notes/syndrome-thoracic-outlet/","tags":["syndrome","PNS","rib","TOS"],"created":"2023-05-23T20:37:25.587-05:00","updated":"2023-05-23T21:38:06.442-05:00"}
 ---
 
 
@@ -44,7 +44,8 @@ The compression can be isolated or involve two or more structures with various d
 ### Surgery
 
 #### Cervical Rib
-- 
+- Brachial plexus exploration and decompression
+- Rsection of cervical rib
 
 ## Cases
 
