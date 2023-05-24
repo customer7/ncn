@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/technique-rib-resection-for-tos/","tags":["sg_tc TOS"],"created":"2023-05-23T21:20:44.391-05:00","updated":"2023-05-23T21:39:17.885-05:00"}
+{"dg-publish":true,"permalink":"/notes/technique-rib-resection-for-tos/","tags":["sg_tc TOS"],"created":"2023-05-23T21:20:44.391-05:00","updated":"2023-05-23T21:41:46.679-05:00"}
 ---
 
 
