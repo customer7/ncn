@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/score-rcvs-2-for-reversible-cerebral-vasoconstriction-syndrome/","tags":["score","grading"],"created":"2023-05-12T08:28:27.000-05:00","updated":"2023-05-23T19:23:57.983-05:00"}
+{"dg-publish":true,"permalink":"/notes/score-rcvs-2-for-reversible-cerebral-vasoconstriction-syndrome/","tags":["score","grading"],"created":"2023-05-12T08:28:27.000-05:00","updated":"2023-05-23T19:25:05.578-05:00"}
 ---
 
 
@@ -7,7 +7,7 @@ The **RCVS<sub>2</sub>** score can be utilized to distinguish [[Syndrome, Revers
 
 ## Scoring System
 
-You can use the online calculator here: [RCVS₂ Score for Reversible Cerebral Vasoconstriction Syndrome - MDCalc](https://www.mdcalc.com/calc/10347/rcvs2-score-reversible-cerebral-vasoconstriction-syndrome)
+You can use the online calculator here: [MDCalc](https://www.mdcalc.com/calc/10347/rcvs2-score-reversible-cerebral-vasoconstriction-syndrome)
 
 - Recurrent or single thunderclap headache
 	- Absent: 0
