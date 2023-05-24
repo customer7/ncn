@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/notes/technique-rib-resection-for-tos/","tags":["sg_tc TOS"],"created":"2023-05-23T21:20:44.391-05:00","updated":"2023-05-23T21:25:01.779-05:00"}
+{"dg-publish":true,"permalink":"/notes/technique-rib-resection-for-tos/","tags":["sg_tc TOS"],"created":"2023-05-23T21:20:44.391-05:00","updated":"2023-05-23T21:39:17.885-05:00"}
 ---
 
 
 ## Cervical Rib Resection
+{ #da517f}
+
 
 Link: [MMCTS](https://mmcts.org/tutorial/1345)
 
