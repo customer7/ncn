@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-24T05:20:09.740-05:00"}
+{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-24T05:24:05.119-05:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - [[Cases/Endovascular/Coiling, Ruptured Left Pcom Aneurysm\|Coiling, Ruptured Left Pcom Aneurysm]]
 
 ### Occlusion
-[[Cases/Endovascular/Occlusion, Acute Left M2\|Occlusion, Acute Left M2]]
+- [[Cases/Endovascular/Occlusion, Acute Left M2\|Occlusion, Acute Left M2]]
 
 ## PNS
 
