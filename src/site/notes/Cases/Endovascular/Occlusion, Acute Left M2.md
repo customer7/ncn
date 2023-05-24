@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.273-05:00","updated":"2023-05-24T05:25:08.548-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.273-05:00","updated":"2023-05-24T05:25:39.808-05:00"}
 ---
 
 
@@ -67,6 +67,7 @@ CTP head - CBF and Tmax
 - Phenom 27 160 cm
 - Aristotle 24 200 cm standard
 - Embotrap 6.5 mm x 45 mm
+- 8F AngioSeal
 
 ---
 
