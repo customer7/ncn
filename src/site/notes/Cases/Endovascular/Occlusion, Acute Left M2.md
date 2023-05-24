@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.273-05:00","updated":"2023-05-24T05:28:05.728-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.273-05:00","updated":"2023-05-24T05:28:44.095-05:00"}
 ---
 
 
@@ -88,7 +88,7 @@ DSA - Left ICA, PA and lateral
 { #34dc73}
 
 - M2 occlusion (red arrow)
-- Patent left anterior temporal artery (yellow arrow)
+- Patent left [[Notes/Artery, Anterior Temporal\|anterior temporal artery]] (yellow arrow)
 
 ---
 
