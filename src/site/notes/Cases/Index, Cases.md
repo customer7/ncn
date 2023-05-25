@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-25T09:23:22.564-05:00"}
+{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-25T18:14:59.673-05:00"}
 ---
 
 
@@ -14,6 +14,12 @@ This folder contains all the cases on this website and this note lists them by d
 ### Occlusion
 
 - [[Cases/Endovascular/Occlusion, Acute Left M2\|Occlusion, Acute Left M2]]
+
+## Pediatrics
+
+### Abnormalities
+
+- [[Cases/Pediatrics/Encephalocele, Parietal\|Encephalocele, Parietal]]
 
 ## PNS
 
