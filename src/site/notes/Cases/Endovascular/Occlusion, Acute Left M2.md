@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.000-05:00","updated":"2023-05-24T18:39:02.893-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.000-05:00","updated":"2023-05-24T18:39:02.000-05:00"}
 ---
 
 
