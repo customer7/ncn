@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T18:09:37.000-05:00","updated":"2023-05-25T19:21:31.491-05:00"}
+{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T18:09:37.000-05:00","updated":"2023-05-25T19:26:08.172-05:00"}
 ---
 
 
@@ -59,7 +59,7 @@ CT head (bone window) - Axial, coronal, and sagittal
 - Dissection down to skull
 - Identification of bony defect and the stalk
 - Skeletonization of the stalk
-- Tied with a 2-0 silk tie
+- Occlusion with a 2-0 silk tie
 - Resection of the cutaneous portion
 - Circumferential dissection of the bony defect
 - Coverage of defect using the bone harvested lateral to the defect (secured with 3-0 Vicryl)
