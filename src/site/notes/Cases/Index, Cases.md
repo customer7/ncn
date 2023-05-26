@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-25T18:14:59.673-05:00"}
+{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-25T20:20:57.312-05:00"}
 ---
 
 
@@ -17,7 +17,7 @@ This folder contains all the cases on this website and this note lists them by d
 
 ## Pediatrics
 
-### Abnormalities
+### Congenital Vascular Anomaly
 
 - [[Cases/Pediatrics/Encephalocele, Parietal\|Encephalocele, Parietal]]
 
