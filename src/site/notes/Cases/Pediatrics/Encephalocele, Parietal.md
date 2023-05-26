@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T18:09:37.000-05:00","updated":"2023-05-25T19:26:08.172-05:00"}
+{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T18:09:37.000-05:00","updated":"2023-05-25T20:18:36.185-05:00"}
 ---
 
 
@@ -80,5 +80,5 @@ CT head (bone window) - Axial, coronal, and sagittal
 
 ## Discussion
 
-- The lesion is at the proximity of superior sagittal sinus and seems to have connection with the falcons sinus, posing a high risk of introperativr vascular injury.
+- The lesion is at the proximity of the superior sagittal sinus and seems to have connection with the falcine sinus, posing a high risk of intraoperative vascular injury.
 - [[Notes/Sinua, Falcine\|Falcine sinus]]
