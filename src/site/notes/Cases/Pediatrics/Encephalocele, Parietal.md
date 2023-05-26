@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T18:09:37.000-05:00","updated":"2023-05-25T19:17:36.765-05:00"}
+{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T18:09:37.000-05:00","updated":"2023-05-25T19:21:31.491-05:00"}
 ---
 
 
@@ -72,6 +72,7 @@ CT head (bone window) - Axial, coronal, and sagittal
 ## Post-Op Recovery
 
 - ICU with hourly neuro-checks overnight
+- No deficits
 - TTF on POD1
 - Discharged home
 
