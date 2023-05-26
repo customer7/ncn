@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["index","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2023-04-24T21:21:28.000-05:00","updated":"2023-05-25T14:26:30.620-05:00"}
+{"dg-publish":true,"permalink":"/index/","tags":["index","gardenEntry","gardenEntry"],"created":"2023-04-24T21:21:28.000-05:00","updated":"2023-05-25T14:26:30.620-05:00"}
 ---
 
 
