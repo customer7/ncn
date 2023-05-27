@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.000-05:00","updated":"2023-05-27T18:22:48.844-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.000-05:00","updated":"2023-05-27T18:29:30.365-05:00"}
 ---
 
 
@@ -119,8 +119,17 @@ Post-thrombectomy (1st attempt) - mTICI 2B
 
 ---
 
+## Post-Op Recovery
+
+- Improved neurological function
+	- GCS 4/4/6
+	- Improved speech
+	- Right-sided strength grossly 4/5
+
+---
+
 ## Discussion
 
-- Occlusion was distal to the origin of anterior temporal artery
+- Occlusion was distal to the origin of [[Cases/Endovascular/Occlusion, Acute Left M2#^34dc73\|anterior temporal artery]]
 - Good collateral supply from left ACA - [[Cases/Endovascular/Occlusion, Acute Left M2#^b9a0c2\|small core, large penumbra]]
 - Atresic/hypoplastic right A1 on [[Cases/Endovascular/Occlusion, Acute Left M2#^7cc496\|CTA]]
