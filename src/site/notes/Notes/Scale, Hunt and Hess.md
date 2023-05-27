@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T17:11:12.573-05:00","updated":"2023-05-27T17:14:26.906-05:00"}
+{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T17:11:12.573-05:00","updated":"2023-05-27T17:15:31.624-05:00"}
 ---
 
 
@@ -14,3 +14,8 @@ The **Hunt and Hess scale**^[[Surgical risk as related to time of intervention i
 | 5     | Coma, decerebrate posturing                                                                        |
 \* Extra one point is given for severe systemic disease or severe vasospasm on angiography. 
 
+---
+
+## Cases
+
+- [[Cases/Endovascular/Coiling, Ruptured Left Pcom Aneurysm\|Coiling, Ruptured Left Pcom Aneurysm]]
