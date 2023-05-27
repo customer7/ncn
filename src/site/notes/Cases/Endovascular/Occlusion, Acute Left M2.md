@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.000-05:00","updated":"2023-05-24T18:39:02.000-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.000-05:00","updated":"2023-05-27T18:17:11.637-05:00"}
 ---
 
 
@@ -32,6 +32,8 @@
 
 CTA head - Coronal (thick), 3D reconstruction
 ![](https://i.imgur.com/X62ptlu.png)
+{ #7cc496}
+
 
 ---
 
@@ -119,4 +121,4 @@ Post-thrombectomy (1st attempt) - mTICI 2B
 
 - Occlusion was distal to the origin of anterior temporal artery
 - Good collateral supply from left ACA - small core, large penumbra
-- Atresic/hypoplastic right A1 on CTA
+- Atresic/hypoplastic right A1 on [[Cases/Endovascular/Occlusion, Acute Left M2#^7cc496\|CTA]]
