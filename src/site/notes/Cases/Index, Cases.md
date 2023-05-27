@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-25T20:21:39.291-05:00"}
+{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-27T17:08:47.117-05:00"}
 ---
 
 
-This folder contains all the cases on this website and this note lists them by different categories. Please feel free to [contact us](mailto:contact@neurosurgerycases.com) if you have any questions.
+This "Cases" folder contains all the cases on this website and this note lists them by different categories. Please feel free to [contact us](mailto:contact@neurosurgerycases.com) if you have any questions.
 
 ## Endovascular
 
