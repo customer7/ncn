@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T17:11:12.573-05:00","updated":"2023-05-27T17:18:37.348-05:00"}
+{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T17:11:12.573-05:00","updated":"2023-05-27T17:23:10.018-05:00"}
 ---
 
 
@@ -12,4 +12,5 @@ The **Hunt and Hess scale**^[[Surgical risk as related to time of intervention i
 | 3     | Drowsiness, confusion, mild focal neurologic deficit                                               |
 | 4     | Stupor, moderate-severe hemiparesis                                                                |
 | 5     | Coma, decerebrate posturing                                                                        |
+
 \* Extra one point is given for severe systemic disease or severe vasospasm on angiography. 
