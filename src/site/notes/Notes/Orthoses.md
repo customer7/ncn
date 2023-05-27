@@ -1,24 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/notes/orthoses/","tags":["spine","brace"],"created":"2023-05-27T15:12:19.499-05:00","updated":"2023-05-27T15:12:43.770-05:00"}
+{"dg-publish":true,"permalink":"/notes/orthoses/","tags":["spine","brace"],"created":"2023-05-27T15:12:19.499-05:00","updated":"2023-05-27T15:14:30.074-05:00"}
 ---
 
 
 ## Indications
 
--   Cervical thoracic orthosis (CTO): T1-T6
--   Jewett brace: T11-L1
--   Cervical thoracic lumbosacral orthosis (CTLSO): Miami J + TLSO
+-   Cervical thoracic orthosis ([[Notes/Orthoses#^cdb2ea\|CTO]]): T1-T6
+-   [[Notes/Orthoses#^848a32\|Jewett brace]]: T11-L1
+-   Cervical thoracic lumbosacral orthosis ([[Notes/Orthoses#^de27f7\|CTLSO]]): Miami J + TLSO
 -   Thoracolumbosacral orthoses (TLSO): T6-T10
 -   Lumbosacral orthosis (LSO): T11-S1
 
 ## Imaging
 
 ### CTO
+{ #cdb2ea}
+
 
 ![](https://i.imgur.com/AwtcTTc.jpg)
 ![](https://i.imgur.com/Uompumk.jpg)
 
 ### Jewett
+{ #848a32}
+
 
 ![](https://i.imgur.com/sYpLvYh.jpg)
 
@@ -27,6 +31,8 @@
 ![](https://i.imgur.com/KgMVuWI.jpg)
 
 ### CTLSO
+{ #de27f7}
+
 
 ![](https://i.imgur.com/RP0DqCJ.jpg)
 
