@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.000-05:00","updated":"2023-05-27T18:17:11.637-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.000-05:00","updated":"2023-05-27T18:22:48.844-05:00"}
 ---
 
 
@@ -44,6 +44,8 @@ CTP head - AIF and VOF
 
 CTP head - CBF and Tmax
 ![](https://i.imgur.com/ozTVB3Q.png)
+{ #b9a0c2}
+
 
 ---
 
@@ -120,5 +122,5 @@ Post-thrombectomy (1st attempt) - mTICI 2B
 ## Discussion
 
 - Occlusion was distal to the origin of anterior temporal artery
-- Good collateral supply from left ACA - small core, large penumbra
+- Good collateral supply from left ACA - [[Cases/Endovascular/Occlusion, Acute Left M2#^b9a0c2\|small core, large penumbra]]
 - Atresic/hypoplastic right A1 on [[Cases/Endovascular/Occlusion, Acute Left M2#^7cc496\|CTA]]
