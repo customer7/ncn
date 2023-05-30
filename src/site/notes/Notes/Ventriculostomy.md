@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ventriculostomy/","tags":["EVD","ventriculostomy","hydrocephalus","Kocher","Keen","Frazier"],"created":"2023-05-29T09:56:38.567-05:00","updated":"2023-05-29T10:06:15.398-05:00"}
+{"dg-publish":true,"permalink":"/notes/ventriculostomy/","tags":["EVD","ventriculostomy","hydrocephalus","Kocher","Keen","Frazier"],"created":"2023-05-29T09:56:38.567-05:00","updated":"2023-05-29T19:56:07.067-05:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 ### Kocher's Point
 
-The ventriculostomy site is 11 cm posterior to and 3 cm lateral to the nasion.
+The entry site is 11 cm posterior to and 3 cm lateral to the nasion.
 
 ![](https://i.imgur.com/spUMygZ.jpg)
 
@@ -15,7 +15,7 @@ The ventriculostomy site is 11 cm posterior to and 3 cm lateral to the nasion.
 
 ### Keen's Point
 
-The ventriculostomy site is 3cm above and 3cm behind the pinna.^[[Neurosurgery Wiki](https://operativeneurosurgery.com/doku.php?id=keen_s_point)]^[[Endoscopic surgery for thalamic hemorrhage: a technical note - PubMed](https://pubmed.ncbi.nlm.nih.gov/17905069/)]
+The entry site is 3 cm above and 3 cm behind the pinna.^[[Neurosurgery Wiki](https://operativeneurosurgery.com/doku.php?id=keen_s_point)]^[[Endoscopic surgery for thalamic hemorrhage: a technical note - PubMed](https://pubmed.ncbi.nlm.nih.gov/17905069/)]
 
 ![](https://i.imgur.com/jpEKOfD.jpg)
 
@@ -29,6 +29,6 @@ Right VPS through right Keen's point in a 74-year-old male with a history of IPH
 
 ### Frazier's Point
 
-The ventriculostomy site is 6cm above and 4cm lateral to the inion.
+The entry site is 6 cm above and 4 cm lateral to the inion.
 
 ![](https://i.imgur.com/RZtvNCU.jpg)
