@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/spine/thoracic-epidural-lesion/","tags":["tumor/tsp"],"created":"2023-05-17T16:29:14.000-05:00","updated":"2023-06-02T15:34:40.467-05:00"}
+{"dg-publish":true,"permalink":"/cases/spine/thoracic-epidural-lesion/","tags":["tumor/tsp"],"created":"2023-05-17T16:29:14.000-05:00","updated":"2023-06-02T15:38:28.204-05:00"}
 ---
 
 
@@ -60,7 +60,7 @@ CT Thoracic Spine - Sagittal and Axial
 
 - Prone
 - T4-T7 laminectomies
-- Epidural tumor resection
+- Epidural lesion resection
 - Specimen sent for permanent
 
 ---
