@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T20:36:27.000-05:00","updated":"2023-06-02T14:19:19.979-05:00"}
+{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T20:36:27.000-05:00","updated":"2023-06-02T14:50:01.844-05:00"}
 ---
 
+
+## Disclaimer
+**Patient gave permission to present this case.**
+
+---
 
 ## H&P
 
@@ -55,6 +60,7 @@ Cervical Spine CT
 
 Cervical X-ray, PA
 ![](https://i.imgur.com/TYRUKXP.png)
+Bilateral cervical ribs seen on the plain X-ray film, right > left.
 
 ---
 
@@ -125,3 +131,4 @@ Pre-(left) and Post-(right)Op X-rays
 
 - [[Notes/Syndrome, Thoracic Outlet\|Thoracic outlet syndrome]]
 - [[Notes/Technique, Rib Resection for TOS\|Surgical techniques]]
+
