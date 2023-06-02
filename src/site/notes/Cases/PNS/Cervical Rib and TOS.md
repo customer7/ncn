@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T20:36:27.000-05:00","updated":"2023-06-02T14:50:01.844-05:00"}
+{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T20:36:27.000-05:00","updated":"2023-06-02T14:51:21.512-05:00"}
 ---
 
 
-## Disclaimer
+## Consent
 **Patient gave permission to present this case.**
 
 ---
