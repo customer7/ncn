@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T18:09:37.000-05:00","updated":"2023-06-02T15:58:40.533-05:00"}
+{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T18:09:37.000-05:00","updated":"2023-06-02T16:06:11.685-05:00"}
 ---
 
 
@@ -71,7 +71,7 @@ CT head (bone window) - Axial, coronal, and sagittal
 - Coverage of defect using the bone harvested lateral to the defect (secured with 3-0 Vicryl)
 - Surgicel coverage
 - Closure
-- Pathology: pending
+- Pathology: skin tissue with no significant pathological findings, consistent with clinical diagnosis of encephalocele.
 
 ---
 
