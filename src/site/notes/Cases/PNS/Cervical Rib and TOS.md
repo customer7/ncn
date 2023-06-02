@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T20:36:27.000-05:00","updated":"2023-06-02T14:57:44.092-05:00"}
+{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T20:36:27.000-05:00","updated":"2023-06-02T15:03:10.868-05:00"}
 ---
 
 
 ## Consent
+
 **Patient gave permission to present this case.**
 
 ---
@@ -93,12 +94,12 @@ Bilateral cervical ribs seen on the plain X-ray film, right (yellow arrow) > lef
 
 ---
 
-![](https://i.imgur.com/H5oEb7e.jpg)
+![](https://i.imgur.com/DP58Daj.jpg)
 A vessel loop was used to isolate the upper, middle, and lower trunks, respectively.
 
 ---
 
-![](https://i.imgur.com/pfNIeGA.jpg)
+![](https://i.imgur.com/BrBXpyf.jpg)
 This picture is slightly out of focus.
 
 ---
@@ -123,7 +124,7 @@ From left to right: a clamp was used to identify the cervical rib; the tip of th
 ## Post-Op X-ray
 
 Pre-(left) and Post-(right)Op X-rays
-![](https://i.imgur.com/0vYymZt.png)
+![](https://i.imgur.com/Wk0ePBj.png)
 
 ---
 
@@ -131,4 +132,3 @@ Pre-(left) and Post-(right)Op X-rays
 
 - [[Notes/Syndrome, Thoracic Outlet\|Thoracic outlet syndrome]]
 - [[Notes/Technique, Rib Resection for TOS\|Surgical techniques]]
-
