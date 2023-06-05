@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-05-27T17:09:09.317-05:00"}
+{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T14:23:01.000-05:00","updated":"2023-06-05T10:08:26.336-05:00"}
 ---
 
 
@@ -42,6 +42,10 @@ This "Cases" folder contains all the cases on this website and this "Index, Case
 - [[Cases/Spine/Thoracic Epidural Lesion\|Thoracic Epidural Lesion]]
 
 ## Vascular
+
+### Congenital Vascular Anomaly
+
+- [[Cases/Vascular/DVA, Unruptured\|DVA, Unruptured]]
 
 ### ICH
 
