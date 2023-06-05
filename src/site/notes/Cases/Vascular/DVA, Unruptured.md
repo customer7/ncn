@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["DVA","DSA","ICH","endo"],"created":"2023-06-05T10:00:51.034-05:00","updated":"2023-06-05T10:22:56.590-05:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["DVA","DSA","ICH","endo"],"created":"2023-06-05T10:00:51.034-05:00","updated":"2023-06-05T10:36:37.977-05:00"}
 ---
 
 
@@ -91,3 +91,4 @@ Brain MRI and DSA (Right ICA Injection) - T2WI, PA (Late Arterial Phase, Early V
 
 - [[Notes/Anomaly, Developmental Venous\|Developmental venous anomaly]]
 - [[Notes/Score, RCVS2\|RCVS]] remains a possible cause of the ICH
+- [ ] #todo Repeat brain MRI with and without contrast in 3 months 
