@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T15:58:35.854-05:00","updated":"2023-05-27T17:04:55.984-05:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T15:58:35.000-05:00","updated":"2023-06-05T09:00:19.602-05:00"}
 ---
 
 
@@ -21,5 +21,6 @@ You can read the full disclaimer [[Disclaimer\|here]].
 ---
 
 Here are some links to start with:
+- [[Notes/Index, Abbreviations\|Abbreviations]]
 - [[Cases/Index, Cases\|Cases]]
 - [[Notes/Index, Notes\|Notes]]
