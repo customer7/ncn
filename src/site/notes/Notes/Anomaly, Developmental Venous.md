@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/anomaly-developmental-venous/","tags":["anatomy vascular"],"created":"2023-06-05T09:59:38.714-05:00","updated":"2023-06-05T10:12:50.926-05:00"}
+{"dg-publish":true,"permalink":"/notes/anomaly-developmental-venous/","tags":["anatomy vascular"],"created":"2023-06-05T09:59:38.714-05:00","updated":"2023-06-05T14:38:05.718-05:00"}
 ---
 
 
@@ -10,6 +10,12 @@
 ## Anatomy
 
 It presents as caput medusae sign of multiple smaller veins draining into a single larger vein.
+
+----
+
+## Pathology
+
+- About 20% are associated with cavernous malformation
 
 ---
 
@@ -29,4 +35,5 @@ It presents as caput medusae sign of multiple smaller veins draining into a sing
 ---
 
 ## Cases
+
 - [[Cases/Vascular/DVA, Unruptured\|DVA, Unruptured]]
