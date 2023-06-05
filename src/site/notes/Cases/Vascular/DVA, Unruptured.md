@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["DVA","DSA","ICH","endo"],"created":"2023-06-05T10:00:51.034-05:00","updated":"2023-06-05T10:10:15.075-05:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["DVA","DSA","ICH","endo"],"created":"2023-06-05T10:00:51.034-05:00","updated":"2023-06-05T10:21:41.557-05:00"}
 ---
 
 
@@ -45,13 +45,13 @@ Brain MRI - T1WI, T2WI, T1WI w/ Contrast
 ---
 
 Brain MRI - T2WI, T1WI w/ Contrast, SWI
-![](https://i.imgur.com/pHqC0Rd.png)
+![](https://i.imgur.com/tiM3Sxo.png)
 A developmental venous anomaly is seen at the interhemispheric location, adjacent to the genu of the corpus callosum.
 
 ---
 
 Serial axial T2WI 
-![](https://i.imgur.com/uQ3SujC.png)
+![](https://i.imgur.com/kQUXGE4.png)
 The DVA appears to drain inferiorly into the internal cerebral vein.
 
 ---
@@ -76,7 +76,7 @@ DSA - Left ECA, PA and Lateral
 ---
 
 Brain MRI and DSA (Right ICA Injection) - T2WI, PA (Late Arterial Phase, Early Venous Phase, and Late Venous Phase)
-![](https://i.imgur.com/CRyWghW.png)
+![](https://i.imgur.com/iuh44N0.png)
 
 ---
 
