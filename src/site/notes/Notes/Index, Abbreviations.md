@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-06-04T22:16:04.767-05:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-06-05T08:59:26.040-05:00"}
 ---
 
 
@@ -24,6 +24,7 @@
 - **H&P** - history and physical examination
 - **HTN** - hypertension
 - **ICH** - intracerebral hemorrhage
+- **IPH** - intraparenchymal hemorrhage
 - **LLE** - left lower extremity
 - **LUE** - left upper extremity
 - **LVO** - large vessel occlusion
