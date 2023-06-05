@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/anomaly-developmental-venous/","tags":["anatomy vascular"],"created":"2023-06-05T09:59:38.714-05:00","updated":"2023-06-05T10:05:31.720-05:00"}
+{"dg-publish":true,"permalink":"/notes/anomaly-developmental-venous/","tags":["anatomy vascular"],"created":"2023-06-05T09:59:38.714-05:00","updated":"2023-06-05T10:12:50.926-05:00"}
 ---
 
 
@@ -29,5 +29,4 @@ It presents as caput medusae sign of multiple smaller veins draining into a sing
 ---
 
 ## Cases
-
-- [[RCVS and DVA in a 24 Female, Dr. Vance (9158010)\|RCVS and DVA in a 24 Female, Dr. Vance (9158010)]]
+- [[Cases/Vascular/DVA, Unruptured\|DVA, Unruptured]]
