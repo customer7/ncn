@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["DVA","DSA","ICH","endo"],"created":"2023-06-05T10:00:51.034-05:00","updated":"2023-06-05T10:21:41.557-05:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["DVA","DSA","ICH","endo"],"created":"2023-06-05T10:00:51.034-05:00","updated":"2023-06-05T10:22:56.590-05:00"}
 ---
 
 
@@ -83,7 +83,6 @@ Brain MRI and DSA (Right ICA Injection) - T2WI, PA (Late Arterial Phase, Early V
 ## Interpretation of the DSA
 
 - No vascular lesion is identified to explain the medial left frontal lobe hemorrhage
-- RCVS remains a possible diagnosis
 - The DVA can be seen in the venous phase
 
 ---
@@ -91,4 +90,4 @@ Brain MRI and DSA (Right ICA Injection) - T2WI, PA (Late Arterial Phase, Early V
 ## Discussion
 
 - [[Notes/Anomaly, Developmental Venous\|Developmental venous anomaly]]
-- [[Notes/Score, RCVS2\|RCVS2]]
+- [[Notes/Score, RCVS2\|RCVS]] remains a possible cause of the ICH
