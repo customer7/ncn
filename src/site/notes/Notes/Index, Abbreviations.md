@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-05-27T17:31:01.803-05:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-06-04T22:16:04.767-05:00"}
 ---
 
 
@@ -38,13 +38,14 @@
 - **OT** - occupational therapy
 - **PERRLA** - pupils equal, round, reactive to light and accomodation
 - **POD** - post-operative day
+- **PPD** - pack per day
 - **PT** - physical therapy
 - **RLE** - right lower extremity
 - **ROM** - range of motion
 - **RUE** - right upper extremity
+- **TICI** - thrombolysis in cerebral infarction scale
 - **Tmax** - time to maximum
 - **TOS** - [[Notes/Syndrome, Thoracic Outlet\|thoracic outlet syndrome]]
 - **tPA** - tissue plasminogen activator
-- **TICI** - thrombolysis in cerebral infarction scale
 - **TTF** - transfer/transferred to floor
 - **VOF** - venous output function
