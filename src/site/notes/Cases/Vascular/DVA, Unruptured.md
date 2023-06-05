@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["DVA","DSA","ICH","endo"],"created":"2023-06-05T10:00:51.034-05:00","updated":"2023-06-05T10:06:02.889-05:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["DVA","DSA","ICH","endo"],"created":"2023-06-05T10:00:51.034-05:00","updated":"2023-06-05T10:10:15.075-05:00"}
 ---
 
 
 ## Consent
 
-**Patient gave consent to present this case.**
+**Patient gave permission to present this case.**
 
 ----
 
