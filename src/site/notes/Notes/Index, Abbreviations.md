@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-06-05T08:59:26.040-05:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-06-08T17:25:50.911-05:00"}
 ---
 
 
@@ -15,6 +15,7 @@
 - **CTP** - computed tomography perfusion
 - **CTV** - computed tomography venography
 - **DM** - diabetes mellitus
+- **DOE** - dyspnea on exertion
 - **ED** - emergency department
 - **EMG** - electromyography
 - **EtOH** - alcohol
