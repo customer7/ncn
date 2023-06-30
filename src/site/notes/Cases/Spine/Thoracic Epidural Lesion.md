@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/spine/thoracic-epidural-lesion/","tags":["tumor/tsp"],"created":"2023-05-17T16:29:14.000-05:00","updated":"2023-06-02T15:38:28.204-05:00"}
+{"dg-publish":true,"permalink":"/cases/spine/thoracic-epidural-lesion/","tags":["tumor/tsp"],"created":"2023-05-17T14:29:14.000-07:00","updated":"2023-06-29T22:20:09.195-07:00"}
 ---
 
 
@@ -108,7 +108,7 @@ Specimen
 - Wound well-healed
 - BLE spasticity, hyper-reflexia improved
 - Normal gait
-- #todo 3 months post-op follow-up thoracic MRI
+- 3 months post-op follow-up thoracic MRI: no residual/recurrence
 
 ---
 
