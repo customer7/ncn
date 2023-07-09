@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sizes-arteries/","tags":["anatomy","vessel","MCA","BA","VA"],"created":"2023-07-09T08:58:25.565-07:00","updated":"2023-07-09T09:06:26.749-07:00"}
+{"dg-publish":true,"permalink":"/notes/sizes-arteries/","tags":["anatomy","vessel","MCA","BA","VA"],"created":"2023-07-09T08:58:25.565-07:00","updated":"2023-07-09T09:08:54.127-07:00"}
 ---
 
 
@@ -18,9 +18,9 @@ Mean diameter, origin, mm^[[Cerebrovascular geometry in the anterior circulation
 
 ## Posterior Circulation
 
-| Artery    | Sizes (distal) | Sizes (proximal) |
+| Artery    | Sizes (proximal) | Sizes (distal) |
 | --------- | ---------------- | -------------- |
-| Vertebral | 2.8±0.6        | 3.9±0.8              |
-| Basilar   | 3.1±0.5        | 3.6±0.6               |
+| Vertebral | 3.9±0.8          | 2.8±0.6        |
+| Basilar   | 3.6±0.6          | 3.1±0.5        |
 
 Mean diameter, mm^[[Dimensions of the posterior cerebral circulation: an analysis based on advanced non-invasive imaging | Journal of NeuroInterventional Surgery](https://jnis.bmj.com/content/5/6/597.long)]
