@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T17:11:12.573-05:00","updated":"2023-05-27T17:23:10.018-05:00"}
+{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T15:11:12.000-07:00","updated":"2023-07-27T08:58:07.886-07:00"}
 ---
 
 
@@ -7,10 +7,10 @@ The **Hunt and Hess scale**^[[Surgical risk as related to time of intervention i
 
 | Grade | Clinical Presentation                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------- |
-| 1     | Asyptomatic, mild headache, slight nuchal rigidity                                                 |
-| 2     | Moderate to severe headache, nuchal rigidity, no neurologic deficit other than cranial nerve palsy |
-| 3     | Drowsiness, confusion, mild focal neurologic deficit                                               |
-| 4     | Stupor, moderate-severe hemiparesis                                                                |
-| 5     | Coma, decerebrate posturing                                                                        |
+| 1     | Asyptomatic, mild ==headache==, slight nuchal rigidity                                                 |
+| 2     | Moderate to severe headache, nuchal rigidity, no neurologic deficit other than ==cranial nerve palsy== |
+| 3     | ==Drowsiness==, confusion, mild focal neurologic deficit                                               |
+| 4     | Stupor, moderate-severe ==hemiparesis==                                                                |
+| 5     | Coma, ==decerebrate posturing==                                                                        |
 
 \* Extra one point is given for severe systemic disease or severe vasospasm on angiography. 
