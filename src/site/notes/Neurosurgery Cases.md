@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T15:58:35.000-05:00","updated":"2023-06-05T09:00:19.602-05:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-08-03T21:21:12.436-07:00"}
 ---
 
 
@@ -11,16 +11,16 @@ Wanna share your own cases? [Contact us](mailto:contact@neurosurgerycases.com) a
 
 ---
 
+Here are some links to start with:
+- [[Notes/Index, Abbreviations\|Abbreviations]]
+- [[Cases/Index, Cases\|Cases]]
+- [[Notes/Index, Notes\|Notes]]
+
+---
+
 ***Disclaimer***
 Cases presented on this website are for educational and informational purposes only, and do not intend to substitute professional medical advice, diagnosis, or treatment. They are all in compliance with HIPPA and do not contain any patient information. The use of this website content does not establish any patient-client relationships. 
 
 Some of the content on this website is garnered from the internet. If there is a concern of copyright infringement, please don't hesitate to [contact us](mailto:contact@neurosurgerycases.com).
 
 You can read the full disclaimer [[Disclaimer\|here]].
-
----
-
-Here are some links to start with:
-- [[Notes/Index, Abbreviations\|Abbreviations]]
-- [[Cases/Index, Cases\|Cases]]
-- [[Notes/Index, Notes\|Notes]]
