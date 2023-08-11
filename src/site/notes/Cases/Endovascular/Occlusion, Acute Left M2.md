@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T05:15:30.000-05:00","updated":"2023-06-02T16:20:58.276-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m2/","tags":["MCA","MT","thrombectomy","stroke","endo","endostroke"],"created":"2023-05-24T03:15:30.000-07:00","updated":"2023-08-10T21:38:20.982-07:00"}
 ---
 
-
-## Consent
-
-**Patient's spouse gave permission to present this case.**
-
----
 
 ## H&P
 
