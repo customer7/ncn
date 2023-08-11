@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T18:09:37.000-05:00","updated":"2023-06-02T16:06:11.685-05:00"}
+{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T16:09:37.000-07:00","updated":"2023-08-10T21:38:45.612-07:00"}
 ---
 
-
-## Consent
-
-**Patient's legal guardian, mother, gave permission to present this case**.
-
----
 
 ## H&P
 
