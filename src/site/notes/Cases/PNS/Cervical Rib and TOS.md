@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T20:36:27.000-05:00","updated":"2023-06-02T15:03:10.868-05:00"}
+{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T18:36:27.000-07:00","updated":"2023-08-10T21:38:56.735-07:00"}
 ---
 
-
-## Consent
-
-**Patient gave permission to present this case.**
-
----
 
 ## H&P
 
@@ -94,7 +88,7 @@ Bilateral cervical ribs seen on the plain X-ray film, right (yellow arrow) > lef
 
 ---
 
-![](https://i.imgur.com/DP58Daj.jpg)
+![](https://i.imgur.com/1Wv56nT.jpg)
 A vessel loop was used to isolate the upper, middle, and lower trunks, respectively.
 
 ---
