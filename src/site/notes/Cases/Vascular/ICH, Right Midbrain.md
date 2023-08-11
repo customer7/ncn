@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/ich-right-midbrain/","tags":["ICH","midbrain","todo"],"created":"2023-05-12T22:23:44.000-05:00","updated":"2023-06-02T17:05:35.682-05:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/ich-right-midbrain/","tags":["ICH","midbrain"],"created":"2023-05-12T20:23:44.000-07:00","updated":"2023-08-10T21:40:04.327-07:00"}
 ---
 
-
-## Consent
-
-**Patient gave permission to present this case.**
-
----
 
 ## H&P
 
