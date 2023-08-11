@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cases/spine/thoracic-epidural-lesion/","tags":["tumor/tsp"],"created":"2023-05-17T14:29:14.000-07:00","updated":"2023-06-29T22:20:09.195-07:00"}
+{"dg-publish":true,"permalink":"/cases/spine/thoracic-epidural-lesion/","tags":["tumor/tsp"],"created":"2023-05-17T14:29:14.000-07:00","updated":"2023-08-10T21:39:12.975-07:00"}
 ---
 
-
-## Consent
-
-**Patient gave permission to present this case.**
-
----
 
 ## H&P
 
