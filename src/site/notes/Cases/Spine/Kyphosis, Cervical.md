@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cases/spine/kyphosis-cervical/","tags":["spine/c","fusion","corpectomy"],"created":"2023-05-22T21:19:31.000-05:00","updated":"2023-06-02T16:37:32.715-05:00"}
+{"dg-publish":true,"permalink":"/cases/spine/kyphosis-cervical/","tags":["spine/c","fusion","corpectomy"],"created":"2023-05-22T19:19:31.000-07:00","updated":"2023-08-10T21:39:19.597-07:00"}
 ---
 
-
-## Consent
-
-**Patient gave permission to present this case.**
-
----
 
 ## H&P
 
