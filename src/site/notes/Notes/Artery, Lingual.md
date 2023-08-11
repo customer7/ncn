@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/artery-lingual/","tags":["anatomy","artery"],"created":"2023-08-10T21:23:19.427-07:00","updated":"2023-08-10T22:02:32.722-07:00"}
+{"dg-publish":true,"permalink":"/notes/artery-lingual/","tags":["anatomy","artery","vessel"],"created":"2023-08-10T21:23:19.427-07:00","updated":"2023-08-10T22:03:28.276-07:00"}
 ---
 
 
