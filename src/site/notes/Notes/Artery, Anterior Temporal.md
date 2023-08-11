@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/artery-anterior-temporal/","tags":["anatomy","vessel","artery"],"created":"2023-05-24T03:17:40.000-07:00","updated":"2023-08-10T22:03:11.004-07:00"}
+{"dg-publish":true,"permalink":"/notes/artery-anterior-temporal/","tags":["anatomy","vessel","artery"],"created":"2023-05-24T03:17:40.000-07:00","updated":"2023-08-10T22:08:34.015-07:00"}
 ---
 
 
@@ -13,5 +13,8 @@ The **anterior temporal artery** is usually a branch of the M1 segment of the **
 - Runs posteriorly over [[Lobe, Temporal\|temporal lobe]]
 - Supplies anterior superior/middle/inferior temporal gyri
 
+![](https://i.imgur.com/jD1Vegn.png)
+
 ## Cases
+
 - [[Cases/Endovascular/Occlusion, Acute Left M2#^\|Occlusion, Acute Left M2]]
