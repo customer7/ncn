@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","endo","coil","embolization","Pcom"],"created":"2023-04-24T21:29:35.000-05:00","updated":"2023-06-02T15:41:14.429-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","endo","coil","embolization","Pcom"],"created":"2023-04-24T19:29:35.000-07:00","updated":"2023-08-10T21:38:32.989-07:00"}
 ---
 
-
-## Consent
-
-**Patient gave permission to present this case.**
-
----
 
 ## H&P
 
