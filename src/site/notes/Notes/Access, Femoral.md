@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-femoral/","created":"2023-08-14T19:26:50.241-07:00","updated":"2023-08-14T20:36:23.284-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-femoral/","created":"2023-08-14T19:26:50.241-07:00","updated":"2023-08-14T20:37:14.673-07:00"}
 ---
 
 
 Even though radial access has been gaining its popularity recently, femoral access remains the most widely used access for cerebral angiography. 
 
 Knowing the patient's anatomy remains a key step to avoid complications.
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/nMsxB4L" data-context="false" ><a href="//imgur.com/a/nMsxB4L"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <iframe src="https://imgur.com/FvJP6PS.mp4" width="451" height="551"></iframe>
 
