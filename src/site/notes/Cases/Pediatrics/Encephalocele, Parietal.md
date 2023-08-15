@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T16:09:37.000-07:00","updated":"2023-08-10T21:38:45.612-07:00"}
+{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T16:09:37.000-07:00","updated":"2023-08-14T22:02:42.426-07:00"}
 ---
 
 
@@ -29,19 +29,19 @@
 
 ---
 
-CT head without contrast - Axial, coronal, and sagittal
+CT Head without Contrast - Axial, Coronal, and Sagittal
 ![](https://i.imgur.com/i5dih8l.png)
 
 ---
 
-CT head with contrast - Axial, coronal, and sagittal
+CT Head with Contrast - Axial, Coronal, and Sagittal
 ![](https://i.imgur.com/WA31IBw.png)
 - A vertically oriented primitive [[Notes/Sinus, Falcine\|falcine sinus]] extends from the posterior internal cerebral veins to the site of the calvarial defect. 
 - The straight sinus is relatively hypoplastic.
 
 ---
 
-CT head (bone window) - Axial, coronal, and sagittal
+CT Head (Bone Window) - Axial, Coronal, and Sagittal
 ![](https://i.imgur.com/fAXEVJv.png)
 
 ---
