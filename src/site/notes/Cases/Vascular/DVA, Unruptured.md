@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["DVA","DSA","ICH","endo"],"created":"2023-06-05T08:00:51.000-07:00","updated":"2023-08-10T21:39:41.529-07:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["DVA","DSA","ICH","endo"],"created":"2023-06-05T08:00:51.000-07:00","updated":"2023-08-14T22:04:12.166-07:00"}
 ---
 
 
@@ -22,7 +22,7 @@
 
 ---
 
-CT head w/o Contrast - Axial, Coronal, and Sagittal
+CT Head without Contrast - Axial, Coronal, and Sagittal
 ![](https://i.imgur.com/sZ8IL53.png)
 Left medial frontal lobe hypodensity, corresponding to the history of ICH 2 weeks ago.
 
@@ -33,18 +33,18 @@ Brain MRI - DWI/ADC/FLAIR/SWI
 
 ---
 
-Brain MRI - T1WI, T2WI, T1WI w/ Contrast
+Brain MRI - T1WI, T2WI, T1WI with Contrast
 ![](https://i.imgur.com/ZfiFdk8.png)
 
 ---
 
-Brain MRI - T2WI, T1WI w/ Contrast, SWI
+Brain MRI - T2WI, T1WI with Contrast, SWI
 ![](https://i.imgur.com/tiM3Sxo.png)
 A developmental venous anomaly is seen at the interhemispheric location, adjacent to the genu of the corpus callosum.
 
 ---
 
-Serial axial T2WI 
+Serial Axial T2WI 
 ![](https://i.imgur.com/kQUXGE4.png)
 The DVA appears to drain inferiorly into the internal cerebral vein.
 
