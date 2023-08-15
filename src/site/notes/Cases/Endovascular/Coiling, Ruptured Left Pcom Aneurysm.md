@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","endo","coil","embolization","Pcom"],"created":"2023-04-24T19:29:35.000-07:00","updated":"2023-08-10T21:38:32.989-07:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","endo","coil","embolization","Pcom"],"created":"2023-04-24T19:29:35.000-07:00","updated":"2023-08-14T22:01:49.823-07:00"}
 ---
 
 
@@ -20,12 +20,12 @@
 ## Imaging
 
 ---
-CT head without contrast - Axial and coronal
+CT Head without Contrast - Axial and Coronal
 ![](https://i.imgur.com/InTIrSj.png)
 Left posterior clinoid process hyperdensity (left). Trace intraventricular hemorrhage at right posterior horn (right).
 
 ---
-CTA head - Axial, coronal, and sagittal
+CTA Head - Axial, Coronal, and Sagittal
 ![](https://i.imgur.com/DQlphtJ.png)
 A left posterior communicating artery (Pcom) aneurysm is indicated on the CTA from outside hospital (not good quality, thick cuts).
 
@@ -46,67 +46,67 @@ A left posterior communicating artery (Pcom) aneurysm is indicated on the CTA fr
 
 ---
 
-DSA - Left ICA injection, PA and lateral
+DSA - Left ICA Injection, PA and Lateral
 ![](https://i.imgur.com/fDaGvLC.png)
 
 ---
 
-DSA - Magnified left ICA injection, PA and lateral
+DSA - Magnified Left ICA Injection, PA and Lateral
 ![](https://i.imgur.com/nFQScX3.png)
 
 ---
 
-DSA 3D reconstruction - Aneurysm measurements
+DSA 3D Reconstruction - Aneurysm Measurements
 ![](https://i.imgur.com/kT8d0hK.png)
 
 ---
 
-DSA 3D reconstruction - ICA measurements
+DSA 3D Reconstruction - ICA Measurements
 ![](https://i.imgur.com/VKwaco6.png)
 
 ---
 
-DSA - Embolization working angles, PA and lateral
+DSA - Embolization Working Angles, PA and Lateral
 ![](https://i.imgur.com/8yNO2O8.png)
 
 ---
 
-DSA - 1st coil in place
+DSA - 1st Coil in Place
 ![](https://i.imgur.com/kBhSHSO.png)
 
 ---
 
-DSA, Post-1st coil - Left ICA injection, PA and lateral
+DSA, Post-1st Coil - Left ICA Injection, PA and Lateral
 ![](https://i.imgur.com/ztkJg8t.png)
 
 ---
 
-DSA - 2nd coil in place
+DSA - 2nd Coil in Place
 ![](https://i.imgur.com/2SKxXt9.png)
 
 ---
 
-DSA, Post-2nd coil - Left ICA injection, PA and lateral
+DSA, Post-2nd Coil - Left ICA Injection, PA and Lateral
 ![](https://i.imgur.com/wwRdDsX.png)
 
 ---
 
-DSA - 3rd coil in place
+DSA - 3rd Coil in Place
 ![](https://i.imgur.com/fIc6QP1.png)
 
 ---
 
-DSA, Post-3rd coil - Left ICA injection, PA and lateral
+DSA, Post-3rd Coil - Left ICA Injection, PA and Lateral
 ![](https://i.imgur.com/oG6vORD.png)
 
 ---
 
-DSA, Post-Coil embolization - Left ICA injection, PA and lateral
+DSA, Post-Coil Embolization - Left ICA Injection, PA and Lateral
 ![](https://i.imgur.com/ZqgaVA7.png)
 
 ---
 
-Control DSA, Post-Coil embolization - Left ICA injection, PA and lateral
+Control DSA, Post-Coil Embolization - Left ICA Injection, PA and Lateral
 ![](https://i.imgur.com/rk7M9Nm.png)
 
 ---
