@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/line-kaplan-s-cardinal/","tags":["anatomy","hand"],"created":"2023-05-27T15:29:30.905-05:00","updated":"2023-05-27T18:14:01.095-05:00"}
+{"dg-publish":true,"permalink":"/notes/line-kaplan-s-cardinal/","tags":["anatomy","hand"],"created":"2023-05-27T13:29:30.000-07:00","updated":"2023-05-27T16:14:01.000-07:00"}
 ---
 
 
