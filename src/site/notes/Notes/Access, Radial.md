@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial/","created":"2023-08-14T21:43:13.790-07:00","updated":"2023-08-22T17:54:00.902-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial/","created":"2023-08-14T21:43:13.000-07:00","updated":"2023-08-26T15:10:23.637-07:00"}
 ---
 
 
@@ -16,8 +16,9 @@
 - Heparin dose can be adjusted depending on the purpose of the angiography
 
 ## Cases
-### One
 
+### One
+**Ultrasound-Guided Radial Artery Puncture**
 ![](https://i.imgur.com/3FvkGBB.png)
 A: Frequently, there is an accompanying vein (red arrow) running alongside the radial artery (yellow arrowhead). 
 B: Applying gentle pressure on the wrist will cause the vein to collapse, while the artery remains full with pulsations. Observe the slight "upward shift" of both the collapsed vein and the artery (closer to the skin).
