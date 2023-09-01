@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/artery-external-carotid/","tags":["anatomy","artery"],"created":"2023-09-01T12:23:14.259-07:00","updated":"2023-09-01T15:25:10.454-07:00"}
+{"dg-publish":true,"permalink":"/notes/artery-external-carotid/","tags":["anatomy","artery"],"created":"2023-09-01T12:23:14.259-07:00","updated":"2023-09-01T15:26:09.908-07:00"}
 ---
 
 
@@ -8,6 +8,8 @@ The **external carotid artery** (**ECA**) is one of the two branches of the [[Ar
 ---
 
 ## Cases
+
+---
 
 ### One
 
