@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T22:05:52.000-05:00","updated":"2023-06-08T17:25:50.911-05:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-01T15:19:05.538-07:00"}
 ---
 
 
@@ -16,6 +16,7 @@
 - **CTV** - computed tomography venography
 - **DM** - diabetes mellitus
 - **DOE** - dyspnea on exertion
+- **ECA** - external carotid artery
 - **ED** - emergency department
 - **EMG** - electromyography
 - **EtOH** - alcohol
@@ -24,6 +25,7 @@
 - **HLD** - hyperlipidemia
 - **H&P** - history and physical examination
 - **HTN** - hypertension
+- **ICA** - internal carotid artery
 - **ICH** - intracerebral hemorrhage
 - **IPH** - intraparenchymal hemorrhage
 - **LLE** - left lower extremity
