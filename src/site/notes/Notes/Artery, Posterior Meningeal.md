@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/artery-posterior-meningeal/","created":"2023-09-01T15:48:01.347-07:00","updated":"2023-09-01T15:57:09.648-07:00"}
+{"dg-publish":true,"permalink":"/notes/artery-posterior-meningeal/","created":"2023-09-01T15:48:01.347-07:00","updated":"2023-09-01T15:59:29.512-07:00"}
 ---
 
 
@@ -12,7 +12,11 @@ It may arise from the [[Artery, Ascending Pharyngeal\|ascending pharyngeal arter
 It may enter the [[Cranial Vault\|cranial vault]] through the [[Jugular Foramen\|jugular foramen]], [[Foramen Magnum\|foramen magnum]], or the [[Hypoglossal Canal\|hypoglossal canal]].
 
 ---
+
 ## Cases
+
+---
+
 ### One
 
 DSA - Right VA Injection (PA and Lateral)
