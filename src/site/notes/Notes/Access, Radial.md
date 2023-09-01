@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial/","tags":["anatomy","artery"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-09-01T16:25:41.196-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial/","tags":["anatomy","artery"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-09-01T16:37:43.892-07:00"}
 ---
 
 
@@ -16,12 +16,16 @@
 - Heparin dose can be adjusted depending on the purpose of the angiography
 
 ### Avoiding Complications
+
 - When injecting the anesthetics, make sure all the air in the syringe is purged out, as subcutaneous air could severely interfere with the ultrasound imaging and obscure the artery.
 - When injecting a spasmolytic cocktail into an awake patient, make sure to inform the patient and hold the patient's arm in place to prevent sudden movement of the arm due to discomfort.
+
+---
 
 ## Cases
 
 ### One
+
 **Ultrasound-Guided Radial Artery Puncture**
 ![](https://i.imgur.com/3FvkGBB.png)
 A: Frequently, there is an accompanying vein (red arrow) running alongside the radial artery (yellow arrowhead). 
