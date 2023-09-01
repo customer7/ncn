@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial/","created":"2023-08-14T21:43:13.000-07:00","updated":"2023-08-28T11:04:47.100-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial/","tags":["anatomy","artery"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-09-01T16:25:41.196-07:00"}
 ---
 
 
