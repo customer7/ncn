@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/artery-posterior-meningeal/","created":"2023-09-01T15:48:01.347-07:00","updated":"2023-09-01T15:59:29.512-07:00"}
+{"dg-publish":true,"permalink":"/notes/artery-posterior-meningeal/","created":"2023-09-01T15:48:01.347-07:00","updated":"2023-09-01T16:24:49.249-07:00"}
 ---
 
 
@@ -15,21 +15,13 @@ It may enter the [[Cranial Vault\|cranial vault]] through the [[Jugular Foramen\
 
 ## Cases
 
----
-
 ### One
 
-DSA - Right VA Injection (PA and Lateral)
+**DSA - Right VA Injection (PA and Lateral)**
 ![](https://i.imgur.com/13ca0YG.png)
 The posterior meningeal artery originates from the right [[Artery, Vertebral\|vertebral artery]] V3 segment.
- 
----
 
 ![](https://i.imgur.com/OmP4FEE.png)
 
----
-
 ![](https://i.imgur.com/TwQkx3l.png)
 The left image is a magnified view of the origin of the posterior meningeal artery.
-
----
