@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T15:11:12.000-07:00","updated":"2023-07-27T08:58:07.886-07:00"}
+{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T15:11:12.000-07:00","updated":"2023-09-01T16:26:24.661-07:00"}
 ---
 
 
@@ -14,3 +14,5 @@ The **Hunt and Hess scale**^[[Surgical risk as related to time of intervention i
 | 5     | Coma, ==decerebrate posturing==                                                                        |
 
 \* Extra one point is given for severe systemic disease or severe vasospasm on angiography. 
+
+
