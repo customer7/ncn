@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ct-iodine-subtraction/","tags":["CT","contrast"],"created":"2023-09-02T17:45:06.696-07:00","updated":"2023-09-02T18:07:44.170-07:00"}
+{"dg-publish":true,"permalink":"/notes/ct-iodine-subtraction/","tags":["CT","contrast","iodine"],"created":"2023-09-02T17:45:06.696-07:00","updated":"2023-09-02T18:28:31.597-07:00"}
 ---
 
-**Dual-energy CT** can be  for generating iodine subtraction imaging which is of tremendous utility in differentiating contrast vs blood.
+**Dual-energy CT** can be used to generate iodine subtraction imaging, which is of tremendous utility in differentiating blood from iodinated contrast.
 
 ## Cases
 
