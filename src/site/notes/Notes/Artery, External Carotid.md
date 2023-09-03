@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/artery-external-carotid/","tags":["anatomy","artery"],"created":"2023-09-01T12:23:14.259-07:00","updated":"2023-09-01T16:38:41.044-07:00"}
+{"dg-publish":true,"permalink":"/notes/artery-external-carotid/","tags":["anatomy","artery"],"created":"2023-09-01T12:23:14.259-07:00","updated":"2023-09-02T20:05:12.513-07:00"}
 ---
 
 
-The **external carotid artery** (**ECA**) is one of the two branches of the [[Artery, Common Carotid\|common carotid artery]]. It supplies the face and neck.
+The **external carotid artery** (**ECA**) is one of the two branches of the [[Artery, Common Carotid\|common carotid artery]] (CCA). It supplies the face and neck.
 
 ---
 
