@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-08-14T21:37:20.443-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-06T12:55:58.668-07:00"}
 ---
 
 
@@ -10,13 +10,6 @@ Inspired by websites [Wikipedia](https://www.wikipedia.org/), [Sci-Hub](https://
 Wanna share your own cases? [Contact us](mailto:contact@neurosurgerycases.com) and we can make it happen. :)
 
 Some of the imaging have watermarks on. If you are interested in getting a copy without watermarks, you can [contact us](mailto:contact@neurosurgerycases.com).
-
----
-
-Here are some links to start with:
-- [[Notes/Index, Abbreviations\|Abbreviations]]
-- [[Cases/Index, Cases\|Cases]]
-- [[Notes/Index, Notes\|Notes]]
 
 ---
 
