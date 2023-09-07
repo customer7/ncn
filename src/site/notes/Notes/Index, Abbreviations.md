@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-01T16:25:04.229-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-07T14:19:01.753-07:00"}
 ---
 
 
@@ -47,6 +47,7 @@
 - **RLE** - right lower extremity
 - **ROM** - range of motion
 - **RUE** - right upper extremity
+- **TCAR** - transcarotid artery revascularization
 - **TICI** - thrombolysis in cerebral infarction scale
 - **Tmax** - time to maximum
 - **TOS** - [[Notes/Syndrome, Thoracic Outlet\|thoracic outlet syndrome]]
