@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-09-07T22:55:40.641-07:00"}
+{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-09-07T23:03:35.582-07:00"}
 ---
 
 
@@ -65,7 +65,7 @@ Bilateral ACAs are displaced laterally due to the mass effect of the tumor.
 
 ---
 
-## Differentia Diagnosis
+## Differential Diagnosis
 
 - Epidermoid cyst
 - Dermoid cyst
