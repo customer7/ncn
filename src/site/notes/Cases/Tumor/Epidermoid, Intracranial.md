@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-09-07T23:05:10.632-07:00"}
+{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-09-07T23:05:40.647-07:00"}
 ---
 
 
@@ -118,7 +118,7 @@ There was a near total resection with some cavity border ischemic changes.
 - Epidermoid cyst
 - CD68: Focally positive  
 - GFAP: Focally positive  
-- 
+
 ---
 
 ## Discussion
