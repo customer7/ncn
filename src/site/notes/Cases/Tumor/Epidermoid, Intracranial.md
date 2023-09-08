@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-09-07T23:04:17.338-07:00"}
+{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-09-07T23:05:03.243-07:00"}
 ---
 
 
@@ -87,7 +87,7 @@ Bilateral ACAs are displaced laterally due to the mass effect of the tumor.
 - Interhemispheric dissection between the falx and the right frontal lobe
 - Separation of the tumor capsule from surrounding tissues
 - Debulking of the tumor with CUSA (mainly fatty tissues)
-- Left some capsule stuck to the norma brain
+- Left some capsule stuck to the normal brain
 - Copisous irrigation
 - Hemostasis
 - Dural closure
