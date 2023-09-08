@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-09-07T23:05:40.647-07:00"}
+{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-09-07T23:14:44.488-07:00"}
 ---
 
 
@@ -102,6 +102,10 @@ Bilateral ACAs are displaced laterally due to the mass effect of the tumor.
 - No new neurological deficits
 - Transferred to regular floor on POD1
 - Discharged home on POD2
+- Pathology
+	- Epidermoid cyst
+	- CD68: Focally positive  
+	- GFAP: Focally positive  
 
 ---
 
@@ -110,14 +114,6 @@ Bilateral ACAs are displaced laterally due to the mass effect of the tumor.
 Brain MRI - Axial DWI
 ![](https://i.imgur.com/CS9ZeDx.png)
 There was a near total resection with some cavity border ischemic changes.
-
----
-
-## Pathology
-
-- Epidermoid cyst
-- CD68: Focally positive  
-- GFAP: Focally positive  
 
 ---
 
