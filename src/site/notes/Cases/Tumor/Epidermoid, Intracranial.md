@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-09-07T23:03:35.582-07:00"}
+{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-09-07T23:04:17.338-07:00"}
 ---
 
 
@@ -83,7 +83,7 @@ Bilateral ACAs are displaced laterally due to the mass effect of the tumor.
 - Elevated for about 15° 
 - Bicoronal incision
 - Bifrontal craniotomy, more to the right
-- U-shape dura incision, based along the superior sagittal sinus
+- U-shape dural incision, based along the superior sagittal sinus
 - Interhemispheric dissection between the falx and the right frontal lobe
 - Separation of the tumor capsule from surrounding tissues
 - Debulking of the tumor with CUSA (mainly fatty tissues)
