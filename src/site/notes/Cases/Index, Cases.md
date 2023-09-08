@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T12:23:01.000-07:00","updated":"2023-08-14T21:58:05.427-07:00"}
+{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T12:23:01.000-07:00","updated":"2023-09-07T22:56:26.645-07:00"}
 ---
 
 
@@ -40,6 +40,10 @@ This "Cases" folder contains all the cases on this website and this "Index, Case
 ### Neoplasm
 
 - [[Cases/Spine/Thoracic Epidural Lesion\|Thoracic Epidural Lesion]]
+
+## Tumor
+
+- [[Cases/Tumor/Epidermoid, Intracranial\|Epidermoid, Intracranial]]
 
 ## Vascular
 
