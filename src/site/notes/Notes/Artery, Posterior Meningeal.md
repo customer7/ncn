@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/artery-posterior-meningeal/","tags":["artery","anatomy"],"created":"2023-09-01T15:48:01.347-07:00","updated":"2023-09-01T16:38:07.250-07:00"}
+{"dg-publish":true,"permalink":"/notes/artery-posterior-meningeal/","tags":["artery","anatomy"],"created":"2023-09-01T15:48:01.347-07:00","updated":"2023-09-10T21:23:40.977-07:00"}
 ---
 
 
@@ -15,7 +15,7 @@ It may enter the [[Cranial Vault\|cranial vault]] through the [[Jugular Foramen\
 
 ## Cases
 
-### One
+### 1
 
 DSA - Right VA Injection (PA and Lateral)
 ![](https://i.imgur.com/13ca0YG.png)
