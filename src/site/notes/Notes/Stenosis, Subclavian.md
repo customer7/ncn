@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/stenosis-subclavian/","tags":["artery","syndrome"],"created":"2023-08-19T22:20:35.617-07:00","updated":"2023-08-22T17:56:22.966-07:00"}
+{"dg-publish":true,"permalink":"/notes/stenosis-subclavian/","tags":["artery","syndrome"],"created":"2023-08-19T22:20:35.617-07:00","updated":"2023-09-10T21:24:00.702-07:00"}
 ---
 
 
@@ -7,7 +7,7 @@ Pre-vertebral subclavian artery stenosis/occlusion can cause subclavian artery s
 
 ## Cases
 
-### One
+### 1
 
 Patient was noticed to have discrepancy of the blood pressures on bilateral upper extremities. Intra-operative left subclavian artery and right vertebral artery angiographies revealed pre-vertebral occlusion of the left subclavian artery.
 
