@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/notes/radiation-optic/","tags":["anatomy","MRI","brain"],"created":"2023-08-21T11:39:32.776-07:00","updated":"2023-09-10T21:23:22.368-07:00"}
+{"dg-publish":true,"permalink":"/notes/radiation-optic/","tags":["anatomy","MRI","brain"],"created":"2023-08-21T11:39:32.776-07:00","updated":"2023-09-10T21:27:41.512-07:00"}
 ---
 
 
 The **optic radiation**, AKA **geniculocalcarine tract**, **geniculostriate pathway**, or **posterior thalamic radiation** connects the lateral geniculate nucleus to the primary visual cortex (occipital lobe).
+
+---
 
 ## Cases
 
