@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/radiation-optic/","tags":["anatomy","MRI","brain"],"created":"2023-08-21T11:39:32.776-07:00","updated":"2023-09-01T16:39:50.098-07:00"}
+{"dg-publish":true,"permalink":"/notes/radiation-optic/","tags":["anatomy","MRI","brain"],"created":"2023-08-21T11:39:32.776-07:00","updated":"2023-09-10T21:23:22.368-07:00"}
 ---
 
 
@@ -7,7 +7,7 @@ The **optic radiation**, AKA **geniculocalcarine tract**, **geniculostriate path
 
 ## Cases
 
-### One
+### 1
 
 Brain MRI without Contrast - T2WI
 ![](https://i.imgur.com/VN5JArx.png)
