@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial/","tags":["anatomy","artery"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-09-01T16:37:43.892-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial/","tags":["anatomy","artery"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-09-10T21:23:51.187-07:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 ## Cases
 
-### One
+### 1
 
 **Ultrasound-Guided Radial Artery Puncture**
 ![](https://i.imgur.com/3FvkGBB.png)
