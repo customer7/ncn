@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/notes/stenosis-subclavian/","tags":["artery","syndrome"],"created":"2023-08-19T22:20:35.617-07:00","updated":"2023-09-10T21:24:00.702-07:00"}
+{"dg-publish":true,"permalink":"/notes/stenosis-subclavian/","tags":["artery","syndrome"],"created":"2023-08-19T22:20:35.617-07:00","updated":"2023-09-10T21:28:44.340-07:00"}
 ---
 
 
 Pre-vertebral subclavian artery stenosis/occlusion can cause subclavian artery steal syndrome.
+
+---
 
 ## Cases
 
