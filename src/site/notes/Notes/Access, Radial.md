@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial/","tags":["anatomy","artery"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-09-10T21:23:51.187-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial/","tags":["anatomy","artery"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-09-11T13:56:29.289-07:00"}
 ---
 
 
@@ -28,5 +28,5 @@
 
 **Ultrasound-Guided Radial Artery Puncture**
 ![](https://i.imgur.com/3FvkGBB.png)
-A: Frequently, there is an accompanying vein (red arrow) running alongside the radial artery (yellow arrowhead). 
-B: Applying gentle pressure on the wrist will cause the vein to collapse, while the artery remains full with pulsations. Observe the slight "upward shift" of both the collapsed vein and the artery (closer to the skin).
+**A**: Frequently, there is an accompanying vein (red arrow) running alongside the radial artery (yellow arrowhead). 
+**B**: Applying gentle pressure on the wrist will cause the vein to collapse, while the artery remains full with pulsations. Observe the slight "upward shift" of both the collapsed vein and the artery (closer to the skin).
