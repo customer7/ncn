@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/notes/arteries-deep-temporal/","tags":["anatomy","artery","vessel"],"created":"2023-07-23T13:31:41.838-07:00","updated":"2023-07-23T14:09:55.988-07:00"}
+{"dg-publish":true,"permalink":"/notes/arteries-deep-temporal/","tags":["anatomy","artery","vessel"],"created":"2023-07-23T13:31:41.838-07:00","updated":"2023-09-10T21:24:21.685-07:00"}
 ---
 
 
 The **deep temporal arteries** are branches from the second part of the [[Artery, Maxillary\|maxillary artery]]. They ascend between the pericranium and the temporalis muscle.
 
-## Imaging
+## Cases
+
+### 1 
 
 A patient presented with left subdural hematoma and underwent Onyx embolization of the left [[Artery, Middle Meningeal\|middle meningeal artery]] (MMA). The deep temporal arteries are better seen after the MMA embolization.
 
