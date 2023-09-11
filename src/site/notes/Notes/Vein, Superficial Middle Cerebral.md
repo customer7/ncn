@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/vein-superficial-middle-cerebral/","tags":["anatomy","vein"],"created":"2023-07-23T21:22:25.000-07:00","updated":"2023-09-02T23:46:43.956-07:00"}
+{"dg-publish":true,"permalink":"/notes/vein-superficial-middle-cerebral/","tags":["anatomy","vein"],"created":"2023-07-23T21:22:25.000-07:00","updated":"2023-09-10T21:22:50.780-07:00"}
 ---
 
 
@@ -8,7 +8,7 @@ The **superficial middle cerebral vein** (**SMCV**), AKA **Sylvian vein**, corse
 ---
 
 ## Cases
-### One
+### 1
 
 A patient presented with right M2 occlusion. After mechanical thrombectomy, there were several early draining veins seen on DSA including the SMCV (arrows).
 
