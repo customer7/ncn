@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-femoral/","tags":["access"],"created":"2023-08-14T19:26:50.241-07:00","updated":"2023-09-11T13:53:18.434-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-femoral/","tags":["access"],"created":"2023-08-14T19:26:50.241-07:00","updated":"2023-09-13T19:53:45.403-07:00"}
 ---
 
 
-How to safely perform femoral arterial access is the first step of any transfemoral angiography ([[Notes/Access, Femoral#1\|Case 1]]). Pre-interventional imaging such as CTA/MRA are sometimes of tremendous help, however, knowing the patient's anatomy remains a key step to avoid complications ([[Notes/Access, Femoral#2\|Case 2]], [[Notes/Access, Femoral#3\|Case 3]]).
+How to safely perform femoral arterial access is the first step of any transfemoral angiography ([[Notes/Access, Femoral#1\|Case 1]], [[Notes/Access, Femoral#2\|Case 2]]). Pre-interventional imaging such as CTA/MRA are sometimes of tremendous help, however, knowing the patient's anatomy remains a key step to avoid complications ([[Notes/Access, Femoral#3\|Case 3]], [[Notes/Access, Femoral#4\|Case 4]]).
 
-Extensive atherosclerotic disease indicates a higher risk of stroke via transfemoral approach ([[Notes/Access, Femoral#4\|Case 4]]). According to the CREST study^[[Stenting versus Endarterectomy for Treatment of Carotid-Artery Stenosis | NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa0912321?logout=true)], compared with carotid endarterectomy, stroke was more likely after transfemoral carotid-artery stenting. TCAR bypasses the aortic arch and subclavian/CCA origins, and is branded to have a lower peri-operative stroke rate.
+Extensive atherosclerotic disease indicates a higher risk of stroke via transfemoral approach ([[Notes/Access, Femoral#5\|Case 5]]). According to the CREST study^[[Stenting versus Endarterectomy for Treatment of Carotid-Artery Stenosis | NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa0912321?logout=true)], compared with carotid endarterectomy, stroke was more likely after transfemoral carotid-artery stenting. TCAR bypasses the aortic arch and subclavian/CCA origins, and is branded to have a lower peri-operative stroke rate.
 
 ---
 
@@ -20,12 +20,19 @@ Extensive atherosclerotic disease indicates a higher risk of stroke via transfem
 
 ### 2
 
+![](https://i.imgur.com/kNB8Q6s.png)
+Ideally, the sheath entry site (black double-arrow) should be between the inferior epigastric artery (yellow arrow) and the common femoral artery bifurcation (red arrow) to lower the risks of retroperitoneal hematoma (too proximal) or pseudoaneurysm/AVF (too distal).^[[Cureus | Assessment of Femoral Artery Bifurcation Level with Conventional Angiography | Article](https://www.cureus.com/articles/15378-assessment-of-femoral-artery-bifurcation-level-with-conventional-angiography#!/)]
+
+---
+
+### 3
+
 ![](https://i.imgur.com/sZtKMpN.jpg)
 This patient has a history of a renal transplant. The right common femoral artery run cleared depicted two kidneys in the vicinity. As this is a known history, caution should be taken when advancing the wire under fluoroscopy or even roadmap to avoid injury to either of the renal arteries.
 
 ---
 
-### 3
+### 4
 
 ![](https://i.imgur.com/83tzk6M.png)
 
@@ -33,7 +40,7 @@ This patient developed diffuse intracranial vasospasm in the setting of subarach
 
 ---
 
-### 4
+### 5
 
 ![](https://i.imgur.com/AuhOYD5.png)
 Extensive atherosclerotic changes are seen on this 3D reconstruction of CTA neck imaging, especially at the aortic arch and major arterial origins. 
