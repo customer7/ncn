@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-06T12:55:58.668-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-13T21:22:36.961-07:00"}
 ---
 
 
@@ -13,7 +13,18 @@ Some of the imaging have watermarks on. If you are interested in getting a copy 
 
 ---
 
-***Disclaimer***
+**How do I use this website?**
+
+The main layout consists of three columns from left to right: website roadmap, main article, and webpage navigation.
+
+- _Website roadmap_: Contains folders and links to specific webpages.
+- _Main article_: Features interesting cases.
+- _Webpage navigation_: Facilitates bi-directional linking to different places and back.
+
+---
+
+**Disclaimer**
+
 Cases presented on this website are for educational and informational purposes only, and do not intend to substitute professional medical advice, diagnosis, or treatment. They are all in compliance with HIPPA and do not contain any patient information. The use of this website content does not establish any patient-client relationships. 
 
 Some of the content on this website is garnered from the internet. If there is a concern of copyright infringement, please don't hesitate to [contact us](mailto:contact@neurosurgerycases.com).
