@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-femoral/","tags":["access"],"created":"2023-08-14T19:26:50.241-07:00","updated":"2023-09-13T20:50:22.577-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-femoral/","tags":["access"],"created":"2023-08-14T19:26:50.241-07:00","updated":"2023-09-14T11:24:20.048-07:00"}
 ---
 
 
@@ -20,8 +20,9 @@ Extensive atherosclerotic disease indicates a higher risk of stroke via transfem
 
 ### 2
 
-![](https://i.imgur.com/kNB8Q6s.png)
-Ideally, the sheath entry site (black double-arrow) should be between the inferior epigastric artery (yellow arrow) and the common femoral artery bifurcation (red arrow) to lower the risks of retroperitoneal hematoma (too proximal) or pseudoaneurysm/AVF (too distal).^[[Cureus | Assessment of Femoral Artery Bifurcation Level with Conventional Angiography | Article](https://www.cureus.com/articles/15378-assessment-of-femoral-artery-bifurcation-level-with-conventional-angiography#!/)]
+![](https://i.imgur.com/FSTz6WE.png)
+
+Ideally, the sheath entry site (black double-arrow) should be between the origin of the inferior epigastric artery (yellow arrow) and the common femoral artery bifurcation (red arrow) to lower the risks of retroperitoneal hematoma (too proximal) or pseudoaneurysm/AVF (too distal).^[[Cureus | Assessment of Femoral Artery Bifurcation Level with Conventional Angiography | Article](https://www.cureus.com/articles/15378-assessment-of-femoral-artery-bifurcation-level-with-conventional-angiography#!/)]
 
 ---
 
@@ -48,4 +49,4 @@ This patient has a history of a renal transplant. The right common femoral arter
 
 ![](https://i.imgur.com/83tzk6M.png)
 
-This patient developed diffuse intracranial vasospasm in the setting of subarachnoid hemorrhage due to a ruptured aneurysm. (**A**): A 6F 11 cm flexible Arrow sheath^[[Super Arrow-Flex® Sheaths | US | Teleflex](https://www.teleflex.com/usa/en/product-areas/interventional/vascular-access-closure/super-arrow-flex-sheaths/)] was placed for repetitive intra-arterial vasodilation therapy, with its tip in the external iliac artery (yellow arrowhead). A severe stenotic segment (red arrow) was noticed at the CFA, impeding distal flow. (**B**): Gentle withdrawal of the sheath under fluoroscopy until the tip was distal to the stenosis improved distal flow of the CFA, preventing distal limb ischemia. The left-in sheath was then sutured to the skin and maintained on continuous drip. Black double-arrow: catheter entry site of the CFA.
+This patient developed diffuse intracranial vasospasm in the setting of subarachnoid hemorrhage due to a ruptured aneurysm. (**A**): A 6F 11 cm flexible Arrow sheath^[[Super Arrow-Flex® Sheaths | US | Teleflex](https://www.teleflex.com/usa/en/product-areas/interventional/vascular-access-closure/super-arrow-flex-sheaths/)] was placed for repetitive intra-arterial vasodilation therapy, with its tip in the external iliac artery (yellow arrowhead). A stenotic segment (red arrow) was noticed at the CFA, impeding distal flow. (**B**): Gentle withdrawal of the sheath under fluoroscopy until the tip was distal to the stenosis improved distal flow of the CFA, preventing distal limb ischemia. The left-in sheath was then sutured to the skin and maintained on continuous drip. Black double-arrow: catheter entry site of the CFA.
