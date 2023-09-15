@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-15T10:19:32.321-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-15T15:40:37.813-07:00"}
 ---
 
 
@@ -20,6 +20,8 @@ The main layout consists of three columns from left to right: site roadmap, arti
 - _Site roadmap_: Contains folders and links to specific pages.
 - _Article_: Features interesting cases.
 - _Page navigation_: Facilitates bi-directional linking to different places and back.
+
+If you are not sure about an abbreviation, [[Notes/Index, Abbreviations\|here]] is the reference.
 
 ---
 
