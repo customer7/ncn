@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-07T14:19:01.753-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-15T15:41:59.431-07:00"}
 ---
 
 
@@ -10,6 +10,7 @@
 - **BUE** - bilateral upper extremities
 - **CAD** - coronary artery disease
 - **CBF** - cerebral blood flow
+- **CCA** - common carotid artery
 - **CT** - computed tomography
 - **CTA** - computed tomography angiography
 - **CTP** - computed tomography perfusion
@@ -53,4 +54,5 @@
 - **TOS** - [[Notes/Syndrome, Thoracic Outlet\|thoracic outlet syndrome]]
 - **tPA** - tissue plasminogen activator
 - **TTF** - transfer/transferred to floor
+- **VA** - vertebral artery
 - **VOF** - venous output function
