@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T15:11:12.000-07:00","updated":"2023-09-15T16:43:09.482-07:00"}
+{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T15:11:12.000-07:00","updated":"2023-09-15T16:43:53.674-07:00"}
 ---
 
 
@@ -16,4 +16,4 @@ The **Hunt and Hess scale**^[[Surgical risk as related to time of intervention i
 \* Extra one point is given for severe systemic disease or severe vasospasm on angiography. 
 
 **Comments**
-When the Hunt and Hess scale is applied upon the patient's arrival to the hospital, it could be misleading. For example, a comatose patient with significant hydrocephalus could become a GCS 15 after the placement of an external ventricular drain.
+When the Hunt and Hess scale is applied upon the patient's arrival at the hospital, it could be misleading. For example, a comatose patient with significant hydrocephalus could become a GCS 15 after the placement of an external ventricular drain.
