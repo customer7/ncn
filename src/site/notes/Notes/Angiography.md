@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/angiography/","created":"2023-09-16T00:38:10.156-07:00","updated":"2023-09-16T00:45:28.437-07:00"}
+{"dg-publish":true,"permalink":"/notes/angiography/","created":"2023-09-16T00:38:10.156-07:00","updated":"2023-09-16T00:50:20.555-07:00"}
 ---
 
+Some random cases are parked here. They may be moved to a more appropriate page in the future.
 
 ## Cases
 
