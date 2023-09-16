@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-15T15:40:37.813-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-15T21:09:19.910-07:00"}
 ---
 
 
@@ -15,7 +15,7 @@ Some of the imaging have watermarks on. If you are interested in getting a copy 
 
 **How do I use this website?**
 
-The main layout consists of three columns from left to right: site roadmap, article, and page navigation.
+The main layout consists of three columns from left to right: site roadmap, article, and page navigation (at the bottom on mobile devices).
 
 - _Site roadmap_: Contains folders and links to specific pages.
 - _Article_: Features interesting cases.
