@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-15T15:41:59.431-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-16T01:33:28.109-07:00"}
 ---
 
 
@@ -41,6 +41,7 @@
 - **NIHSS** - Natioanl Institutes of Health stroke scale
 - **OSH** - outside hospital
 - **OT** - occupational therapy
+- **PA** - posteroanterior (view)
 - **PERRLA** - pupils equal, round, reactive to light and accomodation
 - **POD** - post-operative day
 - **PPD** - pack per day
