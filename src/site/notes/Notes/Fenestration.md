@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fenestration/","created":"2023-09-22T11:59:05.894-07:00","updated":"2023-09-23T12:26:52.959-07:00"}
+{"dg-publish":true,"permalink":"/notes/fenestration/","created":"2023-09-22T11:59:05.000-07:00","updated":"2023-09-23T16:16:35.346-07:00"}
 ---
 
 Originating in the early 19th century, "**Fenestra**," a Latin word for "window," is used to describe a hole in an anatomical structure.^[[Fenestra - Oxford Reference](https://www.oxfordreference.com/display/10.1093/acref/9780195392883.001.0001/m_en_us1246648?rskey=Z7D9Eg&result=1)]^[[Fenestra - Wikipedia](https://en.wikipedia.org/wiki/Fenestra)] Its derivative, "**fenestration**," meaning the surgical creation of such an opening, has, however, been more widely used to describe a natural luminal separation in an artery.
 
 Intracranial arterial fenestrations are reported to be more common at the anterior communicating arterial complex and basilar artery.^[[Cerebral Arterial Fenestrations - Daniel L. Cooke, Charles E. Stout, Warren T. Kim, Akash P. Kansagra, John Paul Yu, Amy Gu, Nicholas P. Jewell, Steven W. Hetts, Randall T. Higashida, Christopher F. Dowd, Van V. Halbach, 2014](https://journals.sagepub.com/doi/10.15274/INR-2014-10027)]
+
+---
 
 ## Cases
 
@@ -23,4 +25,4 @@ Diagnostic cerebral angiography confirmed a left V4 fenestration (**D**, **E**).
 ### 2
 
 ![](https://i.imgur.com/gmBzrzT.jpg)
-This patient presented with a ruptured left MCA aneurysm. There is an incidentally seen small basilar artery fenestration near the origin of the right AICA. The VAs are co-dominant, thus presenting an interesting contrast dilution pattern in the BA.
+This patient presented with a ruptured left MCA aneurysm. There is an incidentally found small basilar artery fenestration near the origin of the right AICA. The VAs are co-dominant, thus presenting the 
