@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-16T01:33:28.109-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-24T11:12:42.800-07:00"}
 ---
 
 
 - "**+**" - positive
 - "**-**" - negative
 - **AIF** - arterial input function
+- **BA** - basilar artery
 - **BLE** - bilateral lower extremities
 - **BUE** - bilateral upper extremities
 - **CAD** - coronary artery disease
