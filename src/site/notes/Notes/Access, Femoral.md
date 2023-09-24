@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-femoral/","tags":["access"],"created":"2023-08-14T19:26:50.241-07:00","updated":"2023-09-14T11:24:20.048-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-femoral/","tags":["access"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-09-23T18:31:06.819-07:00"}
 ---
 
 
@@ -41,7 +41,7 @@ Extensive atherosclerotic changes are seen on this 3D reconstruction of CTA neck
 ### 4
 
 ![](https://i.imgur.com/sZtKMpN.jpg)
-This patient has a history of a renal transplant. The right common femoral artery run cleared depicted two kidneys in the vicinity. As this is a known history, caution should be taken when advancing the wire under fluoroscopy or even roadmap to avoid injury to either of the renal arteries.
+This patient has a history of a renal transplant. The right common femoral artery run clearly depicted two kidneys in the vicinity. As this is a known history, caution should be taken when advancing the wire under fluoroscopy or even roadmap to avoid injury to either of the renal arteries.
 
 ---
 
