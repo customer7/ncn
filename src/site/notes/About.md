@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/about/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-09-25T09:03:44.827-07:00"}
+{"dg-publish":true,"permalink":"/about/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-09-25T09:05:59.632-07:00"}
 ---
 
+<!DOCTYPE html>
 <html>
 <head>
     <title>Comment Section</title>
 </head>
 <body>
+    <h1>Post Title</h1>
+    <p>This is the content of the post.</p>
 
     <!-- Comment Section -->
     <h2>Comments</h2>
