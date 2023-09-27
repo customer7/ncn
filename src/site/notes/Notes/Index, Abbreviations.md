@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-24T11:12:42.800-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-26T17:12:16.989-07:00"}
 ---
 
 
@@ -22,6 +22,7 @@
 - **ED** - emergency department
 - **EMG** - electromyography
 - **EtOH** - alcohol
+- **ETT** - endotracheal tube
 - **GCS** - Glasgow coma scale
 - **HD** - hospital day
 - **HLD** - hyperlipidemia
@@ -39,6 +40,7 @@
 - **MT** - mechanical thrombectomy
 - **mTICI** - modified treatment in cerebral ischemia score
 - **NCS** - nerve conduction study
+- **NGT** - nasogastric tube
 - **NIHSS** - Natioanl Institutes of Health stroke scale
 - **OSH** - outside hospital
 - **OT** - occupational therapy
