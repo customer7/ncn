@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/score-rcvs-2/","tags":["score","grading"],"created":"2023-05-12T08:28:27.000-05:00","updated":"2023-05-23T19:25:05.000-05:00"}
+{"dg-publish":true,"permalink":"/notes/score-rcvs-2/","tags":["score","grading"],"created":"2023-05-12T06:28:27.000-07:00","updated":"2023-09-27T14:11:47.858-07:00"}
 ---
 
 
-The **RCVS<sub>2</sub>** score can be utilized to distinguish [[Syndrome, Reversible Cerebral Vasoconstriction\|reversible cerebral vasoconstriction syndrome]] from other intracranial arteriopathies at admission.^[[RCVS2 score and diagnostic approach for reversible cerebral vasoconstriction syndrome - PubMed](https://pubmed.ncbi.nlm.nih.gov/30635475/)]
+The **RCVS<sub>2</sub>** score can be utilized to distinguish [[Notes/Syndrome, Reversible Cerebral Vasoconstriction\|reversible cerebral vasoconstriction syndrome]] from other intracranial arteriopathies at admission.^[[RCVS2 score and diagnostic approach for reversible cerebral vasoconstriction syndrome - PubMed](https://pubmed.ncbi.nlm.nih.gov/30635475/)]
 
 ## Scoring System
 
