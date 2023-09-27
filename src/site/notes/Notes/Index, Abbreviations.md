@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-26T17:25:47.226-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-27T12:09:32.442-07:00"}
 ---
 
 
@@ -20,6 +20,7 @@
 - **CTV** - computed tomography venography
 - **DM** - diabetes mellitus
 - **DOE** - dyspnea on exertion
+- **DSA** - digital subtraction angiography
 - **ECA** - external carotid artery
 - **ED** - emergency department
 - **EMG** - electromyography
