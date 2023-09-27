@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-27T14:40:42.312-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-27T14:47:06.243-07:00"}
 ---
 
 
@@ -23,7 +23,7 @@ The main layout consists of three columns from left to right: site roadmap, arti
 
 If you are not sure about an abbreviation, [[Notes/Index, Abbreviations\|here]] is the reference.
 
-**What if the imaging is too small to see the details.**
+**What if the imagines are too small to discern the details?**
 
 All the images are stored as PNG^[[PNG - Wikipedia](https://en.wikipedia.org/wiki/PNG)] and can be magnified without losing the pixels.
 
