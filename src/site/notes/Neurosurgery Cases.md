@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-27T14:33:14.783-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-27T14:40:42.312-07:00"}
 ---
 
 
@@ -25,7 +25,7 @@ If you are not sure about an abbreviation, [[Notes/Index, Abbreviations\|here]] 
 
 **What if the imaging is too small to see the details.**
 
-All the images are stored as PNG and can be magnified without losing the pixels.
+All the images are stored as PNG^[[PNG - Wikipedia](https://en.wikipedia.org/wiki/PNG)] and can be magnified without losing the pixels.
 
 ---
 
