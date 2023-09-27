@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-26T17:12:16.989-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-26T17:25:47.226-07:00"}
 ---
 
 
@@ -12,6 +12,8 @@
 - **CAD** - coronary artery disease
 - **CBF** - cerebral blood flow
 - **CCA** - common carotid artery
+- **CFA** - common femoral artery
+- **CFV** - common femoral vein
 - **CT** - computed tomography
 - **CTA** - computed tomography angiography
 - **CTP** - computed tomography perfusion
