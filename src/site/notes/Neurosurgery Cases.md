@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-27T14:47:06.243-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-27T14:49:39.618-07:00"}
 ---
 
+## Introduction
 
 Welcome to ***Neurosurgery Cases***.
 
@@ -13,7 +14,9 @@ Some of the imaging have watermarks on. If you are interested in getting a copy 
 
 ---
 
-**How do I use this website?**
+## Q&As
+
+### **How do I use this website?**
 
 The main layout consists of three columns from left to right: site roadmap, article, and page navigation (at the bottom on mobile devices).
 
@@ -21,15 +24,17 @@ The main layout consists of three columns from left to right: site roadmap, arti
 - _Article_: Features interesting cases.
 - _Page navigation_: Facilitates bi-directional linking to different places and back.
 
-If you are not sure about an abbreviation, [[Notes/Index, Abbreviations\|here]] is the reference.
-
-**What if the imagines are too small to discern the details?**
+### **What if the imagines are too small to discern the details?**
 
 All the images are stored as PNG^[[PNG - Wikipedia](https://en.wikipedia.org/wiki/PNG)] and can be magnified without losing the pixels.
 
+### **What does the abbreviation stand for?**
+
+If you are not sure about an abbreviation, [[Notes/Index, Abbreviations\|here]] is the reference.
+
 ---
 
-**Disclaimer**
+## Disclaimer
 
 Cases presented on this website are for educational and informational purposes only, and do not intend to substitute professional medical advice, diagnosis, or treatment. They are all in compliance with HIPPA and do not contain any patient information. The use of this website content does not establish any patient-client relationships. 
 
