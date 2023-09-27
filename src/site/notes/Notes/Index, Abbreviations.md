@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-27T12:09:32.442-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-27T14:34:33.714-07:00"}
 ---
 
 
 - "**+**" - positive
 - "**-**" - negative
 - **AIF** - arterial input function
+- **AKA** - also known as
 - **BA** - basilar artery
 - **BLE** - bilateral lower extremities
 - **BUE** - bilateral upper extremities
