@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-femoral/","tags":["access"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-09-23T18:31:06.819-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-femoral/","tags":["access"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-09-26T17:30:31.521-07:00"}
 ---
 
 
-How to safely perform femoral arterial access is the first step of any transfemoral angiography ([[Notes/Access, Femoral#1\|Case 1]], [[Notes/Access, Femoral#2\|Case 2]]). In patients with difficult anatomies, bedside ultrasound can be utilized for the guidance of the puncture ([[Notes/Access, Femoral#3\|Case 3]]). Pre-interventional imaging such as CTA/MRA are sometimes of tremendous help, however, knowing the patient's anatomy remains a key step to avoid complications ([[Notes/Access, Femoral#4\|Case 4]], [[Notes/Access, Femoral#5\|Case 5]]).
+How to safely perform femoral arterial access is the first step of any transfemoral angiography ([[Notes/Access, Femoral#1\|Case 1]], [[Notes/Access, Femoral#2\|Case 2]]). In patients with challenging anatomies, such as low blood pressure or obesity, bedside ultrasound can be utilized to guide the puncture ([[Notes/Access, Femoral#3\|Case 3]], [[Notes/Access, Femoral#4\|Case 4]]). Pre-interventional imaging such as CTA/MRA are sometimes of tremendous help, however, knowing the patient's anatomy remains a key step to avoid complications ([[Notes/Access, Femoral#5\|Case 5]], [[Notes/Access, Femoral#6\|Case 6]]).
 
 Extensive atherosclerotic disease indicates a higher risk of stroke via transfemoral approach ([[Notes/Access, Femoral#3\|Case 3]]). According to the CREST study^[[Stenting versus Endarterectomy for Treatment of Carotid-Artery Stenosis | NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa0912321?logout=true)], compared with carotid endarterectomy, stroke was more likely after transfemoral carotid-artery stenting. TCAR bypasses the aortic arch and subclavian/CCA origins, and is branded to have a lower peri-operative stroke rate.
 
@@ -14,7 +14,7 @@ Extensive atherosclerotic disease indicates a higher risk of stroke via transfem
 ### 1
 
 ![](https://i.imgur.com/ID9QMXd.png)
-(**A**): This patient has a venous access catheter (black arrow) in the right common femoral vein, which travels towards the heart to the right of the spine. The arterial puncture site is lateral to this venous catheter, and the 0.021'' microwire (yellow arrowheads) from the micropuncture kit travels from the lateral side to the medial side of the venous catheter and then crosses the midline to the left of the spine, indicating arterial access. (**B**): DSA showed that the arterial puncture site is in the common femoral artery, above the bifurcation (red double arrow).
+(**A**): This patient has a venous access catheter (black arrow) in the right common femoral vein (CFV), which travels towards the heart to the right of the spine. The arterial puncture site is lateral to this venous catheter, and the 0.021'' microwire (yellow arrowheads) from the micropuncture kit travels from the lateral side to the medial side of the venous catheter and then crosses the midline to the left of the spine, indicating arterial access. (**B**): DSA showed that the arterial puncture site is in the common femoral artery (CFA), above the bifurcation (red double arrow).
 
 ---
 
@@ -40,12 +40,19 @@ Extensive atherosclerotic changes are seen on this 3D reconstruction of CTA neck
 
 ### 4
 
-![](https://i.imgur.com/sZtKMpN.jpg)
-This patient has a history of a renal transplant. The right common femoral artery run clearly depicted two kidneys in the vicinity. As this is a known history, caution should be taken when advancing the wire under fluoroscopy or even roadmap to avoid injury to either of the renal arteries.
+![](https://i.imgur.com/6uV5fax.jpg)
+Two pulsating arteries (red stars) on the ultrasound imaging indicate a level below the CFA bifurcation. Aiming the probe more rostrally will reveal the merging of the two arteries into the CFA (red diamond). The puncture site should be rostral to the bifurcation. Blue circle: CFV.
 
 ---
 
 ### 5
+
+![](https://i.imgur.com/sZtKMpN.jpg)
+This patient has a history of a renal transplant. The right common femoral artery run cleared depicted two kidneys in the vicinity. As this is a known history, caution should be taken when advancing the wire under fluoroscopy or even roadmap to avoid injury to either of the renal arteries.
+
+---
+
+### 6
 
 ![](https://i.imgur.com/83tzk6M.png)
 
