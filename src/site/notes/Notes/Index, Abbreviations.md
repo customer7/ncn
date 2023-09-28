@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-27T17:28:11.980-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-28T14:11:06.616-07:00"}
 ---
 
 
 - "**+**" - positive
 - "**-**" - negative
+- **ACA** - anterior cerebral artery
+- **ACOM** - anterior communicating artery
+- **AICA** - anterior inferior cerebellar artery
 - **AIF** - arterial input function
 - **AKA** - also known as
 - **BA** - basilar artery
@@ -39,6 +42,7 @@
 - **LLE** - left lower extremity
 - **LUE** - left upper extremity
 - **LVO** - large vessel occlusion
+- **MCA** - middle cerebral artery
 - **MRA** - magnetic resonance angiography
 - **MRI** - magnetic resonance imaging
 - **MRV** - magnetic resonance venography
@@ -50,13 +54,17 @@
 - **OSH** - outside hospital
 - **OT** - occupational therapy
 - **PA** - posteroanterior (view)
-- **PERRLA** - pupils equal, round, reactive to light and accomodation
+- **PCA** - posterior cerebral artery
+- **PCOM** - posterior communicating artery
+- **PERRLA** - pupils equal, round, reactive to light and accommodation
+- **PICA** - posterior inferior cerebellar artery
 - **POD** - post-operative day
 - **PPD** - pack per day
 - **PT** - physical therapy
 - **RLE** - right lower extremity
 - **ROM** - range of motion
 - **RUE** - right upper extremity
+- **SCA** - superior cerebellar artery
 - **TCAR** - transcarotid artery revascularization
 - **TICI** - thrombolysis in cerebral infarction scale
 - **Tmax** - time to maximum
