@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-27T14:34:33.714-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-27T17:28:11.980-07:00"}
 ---
 
 
@@ -15,6 +15,7 @@
 - **CCA** - common carotid artery
 - **CFA** - common femoral artery
 - **CFV** - common femoral vein
+- **CoW** - circle of Willis
 - **CT** - computed tomography
 - **CTA** - computed tomography angiography
 - **CTP** - computed tomography perfusion
