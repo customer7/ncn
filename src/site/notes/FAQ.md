@@ -1,8 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-09-28T18:26:35.441-07:00"}
+{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-09-29T12:37:10.074-07:00"}
 ---
 
-## **How do I use this website?**
+
+# Frequently Asked Questions
+
+If you can't find an answer that you're looking for, feel free to contact us at [contact@neurosurgerycases.com](mailto:contact@neurosurgerycases.com).
+
+---
+
+## How do I use this website?
 
 The main layout consists of three columns from left to right: site roadmap, article, and page navigation (at the bottom on mobile devices).
 
@@ -12,12 +19,31 @@ The main layout consists of three columns from left to right: site roadmap, arti
 
 ---
 
-## **What if the imagines are too small to discern the details?**
+## What if the imagines are too small to discern the details?
 
 All the images are stored as PNG^[[PNG - Wikipedia](https://en.wikipedia.org/wiki/PNG)] and can be magnified without losing the pixels.
 
 ---
 
-## **What does the abbreviation stand for?**
+## I am a teacher and I'd like to use the images for my class.
+
+Please feel free to use any of the images online for noncommercial purposes. 
+Some of the images have watermarks on. If you are interested in getting a copy without watermarks, you can contact us at [contact@neurosurgerycases.com](mailto:contact@neurosurgerycases.com).
+
+---
+
+## What does the abbreviation stand for?
 
 If you are not sure about an abbreviation, [[Notes/Index, Abbreviations\|here]] is the reference.
+
+---
+
+## I have a cool case that I want to share too.
+
+Wanna share your own cases? Contact us at [contact@neurosurgerycases.com](mailto:contact@neurosurgerycases.com) and we can make it happen. :)
+
+---
+
+## I really love this website and would love to donate.
+
+We truly appreciate your kindness and generosity. p
