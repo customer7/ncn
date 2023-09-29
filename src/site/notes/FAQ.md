@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-09-29T12:37:10.074-07:00"}
+{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-09-29T12:43:02.048-07:00"}
 ---
 
 
@@ -28,7 +28,7 @@ All the images are stored as PNG^[[PNG - Wikipedia](https://en.wikipedia.org/wik
 ## I am a teacher and I'd like to use the images for my class.
 
 Please feel free to use any of the images online for noncommercial purposes. 
-Some of the images have watermarks on. If you are interested in getting a copy without watermarks, you can contact us at [contact@neurosurgerycases.com](mailto:contact@neurosurgerycases.com).
+Some of the images have watermarks on. If you are interested in getting a copy without watermarks, you can contact us [here](mailto:contact@neurosurgerycases.com).
 
 ---
 
@@ -40,10 +40,10 @@ If you are not sure about an abbreviation, [[Notes/Index, Abbreviations\|here]] 
 
 ## I have a cool case that I want to share too.
 
-Wanna share your own cases? Contact us at [contact@neurosurgerycases.com](mailto:contact@neurosurgerycases.com) and we can make it happen. :)
+Wanna share your own cases? Contact us [here](mailto:contact@neurosurgerycases.com) and we can make it happen. :)
 
 ---
 
 ## I really love this website and would love to donate.
 
-We truly appreciate your kindness and generosity. p
+We truly appreciate your kindness and generosity. 
