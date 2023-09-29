@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-29T12:36:45.697-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-29T12:39:14.837-07:00"}
 ---
 
-[[FAQ\|FAQ]]
 
 ## Introduction
 
@@ -11,6 +10,8 @@ Welcome to ***Neurosurgery Cases***.
 Inspired by websites [Wikipedia](https://www.wikipedia.org/), [Sci-Hub](https://www.sci-hub.st/), [Radiopaedia](https://radiopaedia.org/), and [Neuroangio](http://neuroangio.org/), etc., we aspire to create one based on [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management) (PKM) tool [Obsidian](https://obsidian.md/) and plug-in [Obsidian Digital Garden](https://dg-docs.ole.dev/). 
 
 Here, we share interesting neurosurgery cases.
+
+If you have any questions, please visit the [[FAQ\|FAQ]] page.
 
 ---
 
@@ -21,3 +22,5 @@ Cases presented on this website are for educational and informational purposes o
 Some of the content on this website is garnered from the internet. If there is a concern of copyright infringement, please don't hesitate to [contact us](mailto:contact@neurosurgerycases.com).
 
 You can read the full disclaimer [[Disclaimer\|here]].
+
+---
