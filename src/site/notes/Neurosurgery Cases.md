@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-30T09:30:15.282-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-09-30T09:39:19.533-07:00"}
 ---
 
 ## Introduction
@@ -21,7 +21,3 @@ Cases presented on this website are for educational and informational purposes o
 Some of the content on this website is garnered from the internet. If there is a concern of copyright infringement, please don't hesitate to [contact us](mailto:contact@neurosurgerycases.com).
 
 You can read the full disclaimer [[Disclaimer\|here]].
-
----
-
-![](https://i.imgur.com/e8V4NQt.jpg)
