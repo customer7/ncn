@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-09-30T13:30:41.260-07:00"}
+{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-01T09:30:39.031-07:00"}
 ---
 
 
@@ -44,7 +44,7 @@ Wanna share your own cases? Contact us [here](mailto:contact@neurosurgerycases.c
 
 ---
 
-## - I really love this website and would love to donate.
+## - I really enjoy this website and would love to donate.
 
 We truly appreciate your kindness and generosity. We are coffee lovers. :)
 
