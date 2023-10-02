@@ -1,15 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/blog/","created":"2023-09-30T09:39:35.934-07:00","updated":"2023-09-30T11:03:55.260-07:00"}
+{"dg-publish":true,"permalink":"/blog/","created":"2023-09-30T09:39:35.934-07:00","updated":"2023-10-01T20:35:40.791-07:00"}
 ---
 
 
 ## 09/30/2023
 
 We created our first website icon:
-![](https://i.imgur.com/e8V4NQt.jpg)
+![|365](https://i.imgur.com/e8V4NQt.jpg)
 
 ---
 
 ## 05/10/2023
 
-Registered neurosurgerycases.com
+We registered neurosurgerycases.com.
+
+---
+
+## April, 2023
+
+The concept of building up a website sharing interesting neurosurgery cases came into form. 
+
+---
+
+## Before It All Began...
+
+... was the rollercoaster neurosurgery residency training experience.
