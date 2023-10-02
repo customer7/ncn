@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-09-28T14:11:06.616-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-02T14:31:46.656-07:00"}
 ---
 
 
@@ -39,6 +39,7 @@
 - **ICA** - internal carotid artery
 - **ICH** - intracerebral hemorrhage
 - **IPH** - intraparenchymal hemorrhage
+- **LAO** - left anterior oblique
 - **LLE** - left lower extremity
 - **LUE** - left upper extremity
 - **LVO** - large vessel occlusion
@@ -61,6 +62,7 @@
 - **POD** - post-operative day
 - **PPD** - pack per day
 - **PT** - physical therapy
+- **RAO** - right anterior oblique
 - **RLE** - right lower extremity
 - **ROM** - range of motion
 - **RUE** - right upper extremity
