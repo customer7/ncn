@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-10-01T20:46:49.545-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-10-02T14:23:39.412-07:00"}
 ---
 
->People with passion can change the world.
-\- Steve Jobs, 1955-2011
+<div align="right">
+"People with passion can change the world."<br>
+- Steve Jobs, 1955-2011
+</div>
 
 ---
 ## Introduction
