@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/","created":"2023-09-30T09:39:35.934-07:00","updated":"2023-10-01T20:35:40.791-07:00"}
+{"dg-publish":true,"permalink":"/blog/","created":"2023-09-30T09:39:35.934-07:00","updated":"2023-10-02T14:20:50.095-07:00"}
 ---
 
 
@@ -24,4 +24,4 @@ The concept of building up a website sharing interesting neurosurgery cases came
 
 ## Before It All Began...
 
-... was the rollercoaster neurosurgery residency training experience.
+...was the rollercoaster neurosurgery residency training experience.
