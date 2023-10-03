@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-10-02T14:23:39.412-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-10-02T21:08:36.658-07:00"}
 ---
 
 <div align="right">
@@ -8,6 +8,7 @@
 </div>
 
 ---
+
 ## Introduction
 
 Welcome to ***Neurosurgery Cases***. Here, we share interesting neurosurgery cases.
