@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-simmons/","created":"2023-10-02T20:02:30.306-07:00","updated":"2023-10-04T12:12:55.968-07:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-simmons/","created":"2023-10-02T20:02:30.306-07:00","updated":"2023-10-04T12:16:17.048-07:00"}
 ---
 
-The **Simmons catheter** is a group of reverse-curve selective catheters widely used in the [[Notes/Access, Radial\|radial access]] approach for selecting target arteries. In most cases, the catheter must be shaped into its intended configuration ([[Notes/Catheter, Simmons#1\|Case 1]], [[Notes/Catheter, Simmons#2\|Case 2]]) before it can be used to select the target artery. The catheter features three curves.^[[Simmons catheter | Radiology Reference Article | Radiopaedia.org](https://radiopaedia.org/articles/simmons-catheter?lang=us)] 
+The **Simmons catheter** is a group of reverse-curve selective catheters widely used in the [[Notes/Access, Radial Artery\|radial access]] approach for selecting target arteries. In most cases, the catheter must be shaped into its intended configuration ([[Notes/Catheter, Simmons#1\|Case 1]], [[Notes/Catheter, Simmons#2\|Case 2]]) before it can be used to select the target artery. The catheter features three curves.^[[Simmons catheter | Radiology Reference Article | Radiopaedia.org](https://radiopaedia.org/articles/simmons-catheter?lang=us)] 
 
 ---
 
