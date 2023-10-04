@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-femoral-artery/","tags":["access"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-10-04T12:16:34.392-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-femoral-artery/","tags":["access"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-10-04T12:28:55.227-07:00"}
 ---
 
 
@@ -14,7 +14,8 @@ Extensive atherosclerotic disease indicates a higher risk of stroke via transfem
 ### 1
 
 ![](https://i.imgur.com/ID9QMXd.png)
-(**A**): This patient has a venous access catheter (black arrow) in the right common femoral vein (CFV), which travels towards the heart to the right of the spine. The arterial puncture site is lateral to this venous catheter, and the 0.021'' microwire (yellow arrowheads) from the micropuncture kit travels from the lateral side to the medial side of the venous catheter and then crosses the midline to the left of the spine, indicating arterial access. (**B**): DSA showed that the arterial puncture site is in the common femoral artery (CFA), above the bifurcation (red double arrow).
+(**A**): This patient has a venous access catheter (black arrow) in the right common femoral vein (CFV), which travels towards the heart to the right of the spine. The arterial puncture site is lateral to this venous catheter, and the 0.021'' microwire (yellow arrowheads) from the micropuncture kit travels from the lateral side to the medial side of the venous catheter and then crosses the midline to the left of the spine, indicating arterial access. 
+(**B**): DSA showed that the arterial puncture site is in the common femoral artery (CFA), above the bifurcation (red double arrow).
 
 ---
 
@@ -56,7 +57,9 @@ This patient has a history of a renal transplant. The right common femoral arter
 
 ![](https://i.imgur.com/83tzk6M.png)
 
-This patient developed diffuse intracranial vasospasm in the setting of subarachnoid hemorrhage due to a ruptured aneurysm. (**A**): A 6F 11 cm flexible Arrow sheath^[[Super Arrow-Flex® Sheaths | US | Teleflex](https://www.teleflex.com/usa/en/product-areas/interventional/vascular-access-closure/super-arrow-flex-sheaths/)] was placed for repetitive intra-arterial vasodilation therapy, with its tip in the external iliac artery (yellow arrowhead). A stenotic segment (red arrow) was noticed at the CFA, impeding distal flow. (**B**): Gentle withdrawal of the sheath under fluoroscopy until the tip was distal to the stenosis improved distal flow of the CFA, preventing distal limb ischemia. The left-in sheath was then sutured to the skin and maintained on continuous drip. Black double-arrow: catheter entry site of the CFA.
+This patient developed diffuse intracranial vasospasm in the setting of subarachnoid hemorrhage due to a ruptured aneurysm. 
+(**A**): A 6F 11 cm flexible Arrow sheath^[[Super Arrow-Flex® Sheaths | US | Teleflex](https://www.teleflex.com/usa/en/product-areas/interventional/vascular-access-closure/super-arrow-flex-sheaths/)] was placed for repetitive intra-arterial vasodilation therapy, with its tip in the external iliac artery (yellow arrowhead). A stenotic segment (red arrow) was noticed at the CFA, impeding distal flow. 
+(**B**): Gentle withdrawal of the sheath under fluoroscopy until the tip was distal to the stenosis improved distal flow of the CFA, preventing distal limb ischemia. The left-in sheath was then sutured to the skin and maintained on continuous drip. Black double-arrow: catheter entry site of the CFA.
 
 ---
 
