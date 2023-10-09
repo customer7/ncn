@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-04T10:56:31.615-07:00"}
+{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-08T20:20:25.923-07:00"}
 ---
 
 
@@ -21,7 +21,7 @@ The main layout consists of three columns from left to right: site roadmap, arti
 
 ## - What if the images are too small to discern the details?
 
-All the images are stored as PNG^[[PNG - Wikipedia](https://en.wikipedia.org/wiki/PNG)] and can be magnified without losing the pixels.
+All the images were uploaded as PNG^[[PNG - Wikipedia](https://en.wikipedia.org/wiki/PNG)] and are intended to be magnified without losing the pixels. If they were converted to JPG and couldn't be seen well when zoomed in, please feel free to contact us [here](mailto:contact@neurosurgerycases.com).
 
 ---
 
