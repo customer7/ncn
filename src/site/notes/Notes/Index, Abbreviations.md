@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-02T14:31:46.656-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-08T20:13:13.859-07:00"}
 ---
 
 
@@ -26,6 +26,7 @@
 - **DM** - diabetes mellitus
 - **DOE** - dyspnea on exertion
 - **DSA** - digital subtraction angiography
+- **EC-IC** - external carotid (artery)-internal carotid (artery)
 - **ECA** - external carotid artery
 - **ED** - emergency department
 - **EMG** - electromyography
