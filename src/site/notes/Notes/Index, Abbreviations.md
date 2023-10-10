@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-08T20:13:13.859-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-09T20:16:07.339-07:00"}
 ---
 
 
@@ -18,14 +18,14 @@
 - **CCA** - common carotid artery
 - **CFA** - common femoral artery
 - **CFV** - common femoral vein
-- **CoW** - circle of Willis
+- **CoW** - [[Notes/Circle, Willis\|circle of Willis]]
 - **CT** - computed tomography
 - **CTA** - computed tomography angiography
 - **CTP** - computed tomography perfusion
 - **CTV** - computed tomography venography
 - **DM** - diabetes mellitus
 - **DOE** - dyspnea on exertion
-- **DSA** - digital subtraction angiography
+- **DSA** - [[Notes/Angiography, Digital Subtraction\|digital subtraction angiography]]
 - **EC-IC** - external carotid (artery)-internal carotid (artery)
 - **ECA** - external carotid artery
 - **ED** - emergency department
@@ -57,7 +57,7 @@
 - **OT** - occupational therapy
 - **PA** - posteroanterior (view)
 - **PCA** - posterior cerebral artery
-- **PCOM** - posterior communicating artery
+- **PCOM** - [[Notes/Artery, Posterior Communicating\|posterior communicating artery]]
 - **PERRLA** - pupils equal, round, reactive to light and accommodation
 - **PICA** - posterior inferior cerebellar artery
 - **POD** - post-operative day
@@ -67,7 +67,7 @@
 - **RLE** - right lower extremity
 - **ROM** - range of motion
 - **RUE** - right upper extremity
-- **SCA** - superior cerebellar artery
+- **SCA** - [[Notes/Artery, Superior Cerebellar\|superior cerebellar artery]]
 - **TCAR** - transcarotid artery revascularization
 - **TICI** - thrombolysis in cerebral infarction scale
 - **Tmax** - time to maximum
