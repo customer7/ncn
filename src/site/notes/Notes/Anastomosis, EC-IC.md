@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/notes/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2023-10-10T20:54:45.943-07:00"}
+{"dg-publish":true,"permalink":"/notes/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2023-10-10T21:37:20.343-07:00"}
 ---
 
 In this article, we gathered cases with interesting external carotid-internal carotid anastomoses.
+
+---
 
 ## Cases
 
