@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-femoral-artery/","tags":["access"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-10-04T12:28:55.227-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-femoral-artery/","tags":["access","anatomy","artery"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-10-10T20:54:23.121-07:00"}
 ---
 
 
