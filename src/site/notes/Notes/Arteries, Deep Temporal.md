@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/arteries-deep-temporal/","tags":["anatomy","artery","vessel"],"created":"2023-07-23T13:31:41.838-07:00","updated":"2023-09-11T13:56:12.992-07:00"}
+{"dg-publish":true,"permalink":"/notes/arteries-deep-temporal/","tags":["anatomy","artery","vessel"],"created":"2023-07-23T13:31:41.838-07:00","updated":"2023-10-13T17:35:44.704-07:00"}
 ---
 
 
@@ -18,5 +18,6 @@ A patient presented with left subdural hematoma and underwent Onyx embolization 
 **B**: pre-embolization, left ECA injection, lateral view.
 **C**: post-embolization, left ECA injection, PA view.
 **D**: post-embolization, left ECA injection, lateral view.
-Yellow arrow: MME
-Blue arrowhead: deep temporal arteries
+
+- Yellow arrow: MME
+- Blue arrowhead: deep temporal arteries
