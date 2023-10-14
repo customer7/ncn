@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-10-10T21:36:41.316-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-10-13T17:35:04.401-07:00"}
 ---
 
 With the introduction of various catheters designed for radial access, the **radial artery access** has been gaining popularity recently. The [[Notes/Catheter, Simmons\|Simmons catheters]] are typically the go-to choice for selecting target arteries.
@@ -46,4 +46,13 @@ The **aberrant right subclavian artery**/**lusorian artery** (red arrow) which c
 
 **CTA Chest**
 ![](https://i.imgur.com/vDbMKcW.jpg)
-This patient presented after a chest trauma. There is also an aberrant right subclavian artery (red arrow). Yellow arrow: right CCA. Blue arrow: left CCA. Green arrow: left subclavian artery. Orange arrow: right VA. Teal arrow: left VA. Black arrow: right long thoracic artery. Pink star: esophagus/NGT. White diamond: trachea/ETT. Also, please note the right pulmonary contusion and chest tube.
+This patient presented after a chest trauma. There is also an aberrant right subclavian artery (red arrow). Also, please note the right pulmonary contusion and the chest tube.
+
+- Yellow arrow: right CCA. 
+- Blue arrow: left CCA. 
+- Green arrow: left subclavian artery. 
+- Orange arrow: right VA. 
+- Teal arrow: left VA. 
+- Black arrow: right long thoracic artery. 
+- Pink star: esophagus/NGT. 
+- White diamond: trachea/ETT. 
