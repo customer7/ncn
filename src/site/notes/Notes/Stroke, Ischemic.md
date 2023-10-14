@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/stroke-ischemic/","tags":["stroke","DSA","thrombectomy"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2023-10-13T17:40:38.430-07:00"}
+{"dg-publish":true,"permalink":"/notes/stroke-ischemic/","tags":["stroke","DSA","thrombectomy"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2023-10-14T10:14:07.150-07:00"}
 ---
 
 As the saying goes: "time is brain." 
@@ -10,7 +10,7 @@ As the saying goes: "time is brain."
 
 ### 1
 
-![](https://i.imgur.com/2DScLUX.jpg)
+![](https://i.imgur.com/3q5beKU.jpg)
 This patient presented with right hemiparesis and aphasia. A CTA revealed a left M2 occlusion. What this image shows is how collaterals came to the rescue. The patient subsequently underwent a successful mechanical thrombectomy with TICI 2C reperfusion.
 
 - Pink arrow: patent superior M2.
