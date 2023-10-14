@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/angiography-3-d-dual-volume/","tags":["DSA","3D"],"created":"2023-10-04T20:47:16.050-07:00","updated":"2023-10-10T20:54:56.442-07:00"}
+{"dg-publish":true,"permalink":"/notes/angiography-3-d-dual-volume/","tags":["DSA","3D"],"created":"2023-10-04T20:47:16.050-07:00","updated":"2023-10-13T17:35:22.008-07:00"}
 ---
 
 **Dual-Volume 3D Angiography** reduces artifacts in previously treated aneurysms and provides a sharper image of the stents and coils.^[[Added value of three-dimensional digital subtraction angiography, using dual-volume reconstruction technique, in post-treatment follow-up of cerebral aneurysms | Egyptian Journal of Radiology and Nuclear Medicine | Full Text](https://ejrnm.springeropen.com/articles/10.1186/s43055-019-0037-4)]
@@ -16,5 +16,5 @@ This patient was previously treated with stent-assisted coiling of bilateral MCA
 (**B**): Volume-Blending: 0, presenting a mixed view.
 (**C**): Volume-Blending: +100, offering an excellent view of the arteries.
 
-White arrows: Coils.
-Yellow arrows: Stent markers.
+- White arrows: Coils.
+- Yellow arrows: Stent markers.
