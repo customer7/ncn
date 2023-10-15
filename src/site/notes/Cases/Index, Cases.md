@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T12:23:01.000-07:00","updated":"2023-10-14T22:52:58.003-07:00"}
+{"dg-publish":true,"permalink":"/cases/index-cases/","tags":["index"],"created":"2023-05-11T12:23:01.000-07:00","updated":"2023-10-14T22:53:37.466-07:00"}
 ---
 
 
@@ -20,8 +20,10 @@ This "Cases" folder contains all the cases on this website and this "Index, Case
 ### Congenital Vascular Anomaly
 
 - [[Cases/Pediatrics/Encephalocele, Parietal\|Encephalocele, Parietal]]
+
 ### Congenital Spinal Anomaly
-- [[Cases/Pediatrics/Meningocele\|Meningocele]]
+
+- [[Cases/Pediatrics/Meningocele and Tethered Cord\|Meningocele and Tethered Cord]]
 
 ## Peripheral Nervous System
 
