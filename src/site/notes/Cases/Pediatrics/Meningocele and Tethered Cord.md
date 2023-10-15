@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pediatrics/meningocele-and-tethered-cord/","tags":["pediatric"],"created":"2023-10-14T22:48:32.188-07:00","updated":"2023-10-14T22:52:03.009-07:00"}
+{"dg-publish":true,"permalink":"/cases/pediatrics/meningocele-and-tethered-cord/","tags":["pediatric"],"created":"2023-10-14T22:48:32.188-07:00","updated":"2023-10-14T22:55:18.877-07:00"}
 ---
 
 
@@ -69,7 +69,6 @@ There is no hydrocephalus or Chiari malformation on the brain MRI.
 - Closure of dura (4-0 Nurolon) - watertight, no leak on Valsalva
 - Closure of muscle layer (3-0 Vicryl)
 - Closure of skin (4-0 Vicryl Rapide)
-- [[Meningocele Repair and Untethering of Spinal Cord, Dr. Trumble (18276130)\|Operative report]]
 
 ---
 
