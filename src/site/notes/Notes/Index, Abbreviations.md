@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-16T19:10:39.291-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-17T11:35:01.885-07:00"}
 ---
 
 
@@ -53,6 +53,7 @@
 - **NCS** - nerve conduction study
 - **NGT** - nasogastric tube
 - **NIHSS** - Natioanl Institutes of Health stroke scale
+- **NPH** - normal pressure hydrocephalus
 - **OSH** - outside hospital
 - **OT** - occupational therapy
 - **PA** - posteroanterior (view)
