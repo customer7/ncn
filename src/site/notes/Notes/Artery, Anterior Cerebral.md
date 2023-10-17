@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/artery-anterior-cerebral/","created":"2023-10-16T19:00:10.808-07:00","updated":"2023-10-16T20:09:49.396-07:00"}
+{"dg-publish":true,"permalink":"/notes/artery-anterior-cerebral/","created":"2023-10-16T19:00:10.808-07:00","updated":"2023-10-16T20:11:07.396-07:00"}
 ---
 
 
-The **anterior cerebral artery** is one of the two terminal branches of the [[Artery, Internal Carotid\|internal carotid artery]]. It travels medially into the interhemispheric space, supplying the medical anterior part of cerebrum and other midline structures.
+The **anterior cerebral artery** is one of the two terminal branches of the [[Artery, Internal Carotid\|internal carotid artery]]. It travels medially into the interhemispheric space, supplying the medial anterior part of cerebrum and other midline structures.
 
 ---
 
