@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/syndrome-thoracic-outlet/","tags":["syndrome","PNS","rib","TOS"],"created":"2023-05-23T20:37:25.000-05:00","updated":"2023-05-23T21:39:19.000-05:00"}
+{"dg-publish":true,"permalink":"/notes/syndrome-thoracic-outlet/","tags":["syndrome","PNS","rib","TOS"],"created":"2023-05-23T18:37:25.000-07:00","updated":"2023-10-17T16:52:22.497-07:00"}
 ---
 
 
 **Thoracic outlet syndrome**, AKA **TOS**, is a condition in which there is compression of the nerves, arteries, or veins in the superior thoracic aperture/outlet.
-
-![](https://www.hopkinsmedicine.org/-/media/ksw-images/tosstill.ashx?h=360&w=640&hash=5661F149372F8CB4658AA6CDD31A4200)
 
 ## Classification
 
