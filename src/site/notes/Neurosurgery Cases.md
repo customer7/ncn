@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-10-17T17:04:46.221-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-10-17T17:11:31.381-07:00"}
 ---
 
 <div align="right">
@@ -9,12 +9,4 @@
 
 ---
 
-![|288](https://i.imgur.com/JrGHyGc.jpg)
-
-Welcome to ***Neurosurgery Cases***. 
-
-We share interesting neurosurgery cases here.
-
-Inspired by websites [Wikipedia](https://www.wikipedia.org/), [Sci-Hub](https://www.sci-hub.st/), [Radiopaedia](https://radiopaedia.org/), and [Neuroangio](http://neuroangio.org/), etc., we aspire to create one based on [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management) (PKM) tool [Obsidian](https://obsidian.md/) and plug-in [Obsidian Digital Garden](https://dg-docs.ole.dev/). 
-
-If you have any questions, please visit the [[FAQ\|FAQ]] page.
+Welcome to ***Neurosurgery Cases***. ![|15](https://i.imgur.com/JrGHyGc.jpg)
