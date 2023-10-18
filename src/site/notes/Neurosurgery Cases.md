@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-10-18T10:07:09.963-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-10-18T10:27:42.974-07:00"}
 ---
 
 <div align="center">
@@ -8,7 +8,3 @@
 </div>
 
 ![](https://i.imgur.com/ycHgLnM.png)
-
----
-
-✦  [[About\|About]]  ✦  [[Blog\|Blog]]  ✦  [[Disclaimer\|Disclaimer]]  ✦  [[FAQ\|FAQ]]  ✦
