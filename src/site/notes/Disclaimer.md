@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/disclaimer/","created":"2023-05-25T08:58:00.601-05:00","updated":"2023-05-25T09:06:52.547-05:00"}
+{"dg-publish":true,"permalink":"/disclaimer/","created":"2023-05-25T06:58:00.000-07:00","updated":"2023-10-18T09:28:18.780-07:00"}
 ---
 
 
@@ -18,3 +18,7 @@ The Site may contain (or you may be sent through the Site) links to other websit
 ## PROFESSIONAL DISCLAIMER
 
 The Site cannot and does not contain medical/health advice. The medical/health information is provided for general informational and educational purposes only and is not a substitute for professional advice. Accordingly, before taking any actions based upon such information, we encourage you to consult with the appropriate professionals. We do not provide any kind of medical/health advice. THE USE OF RELIANCE OF ANY INFORMATION CONTAINED ON THE SITE IS SOLELY AT YOUR OWN RISK.
+
+---
+
+✦  [[Neurosurgery Cases\|Home]] ✦  [[About\|About]]  ✦  [[Blog\|Blog]]  ✦  [[FAQ\|FAQ]]  ✦
