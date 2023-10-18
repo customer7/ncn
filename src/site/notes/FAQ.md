@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-08T20:20:25.923-07:00"}
+{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-17T17:18:33.039-07:00"}
 ---
 
 
@@ -29,6 +29,12 @@ All the images were uploaded as PNG^[[PNG - Wikipedia](https://en.wikipedia.org/
 
 Please feel free to use any of the images online for noncommercial purposes. 
 Some of the images have watermarks on. If you are interested in getting a copy without watermarks, you can contact us [here](mailto:contact@neurosurgerycases.com).
+
+---
+
+## - I have a condition that needs medical advice.
+
+Cases presented on this website are for educational and informational purposes only, and do not intend to substitute professional medical advice, diagnosis, or treatment. They are all in compliance with HIPPA. The use of this website content does not establish any patient-client relationships. You can read the long disclaimer [[Disclaimer\|here]].
 
 ---
 
