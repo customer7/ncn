@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-19T08:15:06.618-07:00"}
+{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-19T09:24:19.882-07:00"}
 ---
 
 
@@ -55,7 +55,3 @@ Wanna share your own cases? Contact us [here](mailto:contact@neurosurgerycases.c
 We truly appreciate your kindness and generosity. We are coffee lovers. :)
 
 <a href="https://www.buymeacoffee.com/neurosurgerycases" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
----
-
-&nbsp; &nbsp; &nbsp; &nbsp; ✦  [[Neurosurgery Cases\|Home]] ✦  [[ABNS/Index, ABNS\|ABNS]]  ✦  [[About\|About]]  ✦  [[Blog\|Blog]]  ✦  [[Cases/Index, Cases\|Cases]]  ✦  [[Disclaimer\|Disclaimer]]  ✦  [[FAQ\|FAQ]]  ✦  [[Literature/Index, Literature\|Literature]]✦
