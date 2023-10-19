@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-19T07:56:48.029-07:00"}
+{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-19T07:57:21.294-07:00"}
 ---
 
 
@@ -15,7 +15,7 @@ The main layout consists of three columns from left to right: site roadmap, arti
 
 - **Site roadmap**: Contains folders and links to specific pages.
 - **Article**: Features interesting cases.
-- **Page navigation**: Facilitates bi-directional linking to different places and back. Check out the supercool *Connected Pages* (Graph View).
+- **Page navigation**: Facilitates bi-directional linking to different places and back, including the supercool *Connected Pages* (Graph View).
 
 ---
 
