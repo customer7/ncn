@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-19T08:07:47.288-07:00"}
+{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-19T08:12:37.786-07:00"}
 ---
 
 
@@ -58,4 +58,4 @@ We truly appreciate your kindness and generosity. We are coffee lovers. :)
 
 ---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✦  [[Neurosurgery Cases\|Home]] ✦  [[ABNS/Index, ABNS\|ABNS]]  ✦  [[About\|About]]  ✦  [[Blog\|Blog]]  ✦  [[Cases/Index, Cases\|Cases]]  ✦  [[Disclaimer\|Disclaimer]]  ✦  [[FAQ\|FAQ]]  ✦  [[Literature/Index, Literature\|Literature]]✦
+&nbsp; &nbsp; &nbsp; ✦  [[Neurosurgery Cases\|Home]] ✦  [[ABNS/Index, ABNS\|ABNS]]  ✦  [[About\|About]]  ✦  [[Blog\|Blog]]  ✦  [[Cases/Index, Cases\|Cases]]  ✦  [[Disclaimer\|Disclaimer]]  ✦  [[FAQ\|FAQ]]  ✦  [[Literature/Index, Literature\|Literature]]✦
