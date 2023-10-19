@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-17T11:35:01.885-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-19T14:04:47.101-07:00"}
 ---
 
 
 - "**+**" - positive
 - "**-**" - negative
 - **ACA** - [[Notes/Artery, Anterior Cerebral\|anterior cerebral artery]]
+- **AChA** - [[Notes/Artery, Anterior Choroidal\|anterior choroidal artery]]
 - **ACOM** - [[Notes/Artery, Anterior Communicating\|anterior communicating artery]]
 - **AICA** - anterior inferior cerebellar artery
 - **AIF** - arterial input function
