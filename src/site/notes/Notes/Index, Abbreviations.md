@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-19T14:04:47.101-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-19T14:12:02.448-07:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - **AICA** - anterior inferior cerebellar artery
 - **AIF** - arterial input function
 - **AKA** - also known as
-- **BA** - basilar artery
+- **BA** - [[Notes/Artery, Basilar\|basilar artery]]
 - **BLE** - bilateral lower extremities
 - **BUE** - bilateral upper extremities
 - **CAD** - coronary artery disease
@@ -28,7 +28,7 @@
 - **DOE** - dyspnea on exertion
 - **DSA** - [[Notes/Angiography, Digital Subtraction\|digital subtraction angiography]]
 - **EC-IC** - external carotid (artery)-internal carotid (artery)
-- **ECA** - external carotid artery
+- **ECA** - [[Notes/Artery, External Carotid\|external carotid artery]]
 - **ED** - emergency department
 - **EMG** - electromyography
 - **EtOH** - alcohol
@@ -38,7 +38,7 @@
 - **HLD** - hyperlipidemia
 - **H&P** - history and physical examination
 - **HTN** - hypertension
-- **ICA** - internal carotid artery
+- **ICA** - [[Notes/Artery, Internal Carotid\|internal carotid artery]]
 - **ICH** - intracerebral hemorrhage
 - **IPH** - intraparenchymal hemorrhage
 - **LAO** - left anterior oblique
