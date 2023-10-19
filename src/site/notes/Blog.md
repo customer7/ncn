@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/","created":"2023-09-30T09:39:35.000-07:00","updated":"2023-10-18T09:28:33.971-07:00"}
+{"dg-publish":true,"permalink":"/blog/","created":"2023-09-30T09:39:35.000-07:00","updated":"2023-10-18T21:04:34.117-07:00"}
 ---
 
 ## 10/05/2023
@@ -32,4 +32,4 @@ The concept of building up a website sharing interesting neurosurgery cases came
 
 ---
 
-✦  [[Neurosurgery Cases\|Home]] ✦  [[About\|About]]  ✦  [[Disclaimer\|Disclaimer]]  ✦  [[FAQ\|FAQ]]  ✦
+✦  [[Neurosurgery Cases\|Home]] ✦  [[ABNS/Index, ABNS\|ABNS]]  ✦  [[About\|About]]  ✦  [[Cases/Index, Cases\|Cases]]  ✦  [[Disclaimer\|Disclaimer]]  ✦  [[FAQ\|FAQ]]  ✦
