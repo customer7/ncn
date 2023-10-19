@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/disclaimer/","created":"2023-05-25T06:58:00.000-07:00","updated":"2023-10-18T21:04:46.065-07:00"}
+{"dg-publish":true,"permalink":"/disclaimer/","created":"2023-05-25T06:58:00.000-07:00","updated":"2023-10-18T21:05:16.711-07:00"}
 ---
 
 
@@ -21,4 +21,4 @@ The Site cannot and does not contain medical/health advice. The medical/health i
 
 ---
 
-✦  [[Neurosurgery Cases\|Home]] ✦  [[ABNS/Index, ABNS\|ABNS]]  ✦  [[About\|About]]  ✦  [[Blog\|Blog]]  ✦  [[Cases/Index, Cases\|Cases]]  ✦  [[FAQ\|FAQ]]  ✦
+✦  [[Neurosurgery Cases\|Home]] ✦  [[ABNS/Index, ABNS\|ABNS]]  ✦  [[About\|About]]  ✦  [[Blog\|Blog]]  ✦  [[Cases/Index, Cases\|Cases]]  ✦  [[Disclaimer\|Disclaimer]]  ✦  [[FAQ\|FAQ]]  ✦
