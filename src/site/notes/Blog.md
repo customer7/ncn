@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/","created":"2023-09-30T09:39:35.000-07:00","updated":"2023-10-18T21:05:23.336-07:00"}
+{"dg-publish":true,"permalink":"/blog/","created":"2023-09-30T09:39:35.000-07:00","updated":"2023-10-19T09:24:31.524-07:00"}
 ---
 
 ## 10/05/2023
@@ -29,7 +29,3 @@ The concept of building up a website sharing interesting neurosurgery cases came
 ## Before It All Began...
 
 ...was the rollercoaster medical school and neurosurgery residency training experience.
-
----
-
-✦  [[Neurosurgery Cases\|Home]] ✦  [[ABNS/Index, ABNS\|ABNS]]  ✦  [[About\|About]]  ✦  [[Blog\|Blog]]  ✦  [[Cases/Index, Cases\|Cases]]  ✦  [[Disclaimer\|Disclaimer]]  ✦  [[FAQ\|FAQ]]  ✦
