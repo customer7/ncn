@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-19T16:21:16.571-07:00"}
+{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-10-19T17:52:50.090-07:00"}
 ---
 
 
@@ -21,7 +21,7 @@ The main layout consists of three columns from left to right: site roadmap, arti
 
 ## - Why can't I see any image?
 
-All the images are hosted on the website [Imgur](https://imgur.com), which may have been blocked in certain regions^[[Imgur is blocked in my country](https://www.reddit.com/r/BoostForReddit/comments/cd32h9/imgur_is_blocked_in_my_country/)], by the IT^[[Information technology - Wikipedia](https://en.wikipedia.org/wiki/Information_technology)] department, or by your ISP^[[Internet service provider - Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)].
+All the images are hosted on the website [Imgur](https://imgur.com), which may have been blocked in certain regions^[[Imgur is blocked in my country - Reddit](https://www.reddit.com/r/BoostForReddit/comments/cd32h9/imgur_is_blocked_in_my_country/)], by the IT^[[Information technology - Wikipedia](https://en.wikipedia.org/wiki/Information_technology)] department, or by your ISP^[[Internet service provider - Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)].
 
 ---
 
