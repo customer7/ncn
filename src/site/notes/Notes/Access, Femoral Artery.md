@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-femoral-artery/","tags":["access","anatomy","artery"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-10-21T11:37:16.476-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-femoral-artery/","tags":["access","anatomy","artery"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-10-21T11:38:46.977-07:00"}
 ---
 
 
@@ -40,7 +40,7 @@ Extensive atherosclerotic changes are seen on this 3D reconstruction of CTA neck
 
 ### 4
 
-![](https://i.imgur.com/WujI7bs.jpg)
+![](https://i.imgur.com/mxgU9ar.jpg)
 Two pulsating arteries (red stars) on the ultrasound imaging indicate a level below the CFA bifurcation (**A**). Aiming the probe more rostrally will reveal the merging of the two arteries into the CFA (red diamond) (**B**). The puncture site should be rostral to the bifurcation. 
 
 - Blue circle: CFV.
