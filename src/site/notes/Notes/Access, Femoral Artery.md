@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-femoral-artery/","tags":["access","anatomy","artery"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-10-21T11:38:46.977-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-femoral-artery/","tags":["access","anatomy","artery"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-10-21T11:45:36.261-07:00"}
 ---
 
 
@@ -66,6 +66,6 @@ This patient developed diffuse intracranial vasospasm in the setting of subarach
 
 ### 7
 
-![](https://i.imgur.com/SBW3o2D.jpg)
+![](https://i.imgur.com/ZvyS1XW.jpg)
 (**A**): A true PA view revealed an overlap of the CFA, represented by the sheath (black arrow), with the underlying artificial femoral head.
 (**B**): A slight RAO view medialized the CFA and provided a much clearer image.
