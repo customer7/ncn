@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-10-13T17:35:04.401-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-10-21T11:32:03.417-07:00"}
 ---
 
 With the introduction of various catheters designed for radial access, the **radial artery access** has been gaining popularity recently. The [[Notes/Catheter, Simmons\|Simmons catheters]] are typically the go-to choice for selecting target arteries.
@@ -39,13 +39,13 @@ With the introduction of various catheters designed for radial access, the **rad
 ### 2
 
 **CTA Neck**
-![](https://i.imgur.com/ICrHuVJ.jpg)
+![](https://i.imgur.com/CVxdMX9.jpg)
 The **aberrant right subclavian artery**/**lusorian artery** (red arrow) which can be easily ascertained on CTA neck, is considered a relative contraindication for radial access.^[[Radial Access via Aberrant Right Subclavian Artery | neuroangio.org](https://neuroangio.org/sample-page/case-archives/radial-access-via-aberrant-right-subclavian-artery/)] Yellow arrow: right CCA. Blue arrow: left CCA. Green arrow: left subclavian artery. Orange arrow: right VA. Pink star: esophagus. White diamond: trachea. (Unfortunately, this is not an ideal study due to the suboptimal timing and contrast contamination in the adjacent veins.)
 
 ---
 
 **CTA Chest**
-![](https://i.imgur.com/vDbMKcW.jpg)
+![](https://i.imgur.com/f5ZB1F7.png)
 This patient presented after a chest trauma. There is also an aberrant right subclavian artery (red arrow). Also, please note the right pulmonary contusion and the chest tube.
 
 - Yellow arrow: right CCA. 
