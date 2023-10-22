@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-femoral-artery/","tags":["access","anatomy","artery"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-10-21T11:45:36.261-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-femoral-artery/","tags":["access","anatomy","artery"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-10-21T18:05:15.292-07:00"}
 ---
 
 
@@ -21,7 +21,7 @@ Extensive atherosclerotic disease indicates a higher risk of stroke via transfem
 
 ### 2
 
-![](https://i.imgur.com/5khy6CZ.png)
+![](https://i.imgur.com/NMlKfQ8.jpg)
 Ideally, the sheath entry site (black double-arrow) should be between the origin of the inferior epigastric artery (yellow arrow) and the common femoral artery bifurcation (red arrow) to lower the risks of retroperitoneal hematoma (too proximal) or pseudoaneurysm/AVF (too distal).^[[Cureus | Assessment of Femoral Artery Bifurcation Level with Conventional Angiography | Article](https://www.cureus.com/articles/15378-assessment-of-femoral-artery-bifurcation-level-with-conventional-angiography#!/)]
 
 ---
