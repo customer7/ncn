@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-10-23T16:52:36.912-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-10-23T16:53:41.650-07:00"}
 ---
 
 With the introduction of various catheters designed for radial access, the **radial artery access** has been gaining popularity recently. The [[Notes/Catheter, Simmons\|Simmons catheters]] are typically the go-to choice for selecting target arteries.
@@ -48,14 +48,14 @@ The **aberrant right subclavian artery**/**lusorian artery** (red arrow) which c
 ![](https://i.imgur.com/f5ZB1F7.png)
 This patient presented after a chest trauma. There is also an aberrant right subclavian artery (red arrow). Also, please note the right pulmonary contusion and the chest tube.
 
-- Yellow arrow: right CCA. 
-- Blue arrow: left CCA. 
-- Green arrow: left subclavian artery. 
-- Orange arrow: right VA. 
-- Cyan arrow: left VA. 
-- Black arrow: right long thoracic artery. 
-- Magenta star: esophagus/NGT. 
-- White diamond: trachea/ETT. 
+- Yellow arrow: Right [[Notes/Artery, Common Carotid\|CCA]]. 
+- Blue arrow: Left [[Notes/Artery, Common Carotid\|CCA]]. 
+- Green arrow: Left subclavian artery. 
+- Orange arrow: Right [[Notes/Artery, Vertebral\|VA]]. 
+- Cyan arrow: Left [[Notes/Artery, Vertebral\|VA]]. 
+- Black arrow: Right long thoracic artery. 
+- Magenta star: Esophagus/NGT. 
+- White diamond: Trachea/ETT. 
 
 ---
 
@@ -80,7 +80,7 @@ This is an MRA neck of another patient who has an aberrant right subclavian arte
 ![](https://i.imgur.com/VYISHHZ.jpg)
 This angiography revealed a tortuous right radial artery origin with adjacent two U-turns. The Glidewire was too stiff to safely navigate through these two turns (red arrow). Consequently, the decision was made to abandon radial access and switch to a femoral access. In cases where the right radial artery remains the only viable option for access, one could consider using a microwire to guide the selection of the brachial artery, followed by a microcatheter to straighten the radial artery origin. 
 
-- Orange arrow: the tip of the sheath.
-- White arrow: radial artery.
-- Blue arrow: ulnar artery.
-- Green arrow: brachial artery.
+- Orange arrow: The tip of the sheath.
+- White arrow: Radial artery.
+- Blue arrow: Ulnar artery.
+- Green arrow: Brachial artery.
