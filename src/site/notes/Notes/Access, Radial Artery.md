@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-10-22T16:48:37.144-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-10-23T16:52:36.912-07:00"}
 ---
 
 With the introduction of various catheters designed for radial access, the **radial artery access** has been gaining popularity recently. The [[Notes/Catheter, Simmons\|Simmons catheters]] are typically the go-to choice for selecting target arteries.
@@ -56,6 +56,22 @@ This patient presented after a chest trauma. There is also an aberrant right sub
 - Black arrow: right long thoracic artery. 
 - Magenta star: esophagus/NGT. 
 - White diamond: trachea/ETT. 
+
+---
+
+![](https://i.imgur.com/uHCQIbv.jpg)
+This is an MRA neck of another patient who has an aberrant right subclavian artery.
+
+- **A** and **B**: True AP view.
+- **C** and **D**: LAO view.
+- Red line: Aortic arch.
+- Purple line: Right [[Notes/Artery, Common Carotid\|CCA]].
+- Green line: Left [[Notes/Artery, Common Carotid\|CCA]].
+- Pink line: Left subclavian artery.
+- Black line: Left [[Notes/Artery, Vertebral\|VA]].
+- Orange line: Right subclavian artery.
+- Blue line: Right [[Notes/Artery, Vertebral\|VA]].
+- White dotted line: Left subclavian vein.
 
 ---
 
