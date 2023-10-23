@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-notes/","pinned":true,"tags":["index"],"created":"2023-05-12T06:30:35.000-07:00","updated":"2023-10-23T11:48:19.407-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-notes/","pinned":true,"tags":["index"],"created":"2023-05-12T06:30:35.000-07:00","updated":"2023-10-23T11:49:02.216-07:00"}
 ---
 
 
@@ -14,4 +14,5 @@ Please feel free to [contact us](mailto:contact@neurosurgerycases.com) if the in
 ---
 
 Here are some useful links:
+- [[FAQ\|FAQ]]
 - [[Notes/Index, Abbreviations\|Index, Abbreviations]]
