@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/software/","created":"2023-03-10T11:55:47.000-08:00","updated":"2023-10-23T17:05:20.035-07:00"}
+{"dg-publish":true,"permalink":"/software/","created":"2023-03-10T11:55:47.000-08:00","updated":"2023-10-23T17:12:49.856-07:00"}
 ---
 
 Everybody has their own individual preferences when it comes to how the workflow is done. 
 
-Here are the software that we rely on to build this website.
+Here is the software that we rely on to build this website.
 
 ---
 
