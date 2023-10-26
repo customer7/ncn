@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-simmons/","created":"2023-10-02T20:02:30.306-07:00","updated":"2023-10-26T07:50:50.209-07:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-simmons/","created":"2023-10-02T20:02:30.306-07:00","updated":"2023-10-26T09:57:57.813-07:00"}
 ---
 
 The **Simmons catheter** is a group of reverse-curve selective catheters widely used in the [[Notes/Access, Radial Artery\|radial access]] approach for selecting target arteries. In most cases, the catheter must be shaped into its intended configuration ([[Notes/Catheter, Simmons#1\|Case 1]], [[Notes/Catheter, Simmons#2\|Case 2]], [[Notes/Catheter, Simmons#3\|Case 3]]) before it can be used to select the target artery. The catheter features three curves.^[[Simmons catheter | Radiology Reference Article | Radiopaedia.org](https://radiopaedia.org/articles/simmons-catheter?lang=us)] 
@@ -18,7 +18,11 @@ Via [[Notes/Access, Radial Artery\|radial artery access]], the traditional way t
 (**C** and **D**): The catheter is slightly twisted and pushed so that the secondary curve herniates down into the ascending aorta. 
 (**E**): The catheter is successfully shaped with its tip at the aortic arch-descending aorta junction, the secondary curve in the ascending aorta, and tertiary curve (cyan arrow) in the brachiocephalic artery. 
 
-- Blue arrow: primary curve.
+- Black arrow: Glidewire tip.
+- Orange arrow: Catheter tip.
+- Blue arrow: Primary curve.
+- Red arrow: Secondary curve.
+- Cyan arrow: Tertiary curve.
 
 ---
 
@@ -34,6 +38,10 @@ In situations where the Glidewire fails to enter the aortic arch, the following 
 (**E**): Gently advance the Glidewire into the descending aorta.
 (**F**): Advance the catheter tip into the descending aorta.
 
+- Black arrow: Glidewire tip.
+- Orange arrow: Catheter tip.
+- Blue arrow: Primary curve.
+
 ---
 
 ### 3
@@ -45,6 +53,7 @@ Every once in a while, luck strikes, and the Glidewire goes directly into the le
 (**B**): The Simmons catheter followed the Glidewire's path with a gentle advancement while the latter was firmly held (tip out of the view on this PA imagine). 
 (**C**) The formation was completed with a slow withdrawal of the Glidewire. 
 
+- Black arrow: Glidewire tip.
 - Orange arrow: Catheter tip. 
 - Blue arrow: primary curve. 
 - Red arrow: reversed secondary curve (the knee). 
@@ -62,6 +71,9 @@ This patient presents for a diagnostic cerebral angiography for a left temporal 
 (**C**): A gentle pull on the catheter will advance the catheter tip to engage the left VA.
 (**D**): A contrast puff confirms the successful selection of the left VA.
 
-- Blue arrow: primary curve.
-- Green arrow: left thyrocervical trunk.
-- Magenta arrow: left subclavian artery.
+- Orange arrow: Catheter tip.
+- Blue arrow: Primary curve.
+- Red arrow: Secondary curve.
+- White arrow: Left VA.
+- Green arrow: Left thyrocervical trunk.
+- Magenta arrow: Left subclavian artery.
