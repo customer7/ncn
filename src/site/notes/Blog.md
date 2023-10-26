@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/blog/","created":"2023-09-30T09:39:35.000-07:00","updated":"2023-10-19T09:24:31.524-07:00"}
+{"dg-publish":true,"permalink":"/blog/","created":"2023-09-30T09:39:35.000-07:00","updated":"2023-10-26T10:43:00.730-07:00"}
 ---
 
-## 10/05/2023
-We registered Neurosurgery Cases on Vimeo.com - [Neurosurgery Cases](https://vimeo.com/neurosurgerycases).
-
----
 
 ## 09/30/2023
 
