@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-simmons/","created":"2023-10-02T20:02:30.306-07:00","updated":"2023-10-21T21:25:32.736-07:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-simmons/","created":"2023-10-02T20:02:30.306-07:00","updated":"2023-10-25T19:17:22.384-07:00"}
 ---
 
 The **Simmons catheter** is a group of reverse-curve selective catheters widely used in the [[Notes/Access, Radial Artery\|radial access]] approach for selecting target arteries. In most cases, the catheter must be shaped into its intended configuration ([[Notes/Catheter, Simmons#1\|Case 1]], [[Notes/Catheter, Simmons#2\|Case 2]], [[Notes/Catheter, Simmons#3\|Case 3]]) before it can be used to select the target artery. The catheter features three curves.^[[Simmons catheter | Radiology Reference Article | Radiopaedia.org](https://radiopaedia.org/articles/simmons-catheter?lang=us)] 
@@ -54,10 +54,10 @@ Every once in a while, luck strikes, and the Glidewire goes directly into the le
 
 ### 4
 
-![](https://i.imgur.com/2e9a37d.jpg)
+![](https://i.imgur.com/2KqqAbW.jpg)
 This patient presents for a diagnostic cerebral angiography for a left temporal [[Notes/Malformation, Arteriovenous\|AVM]]. In this particular case, the distance of the left [[Notes/Artery, Vertebral\|VA]] origin to the aortic arch is within the length limit of the Simmons 2 catheter distal to the secondary curve (red arrow), simplifying the selection process.
 
-(**A**): The catheter tip (orange arrow) appears to be positioned within the left [[Artery, Subclavian\|subclavian artery]] on contrast puff.
+(**A**): The catheter tip (orange arrow) appears to be positioned within the left [[Notes/Artery, Subclavian\|subclavian artery]] on contrast puff.
 (**B**): The roadmap confirms its position, which is proximal to the origin of the left VA (white arrow).
 (**C**): A gentle pull on the catheter will advance the catheter tip to engage the left VA.
 (**D**): A contrast puff confirms the successful selection of the left VA.
