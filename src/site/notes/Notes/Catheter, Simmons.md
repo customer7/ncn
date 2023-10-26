@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-simmons/","created":"2023-10-02T20:02:30.306-07:00","updated":"2023-10-25T19:17:22.384-07:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-simmons/","created":"2023-10-02T20:02:30.306-07:00","updated":"2023-10-26T07:50:50.209-07:00"}
 ---
 
 The **Simmons catheter** is a group of reverse-curve selective catheters widely used in the [[Notes/Access, Radial Artery\|radial access]] approach for selecting target arteries. In most cases, the catheter must be shaped into its intended configuration ([[Notes/Catheter, Simmons#1\|Case 1]], [[Notes/Catheter, Simmons#2\|Case 2]], [[Notes/Catheter, Simmons#3\|Case 3]]) before it can be used to select the target artery. The catheter features three curves.^[[Simmons catheter | Radiology Reference Article | Radiopaedia.org](https://radiopaedia.org/articles/simmons-catheter?lang=us)] 
@@ -10,7 +10,7 @@ The **Simmons catheter** is a group of reverse-curve selective catheters widely 
 
 ### 1
 
-![](https://i.imgur.com/kK0cxIQ.jpg)
+![](https://i.imgur.com/FmfgqAW.jpg)
 Via [[Notes/Access, Radial Artery\|radial artery access]], the traditional way to shape the Simmons 2 catheter involves using the aortic arch. 
 
 (**A**): The Glidewire (black arrow) is advanced into the descending aorta, along with the tip of the Simmons catheter (orange arrow). 
