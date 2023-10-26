@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-10-23T16:53:41.650-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-10-26T10:41:40.148-07:00"}
 ---
 
 With the introduction of various catheters designed for radial access, the **radial artery access** has been gaining popularity recently. The [[Notes/Catheter, Simmons\|Simmons catheters]] are typically the go-to choice for selecting target arteries.
@@ -38,6 +38,12 @@ With the introduction of various catheters designed for radial access, the **rad
 
 ### 2
 
+![](https://i.imgur.com/hOmu2Ke.jpg)
+When performing angiogram in an awake patient, injecting local anesthesia is 
+
+---
+### 3
+
 **CTA Neck**
 ![](https://i.imgur.com/CVxdMX9.jpg)
 The **aberrant right subclavian artery**/**lusorian artery** (red arrow) which can be easily ascertained on CTA neck, is considered a relative contraindication for radial access.^[[Radial Access via Aberrant Right Subclavian Artery | neuroangio.org](https://neuroangio.org/sample-page/case-archives/radial-access-via-aberrant-right-subclavian-artery/)] Yellow arrow: right CCA. Blue arrow: left CCA. Green arrow: left subclavian artery. Orange arrow: right VA. Pink star: esophagus. White diamond: trachea. (Unfortunately, this is not an ideal study due to the suboptimal timing and contrast contamination in the adjacent veins.)
@@ -75,7 +81,7 @@ This is an MRA neck of another patient who has an aberrant right subclavian arte
 
 ---
 
-### 3
+### 4
 
 ![](https://i.imgur.com/VYISHHZ.jpg)
 This angiography revealed a tortuous right radial artery origin with adjacent two U-turns. The Glidewire was too stiff to safely navigate through these two turns (red arrow). Consequently, the decision was made to abandon radial access and switch to a femoral access. In cases where the right radial artery remains the only viable option for access, one could consider using a microwire to guide the selection of the brachial artery, followed by a microcatheter to straighten the radial artery origin. 
@@ -84,3 +90,15 @@ This angiography revealed a tortuous right radial artery origin with adjacent tw
 - White arrow: Radial artery.
 - Blue arrow: Ulnar artery.
 - Green arrow: Brachial artery.
+
+---
+
+### Case 5
+
+![](https://i.imgur.com/ai1kM80.jpg)
+The right [[Notes/Artery, Vertebral\|VA]] is typically the first artery to catheterize in diagnostic cerebral angiography.
+
+(**A**): In this pre-operative CTA neck 3D reconstruction view, the right VA origin (green arrow) can be clearly recognized with its relative location to the tip of the distal right subclavian curve (white arrow).
+(**B**): Advance the catheter tip to the estimated VA origin and obtain a roadmap to assist in artery catheterization.
+
+An alternative method to localize the right VA origin would be to advance the catheter tip more distally and then retract it while puffing contrast to opacify it.
