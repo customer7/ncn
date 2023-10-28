@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-19T14:12:02.448-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-27T18:10:34.348-07:00"}
 ---
 
 
 - "**+**" - positive
+- "**+c**" - with contrast
 - "**-**" - negative
+- "**-c**" - without contrast
 - **ACA** - [[Notes/Artery, Anterior Cerebral\|anterior cerebral artery]]
 - **AChA** - [[Notes/Artery, Anterior Choroidal\|anterior choroidal artery]]
 - **ACOM** - [[Notes/Artery, Anterior Communicating\|anterior communicating artery]]
@@ -73,6 +75,7 @@
 - **TCAR** - transcarotid artery revascularization
 - **TICI** - thrombolysis in cerebral infarction scale
 - **Tmax** - time to maximum
+- **TRAP** - Trevo Aspiration Proximal Flow Control Registry^[[TRAP in Stroke, Ischemic - Clinical Trials Registry - ICH GCP](https://ichgcp.net/clinical-trials-registry/NCT03199404)]
 - **TOS** - [[Notes/Syndrome, Thoracic Outlet\|thoracic outlet syndrome]]
 - **tPA** - tissue plasminogen activator
 - **TTF** - transfer/transferred to floor
