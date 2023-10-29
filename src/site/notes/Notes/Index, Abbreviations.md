@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-27T18:10:34.348-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-28T20:57:38.687-07:00"}
 ---
 
 
-- "**+**" - positive
+- "**+**" - positive/with
 - "**+c**" - with contrast
-- "**-**" - negative
+- "**-**" - negative/without
 - "**-c**" - without contrast
 - **ACA** - [[Notes/Artery, Anterior Cerebral\|anterior cerebral artery]]
 - **AChA** - [[Notes/Artery, Anterior Choroidal\|anterior choroidal artery]]
@@ -42,6 +42,7 @@
 - **HTN** - hypertension
 - **ICA** - [[Notes/Artery, Internal Carotid\|internal carotid artery]]
 - **ICH** - intracerebral hemorrhage
+- **ILD** - interstitial lung disease
 - **IPH** - intraparenchymal hemorrhage
 - **LAO** - left anterior oblique
 - **LLE** - left lower extremity
