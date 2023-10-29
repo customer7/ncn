@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/artery-anterior-choroidal/","created":"2023-10-19T13:25:29.703-07:00","updated":"2023-10-29T13:44:14.903-07:00"}
+{"dg-publish":true,"permalink":"/notes/artery-anterior-choroidal/","tags":["anatomy","DSA"],"created":"2023-10-19T13:25:29.703-07:00","updated":"2023-10-29T13:44:37.954-07:00"}
 ---
 
 The **anterior choroidal artery** (AChA) originates from the [[Notes/Artery, Internal Carotid\|ICA]], distal to the [[Notes/Artery, Posterior Communicating\|PCOM]]. The *plexal point* marks where it enters the lateral ventricle.^[[Anterior choroidal artery | Radiology Reference Article | Radiopaedia.org](https://radiopaedia.org/articles/anterior-choroidal-artery)]
