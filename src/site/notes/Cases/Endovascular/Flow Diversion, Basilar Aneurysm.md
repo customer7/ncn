@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-basilar-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-10-30T20:58:59.179-07:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-basilar-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-10-30T21:03:07.616-07:00"}
 ---
 
 
@@ -152,7 +152,7 @@ The left PCA was successfully catheterized and the XT-27 was advanced into the d
 
 Roadmap - Right VA injection (PA and Lateral)
 ![](https://i.imgur.com/tfbvrsS.jpg)
-The microwire was removed, and a 4.5 mm x 40 mm Surpass Evolve stent was inserted inside the XT-27 and advanced to its tip. Initially, a Surpass Evolve 5 mm x 40 mm stent was attempted, but it was removed due to the ribbon effect at the aneurysm curve.)
+The microwire was removed, and a 4.5 mm x 40 mm Surpass Evolve stent^[[Surpass Evolve Implant](https://jnis.bmj.com/content/neurintsurg/12/10/974/F1.large.jpg)] was inserted inside the XT-27 and advanced to its tip. Initially, a Surpass Evolve 5 mm x 40 mm stent was attempted, but it was removed due to the ribbon effect at the aneurysm curve.)
 
 ---
 
