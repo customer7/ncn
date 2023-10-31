@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-basilar-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-10-30T21:03:07.616-07:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-basilar-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-10-30T21:13:37.590-07:00"}
 ---
 
 
@@ -50,7 +50,7 @@ It appeared that there was calcification and stenosis at the right VA origin (or
 ## Pre-Op Consideration
 
 - Diagnostic cerebral angiography was performed under moderate sedation
-	- C0-dominant bilateral VAs -> radial access -> right VA
+	- Co-dominant bilateral VAs -> radial access -> right VA
 	- A large unruptured irregular basilar trunk aneurysm, 21 mm
 - Black blood MRI illustrates bilateral [[Notes/Artery, Vertebral\|VA]] vessel wall and aneurysm wall enhancement -> high risk of rupturing
 - Plan for flow divertion embolization
@@ -81,6 +81,8 @@ It appeared that there was calcification and stenosis at the right VA origin (or
 	- Adjacent small aneurysms
 	- Successful flow diverter embolization with excellent contrast stasis
 	- ACT was maintained between 250-300
+
+---
 
 ### Labelling
 
