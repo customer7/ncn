@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-28T20:57:38.687-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-10-31T14:53:25.016-07:00"}
 ---
 
 
@@ -54,6 +54,7 @@
 - **MRV** - magnetic resonance venography
 - **MT** - mechanical thrombectomy
 - **mTICI** - modified treatment in cerebral ischemia score
+- **N.B.** - nota bene (note well)
 - **NCS** - nerve conduction study
 - **NGT** - nasogastric tube
 - **NIHSS** - Natioanl Institutes of Health stroke scale
@@ -81,4 +82,5 @@
 - **tPA** - tissue plasminogen activator
 - **TTF** - transfer/transferred to floor
 - **VA** - vertebral artery
+- **VBA** - vertebrobasilar artery
 - **VOF** - venous output function
