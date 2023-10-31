@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/neurosurgery-cases/","pinned":true,"tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-10-31T16:32:43.148-07:00"}
+{"dg-publish":true,"permalink":"/neurosurgery-cases/","pinned":true,"tags":["gardenEntry"],"created":"2023-05-27T13:58:35.000-07:00","updated":"2023-10-31T16:36:20.103-07:00"}
 ---
 
-![](https://i.imgur.com/kWRDG9L.png)
+
+![](https://i.imgur.com/cjF0kSo.png)
