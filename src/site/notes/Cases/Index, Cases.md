@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index-cases/","pinned":true,"tags":["index"],"created":"2023-05-11T12:23:01.000-07:00","updated":"2023-10-30T21:09:43.859-07:00"}
+{"dg-publish":true,"permalink":"/cases/index-cases/","pinned":true,"tags":["index"],"created":"2023-05-11T12:23:01.000-07:00","updated":"2023-10-30T21:57:30.416-07:00"}
 ---
 
 
@@ -10,7 +10,7 @@ This "Cases" folder contains detailed cases on each topic and this "Index, Cases
 ### Aneurysm
 
 - [[Cases/Endovascular/Coiling, Ruptured Left Pcom Aneurysm\|Coiling, Ruptured Left Pcom Aneurysm]]
-- [[Cases/Endovascular/Flow Diversion, Basilar Aneurysm\|Flow Diversion, Basilar Aneurysm]]
+- [[Cases/Endovascular/Flow Diversion, BA Trunk Aneurysm\|Flow Diversion, BA Trunk Aneurysm]]
 
 ### Occlusion
 
