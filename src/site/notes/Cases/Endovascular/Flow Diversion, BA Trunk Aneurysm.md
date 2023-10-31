@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-10-30T21:56:35.342-07:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-10-30T22:07:14.146-07:00"}
 ---
 
 
@@ -54,7 +54,7 @@ It appeared that there was calcification and stenosis at the right VA origin (or
 	- A large unruptured irregular basilar trunk aneurysm, 21 mm
 - Black blood MRI illustrates bilateral [[Notes/Artery, Vertebral\|VA]] vessel wall and aneurysm wall enhancement -> high risk of rupturing
 - Plan for flow diversion embolization
-- [[Literature/Triple Therapy, VB Aneurysm\|Triple therapy]]^[[Triple therapy versus dual-antiplatelet therapy for dolichoectatic vertebrobasilar fusiform aneurysms treated with flow diverters | Journal of NeuroInterventional Surgery](https://jnis.bmj.com/content/15/7/655)] for anti-thrombotic management
+- [[Literature/Triple Therapy, VBA Aneurysm\|Triple therapy]]^[[Triple therapy versus dual-antiplatelet therapy for dolichoectatic vertebrobasilar fusiform aneurysms treated with flow diverters | Journal of NeuroInterventional Surgery](https://jnis.bmj.com/content/15/7/655)] for anti-thrombotic management
 	- Daily 81 mg of aspirin - response: 369 ARU
 	- Daily 75 mg of clopidogrel - P2Y12 response: 78 PRU
 	- Daily 10 mg of rivaroxaban
@@ -220,5 +220,5 @@ The final fluoroscopy showed the stent position and contrast stasis.
 
 ## Discussion
 
-- [[Literature/Triple Therapy, VB Aneurysm\|Triple therapy]] was used to lower the risk of basilar artery perforators ischemic stroke.
+- [[Literature/Triple Therapy, VBA Aneurysm\|Triple therapy]] was used to lower the risk of basilar artery perforators ischemic stroke.
 - Adjunctive coil embolization was not attempted to simplify the process and lower the risks of intra-operative complications.
