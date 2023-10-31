@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature/triple-therapy-vb-aneurysm/","tags":["paper","aneurysm","flow_diversion","DAPT"],"created":"2023-10-17T17:49:37.166-07:00","updated":"2023-10-30T20:56:24.419-07:00"}
+{"dg-publish":true,"permalink":"/literature/triple-therapy-vb-aneurysm/","tags":["paper","aneurysm","flow_diversion","DAPT"],"created":"2023-10-17T17:49:37.166-07:00","updated":"2023-10-30T21:07:22.299-07:00"}
 ---
 
 
@@ -47,9 +47,15 @@ In this paper^[[Triple therapy versus dual-antiplatelet therapy for dolichoectat
 
 ### Reference Points
 
- - The anticoagulant dosage used ranged from 5 to 20 mg of rivaroxaban and 5 to 10 mg of apixaban.
+- The anticoagulant dosage used ranged from 5 to 20 mg of rivaroxaban and 5 to 10 mg of apixaban.
 - Mean duration of oral anti-coagulation therapy in TT group was *190* days.
 - Telescoping multiple flow diverters should be kept to a minimum.
 - Adjunctive coiling could be used to reduce mural flow and also to support the mesh, avoiding its prolapse into large fusiform sacs.
 - Dual therapy was associated with less risk of intracranial hemorrhage and major bleeding than TT, with no difference in risk of ischemic stroke, myocardial infarction, or stent thrombosis.
 - Cekirge nd Saatci described the concept of stable remodeling for aneurysms that do not present angiographic occlusion but remain stable for a long period of time.^[[A New Aneurysm Occlusion Classification after the Impact of Flow Modification | American Journal of Neuroradiology](https://www.ajnr.org/content/37/1/19?ijkey=2364a648620d70d34216d7a25a376a42b61dd091&keytype2=tf_ipsecsha)]
+
+---
+
+## Cases
+
+- [[Cases/Endovascular/Flow Diversion, Basilar Aneurysm\|Flow Diversion, Basilar Aneurysm]]
