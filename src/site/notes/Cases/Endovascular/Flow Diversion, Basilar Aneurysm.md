@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-basilar-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-10-30T21:13:37.590-07:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-basilar-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-10-30T21:55:58.056-07:00"}
 ---
 
 
@@ -53,7 +53,7 @@ It appeared that there was calcification and stenosis at the right VA origin (or
 	- Co-dominant bilateral VAs -> radial access -> right VA
 	- A large unruptured irregular basilar trunk aneurysm, 21 mm
 - Black blood MRI illustrates bilateral [[Notes/Artery, Vertebral\|VA]] vessel wall and aneurysm wall enhancement -> high risk of rupturing
-- Plan for flow divertion embolization
+- Plan for flow diversion embolization
 - [[Literature/Triple Therapy, VB Aneurysm\|Triple therapy]]^[[Triple therapy versus dual-antiplatelet therapy for dolichoectatic vertebrobasilar fusiform aneurysms treated with flow diverters | Journal of NeuroInterventional Surgery](https://jnis.bmj.com/content/15/7/655)] for anti-thrombotic management
 	- Daily 81 mg of aspirin - response: 369 ARU
 	- Daily 75 mg of clopidogrel - P2Y12 response: 78 PRU
@@ -61,7 +61,7 @@ It appeared that there was calcification and stenosis at the right VA origin (or
 
 ---
 
-## Flow Diverter Embolization
+## Flow Diversion Embolization
 
 ### Intervention Specifics
 
@@ -117,44 +117,44 @@ An angiogram, conducted through the Rist catheter (pink arrow), without subtract
 
 ---
 
-DSA - Right VA injection (PA and Lateral)
+DSA - Right VA Injection (PA and Lateral)
 ![](https://i.imgur.com/jDqJAhX.jpg)
 The same angiogram with subtraction.
 
 ---
 
-DSA - Right VA injection (PA and Lateral)
+DSA - Right VA Injection (PA and Lateral)
 ![](https://i.imgur.com/YxbM1PK.jpg)
 This zoomed-in run, focused on the aneurysm, allowed us to obtain the measurements.
 
 ---
 
-Roadmap - Right VA injection (PA and Lateral)
+Roadmap - Right VA Injection (PA and Lateral)
 ![](https://i.imgur.com/xsvKzDU.jpg)
 
 ---
 
-Roadmap - Right VA injection (PA and Lateral)
+Roadmap - Right VA Injection (PA and Lateral)
 ![](https://i.imgur.com/A5aW9C9.jpg)
 Following the microwire, both the XT-27 (black arrow) and Vecta 0.046 (brown arrow) catheters were positioned in the proximal basilar artery.
 
 ---
 
-Roadmap - Right VA injection (PA and Lateral)
+Roadmap - Right VA Injection (PA and Lateral)
 ![](https://i.imgur.com/KP8IFgi.jpg)
 The microwire was gently advanced into the right PCA using the "around the world" technique, which is our preferred approach for distal stent landing due to its larger size than the left PCA. However, due to the acute turn at its origin, the mcirocatheter couldn't follow the microwire without exerting excessive pressure on the aneurysm wall, posing a high risk of intra-operative rupture. As a result, we decided to select the left PCA instead.
 
 ---
 
-Roadmap - Right VA injection (PA and Lateral)
+Roadmap - Right VA Injection (PA and Lateral)
 ![](https://i.imgur.com/pcrAfxy.jpg)
 The left PCA was successfully catheterized and the XT-27 was advanced into the distal  P2.
 
 ---
 
-Roadmap - Right VA injection (PA and Lateral)
+Roadmap - Right VA Injection (PA and Lateral)
 ![](https://i.imgur.com/tfbvrsS.jpg)
-The microwire was removed, and a 4.5 mm x 40 mm Surpass Evolve stent^[[Surpass Evolve Implant](https://jnis.bmj.com/content/neurintsurg/12/10/974/F1.large.jpg)] was inserted inside the XT-27 and advanced to its tip. Initially, a Surpass Evolve 5 mm x 40 mm stent was attempted, but it was removed due to the ribbon effect at the aneurysm curve.)
+The microwire was removed, and a 4.5 mm x 40 mm Surpass Evolve stent^[[Surpass Evolve Implant](https://jnis.bmj.com/content/neurintsurg/12/10/974/F1.large.jpg)] was inserted inside the XT-27 and advanced to its tip. Initially, a Surpass Evolve 5 mm x 40 mm stent was attempted, but it was removed due to the ribbon effect at the aneurysm curve.
 
 ---
 
@@ -184,7 +184,7 @@ A post-deployment fluoroscopy showed no complications and there was excellent co
 
 DSA - Right VA Injection (PA and Lateral)
 ![](https://i.imgur.com/JNCVfYm.jpg)
-A repeat angiogram during the early arterial phase revealed continuous contrast stasis (white star) which was subtracted and a total of three aneurysms (1, 2, and 3).
+A repeat angiogram during the early arterial phase revealed continuous contrast stasis (white star) which was subtracted and a total of three aneurysms (1, 2, and 3) covered by the stent.
 
 ---
 
@@ -200,7 +200,7 @@ A delayed, zoomed-out angiogram showed patent bilateral PCAs.
 
 ---
 
-Final fluoroscopy - PA and Lateral
+Final Fluoroscopy - PA and Lateral
 ![](https://i.imgur.com/dd6Vtln.jpg)
 The final fluoroscopy showed the stent position and contrast stasis.
 
@@ -220,5 +220,5 @@ The final fluoroscopy showed the stent position and contrast stasis.
 
 ## Discussion
 
-- [[Literature/Triple Therapy, VB Aneurysm\|Triple therapy]] to lower the risk of basilar artery perforators ischemic stroke
-- Adjunctive coil embolization was not attempted to simplify the process and lower the risks of intra-operative complications
+- [[Literature/Triple Therapy, VB Aneurysm\|Triple therapy]] was used to lower the risk of basilar artery perforators ischemic stroke.
+- Adjunctive coil embolization was not attempted to simplify the process and lower the risks of intra-operative complications.
