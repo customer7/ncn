@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-10-30T22:07:14.146-07:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-10-31T09:10:49.006-07:00"}
 ---
 
 
@@ -66,6 +66,7 @@ It appeared that there was calcification and stenosis at the right VA origin (or
 ### Intervention Specifics
 
 - Intra-operative neuro-monitoring: SSEP, MEP, EEG
+- General anesthesia
 - **Access**: Right [[Notes/Access, Radial Artery\|radial artery access]]
 - **Sheath**: Terumo 7F slender sheath, 10 cm^[[GLIDESHEATH SLENDER® Hydrophilic Coated Introducer Sheath](https://terumois.com/products/access/glidesheath-slender-introducer-sheath.html)]
 - **Guide catheter**: 7F Rist, 95 cm^[[Rist Radial Access System | Medtronic](https://www.medtronic.com/us-en/healthcare-professionals/products/neurological/access-delivery-nv/rist-radial-access-system.html)]
