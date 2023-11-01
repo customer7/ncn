@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-10-31T18:56:04.231-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-11-01T14:38:54.180-07:00"}
 ---
 
 With the introduction of various catheters designed for radial access, the **radial artery access** has been gaining popularity recently. The [[Notes/Catheter, Simmons\|Simmons catheters]] are typically the go-to choice for selecting target arteries.
@@ -93,7 +93,7 @@ This angiography revealed a tortuous right radial artery origin with adjacent tw
 
 ---
 
-### Case 5
+### 5
 
 ![](https://i.imgur.com/ai1kM80.jpg)
 The right [[Notes/Artery, Vertebral\|VA]] (pink arrow) is typically the first artery to catheterize in diagnostic cerebral angiography via the radial access.
