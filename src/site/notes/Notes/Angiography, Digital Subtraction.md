@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2023-10-29T14:40:03.536-07:00"}
+{"dg-publish":true,"permalink":"/notes/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2023-11-01T16:25:29.746-07:00"}
 ---
 
 Some random cases are parked here. They may be moved to a more appropriate page in the future.
@@ -30,7 +30,7 @@ There is a round hypodensity (arrow) that seems to be in the transverse segment 
 
 ### 3
 
-![](https://i.imgur.com/c7tWbhv.jpg)
+![](https://i.imgur.com/Y9u0xVT.jpg)
 This patient underwent mechanical thrombectomy under moderate sedation for acute right ICA terminus occlusion. DSA images were blurred due to head motions (**A** and **C**). After **pixel shift** (**B** and **D**), the image quality significantly improved.
 
 ---
