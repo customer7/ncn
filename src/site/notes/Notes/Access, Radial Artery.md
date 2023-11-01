@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-11-01T14:38:54.180-07:00"}
+{"dg-publish":true,"permalink":"/notes/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-11-01T16:18:14.560-07:00"}
 ---
 
 With the introduction of various catheters designed for radial access, the **radial artery access** has been gaining popularity recently. The [[Notes/Catheter, Simmons\|Simmons catheters]] are typically the go-to choice for selecting target arteries.
@@ -39,7 +39,10 @@ With the introduction of various catheters designed for radial access, the **rad
 ### 2
 
 ![](https://i.imgur.com/hOmu2Ke.jpg)
-When performing angiogram in an awake patient, injecting local anesthesia is 
+The local anesthetic (white diamond) can be seen above the right radial artery (red star).
+
+- (**A**): Pre-injection. 
+- (**B**): Post-injection. 
 
 ---
 ### 3
