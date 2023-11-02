@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","endo","coil","embolization","Pcom"],"created":"2023-04-24T19:29:35.000-07:00","updated":"2023-08-14T22:01:49.823-07:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","endo","coil","embolization","Pcom"],"created":"2023-04-24T19:29:35.000-07:00","updated":"2023-11-01T19:11:44.364-07:00"}
 ---
 
 
@@ -40,9 +40,9 @@ A left posterior communicating artery (Pcom) aneurysm is indicated on the CTA fr
 - 0.035'' 150 cm Glidewire
 - 150 cm SL-10, straight tip
 - 0.014'' 200 cm Synchro2
-- 3D eV3 Axium Prime 3.5 mm x 60 mm coil
-- 3D eV3 Axium Prime 3 mm x40 mm coil
-- HX eV3 Axium Prime 2.5 mm x80 mm coil
+- 3D eV3 Axium Prime 3.5 mm x 6 cm coil
+- 3D eV3 Axium Prime 3 mm x 4 cm coil
+- HX eV3 Axium Prime 2.5 mm x 8 cm coil
 
 ---
 
