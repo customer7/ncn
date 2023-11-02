@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature/triple-therapy-vba-aneurysm/","tags":["paper","aneurysm","flow_diversion","DAPT"],"created":"2023-10-17T17:49:37.166-07:00","updated":"2023-11-02T11:24:26.677-07:00"}
+{"dg-publish":true,"permalink":"/literature/triple-therapy-vba-aneurysm/","tags":["paper","aneurysm","flow_diversion","DAPT"],"created":"2023-10-17T17:49:37.166-07:00","updated":"2023-11-02T11:25:29.965-07:00"}
 ---
 
 
@@ -60,6 +60,6 @@ In this paper^[[Triple therapy versus dual-antiplatelet therapy for dolichoectat
 
 ---
 
-## Cases
+### Cases
 
 - [[Cases/Endovascular/Flow Diversion, BA Trunk Aneurysm\|Flow Diversion, BA Trunk Aneurysm]]
