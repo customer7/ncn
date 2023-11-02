@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/literature/triple-therapy-vba-aneurysm/","tags":["paper","aneurysm","flow_diversion","DAPT"],"created":"2023-10-17T17:49:37.166-07:00","updated":"2023-10-30T21:57:30.453-07:00"}
+{"dg-publish":true,"permalink":"/literature/triple-therapy-vba-aneurysm/","tags":["paper","aneurysm","flow_diversion","DAPT"],"created":"2023-10-17T17:49:37.166-07:00","updated":"2023-11-02T11:24:26.677-07:00"}
 ---
 
 
 ## Triple Therapy versus Dual-antiplatelet Therapy for Dolichoectatic Vertebrobasilar Fusiform Aneurysms Treated with Flow Diverters | Journal of NeuroInterventional Surgery
 
 In this paper^[[Triple therapy versus dual-antiplatelet therapy for dolichoectatic vertebrobasilar fusiform aneurysms treated with flow diverters | Journal of NeuroInterventional Surgery](https://jnis.bmj.com/content/15/7/655.full)], the authors investigated the utilization of *Triple Therapy* (TT) in the management of the dolichoectatic vertebrobasilar fusiform aneurysms treated with flow diverters. They concluded that compared with *Dual-antiplatelet Therapy* (DAPT), TT group had fewer ischemic strokes, less symptom progression, and overall better outcomes at last follow-up. 
+
+---
 
 ### Study Specifics
 
@@ -44,6 +46,8 @@ In this paper^[[Triple therapy versus dual-antiplatelet therapy for dolichoectat
 	- Radial access: 0.006 (TT>DAPT)
 	- Overall mRS score decline: 0.001 (DAPT>TT)
 	- Moderate-to-severe disability at last follow-up: 0.007 (DAPT>TT)
+
+---
 
 ### Reference Points
 
