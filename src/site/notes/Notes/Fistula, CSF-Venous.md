@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fistula-csf-venous/","tags":["CSF"],"created":"2023-11-02T10:57:41.305-07:00","updated":"2023-11-02T11:15:25.393-07:00"}
+{"dg-publish":true,"permalink":"/notes/fistula-csf-venous/","tags":["CSF"],"created":"2023-11-02T10:57:41.305-07:00","updated":"2023-11-02T11:16:36.623-07:00"}
 ---
 
-**CSF-venous fistula** could be a cause of [[Notes/Hypotension, Intracranial\|intracranial hypotension]]. [[Literature/Venous Embolization, CFS-Venous Fistula\|Endovascular transvenous fistula embolization]] could be effective in treating this disease.^[[A Novel Endovascular Therapy for CSF Hypotension Secondary to CSF-Venous Fistulas - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8115355/)]
+**CSF-venous fistula** could be a cause of [[Notes/Hypotension, Intracranial\|intracranial hypotension]]. [[Literature/Venous Embolization, CFS-Venous Fistula\|Endovascular transvenous fistula embolization]] ([[Notes/Fistula, CSF-Venous#1\|Case 1]]) could be effective in treating this disease.^[[A Novel Endovascular Therapy for CSF Hypotension Secondary to CSF-Venous Fistulas - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8115355/)]
 
 ---
 
