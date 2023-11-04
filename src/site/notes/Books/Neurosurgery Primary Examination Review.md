@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/neurosurgery-primary-examination-review/","title":"Neurosurgery Primary Examination Review","tags":["book","ABNS"],"created":"2023-11-03T21:47:48.911-07:00","updated":"2023-11-03T21:48:36.822-07:00"}
+{"dg-publish":true,"permalink":"/books/neurosurgery-primary-examination-review/","title":"Neurosurgery Primary Examination Review","tags":["book","ABNS"],"created":"2023-11-03T21:47:48.911-07:00","updated":"2023-11-03T21:51:13.821-07:00"}
 ---
 
 **Title**: Neurosurgery Primary Examination Review
@@ -11,3 +11,4 @@
 **ISBN10**: 1626234965
 **ISBN13**: 9781626234963
 **Rating**: ⭐️⭐️⭐️⭐️⭐️
+**Comment**: Q&A review book with excellent diagrams and tables, recommend for late stage review.
