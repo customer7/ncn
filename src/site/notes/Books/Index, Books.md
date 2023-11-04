@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/index-books/","pinned":true,"tags":["book","index"],"created":"2023-11-03T21:15:01.722-07:00","updated":"2023-11-03T22:12:18.709-07:00"}
+{"dg-publish":true,"permalink":"/books/index-books/","pinned":true,"tags":["book","index"],"created":"2023-11-03T21:15:01.722-07:00","updated":"2023-11-03T22:43:16.086-07:00"}
 ---
 
 
@@ -12,6 +12,17 @@
 | [[Books/Neuroanatomy Through Clinical Cases\|Neuroanatomy Through Clinical Cases]]                                     | Hal Blumenfeld                                  | ![\|67](http://books.google.com/books/content?id=PgdTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | 2021               | 1056  | ⭐️⭐️⭐️⭐️⭐️ | The best neuroanatomy book.                                                          |
 
 { .block-language-dataview}
+
+---
+
+## USMLE
+
+| File                                                                                  | Author                | Cover                                                                                                          | Year             | Pages | Rating     | Comment                                          |
+| ------------------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------- | ----- | ---------- | ------------------------------------------------ |
+| [[Books/First Aid for the USMLE Step 1 2014\|First Aid for the USMLE Step 1 2014]] | Tao Le, Vikas Bhushan | ![\|67](http://books.google.com/books/content?id=0TZPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api) | January 05, 2014 | 785   | ⭐️⭐️⭐️⭐️⭐️ | If you can have one book for Step 1, this is it. |
+
+{ .block-language-dataview}
+
 
 ---
 
