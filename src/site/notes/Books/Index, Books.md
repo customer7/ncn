@@ -7,6 +7,7 @@
 | File                                                                                                                      | Cover                                                                                                                    | Author                                          | Year               | Pages | Genre   | Rating     |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ------------------ | ----- | ------- | ---------- |
 | [[Books/The Comprehensive Neurosurgery Board Preparation Book\|The Comprehensive Neurosurgery Board Preparation Book]] | ![\|67](http://books.google.com/books/content?id=U32fDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Paul V. Birinyi, Najib E. El Tecle, Eric Marvin | September 21, 2016 | 448   | Medical | ⭐️⭐️⭐️⭐️⭐️ |
+| [[Books/Neurosurgery Primary Examination Review\|Neurosurgery Primary Examination Review]]                             | ![\|67](http://books.google.com/books/content?id=wtB-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Amgad S. Hanna                                  | December 12, 2018  | 472   | Medical | ⭐️⭐️⭐️⭐️⭐️ |
 
 { .block-language-dataview}
 
