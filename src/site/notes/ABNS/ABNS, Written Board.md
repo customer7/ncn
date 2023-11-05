@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abns/abns-written-board/","tags":["ABNS","book"],"created":"2023-03-09T14:32:02.000-08:00","updated":"2023-11-04T18:06:44.852-07:00"}
+{"dg-publish":true,"permalink":"/abns/abns-written-board/","tags":["ABNS","book"],"created":"2023-03-09T14:32:02.000-08:00","updated":"2023-11-04T18:13:37.387-07:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 - [SANS for Individual Learners - cns.org](https://www.cns.org/education/sans-lifelong-learning) - The CNS SANS ABNS Primary Board Examination Review Bundle is a must-do.
 
 ---
-os
+
 ## Books
 
 | File                                                                                                                      | Author                                                 | Cover                                                                                                                    | Year | Rating     | Comment                                                                              |
