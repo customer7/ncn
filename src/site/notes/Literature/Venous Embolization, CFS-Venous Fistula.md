@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/literature/venous-embolization-cfs-venous-fistula/","tags":["CSF","fistula"],"created":"2023-11-02T10:55:16.373-07:00","updated":"2023-11-04T19:27:55.993-07:00"}
+{"dg-publish":true,"permalink":"/literature/venous-embolization-cfs-venous-fistula/","tags":["CSF","fistula"],"created":"2023-11-02T10:55:16.373-07:00","updated":"2023-11-04T19:41:37.987-07:00"}
 ---
 
 ## A Novel Endovascular Therapy for CSF Hypotension Secondary to CSF-Venous Fistulas - AJNR
 
-In this paper^[[A Novel Endovascular Therapy for CSF Hypotension Secondary to CSF-Venous Fistulas - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8115355/)], the authors reported a consecutive case series of five patients with spontaneous intracranial hypotension secondary to [[Fistula, CSF-Venous\|CSF-venous fistula]] which was successfully treated with endovascular transvenous Onyx embolization. 
+In this paper[^1], the authors reported a consecutive case series of five patients with spontaneous intracranial hypotension secondary to [[Notes/Fistula, CSF-Venous\|CSF-venous fistula]], which was successfully treated with endovascular transvenous Onyx embolization. 
 
 ---
 
@@ -48,3 +48,5 @@ In this paper^[[A Novel Endovascular Therapy for CSF Hypotension Secondary to CS
 
 - [[Notes/Fistula, CSF-Venous#1\|CSF-venous fistula]]
 - [[Notes/Hypotension, Intracranial#1\|Intracranial hypotension]]
+
+[^1]: [A Novel Endovascular Therapy for CSF Hypotension Secondary to CSF-Venous Fistulas - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8115355/)
