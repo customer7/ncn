@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abns/abns-written-board/","tags":["ABNS","book"],"created":"2023-03-09T14:32:02.000-08:00","updated":"2023-11-04T15:46:27.281-07:00"}
+{"dg-publish":true,"permalink":"/abns/abns-written-board/","tags":["ABNS","book"],"created":"2023-03-09T14:32:02.000-08:00","updated":"2023-11-04T18:06:44.852-07:00"}
 ---
 
 
@@ -8,14 +8,16 @@
 - [SANS for Individual Learners - cns.org](https://www.cns.org/education/sans-lifelong-learning) - The CNS SANS ABNS Primary Board Examination Review Bundle is a must-do.
 
 ---
-
+os
 ## Books
 
-| File                                                                                                                      | Author                                          | Cover                                                                                                                    | Year | Rating     | Comment                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---- | ---------- | ------------------------------------------------------------------------------------ |
-| [[Books/The Comprehensive Neurosurgery Board Preparation Book\|The Comprehensive Neurosurgery Board Preparation Book]] | Paul V. Birinyi, Najib E. El Tecle, Eric Marvin | ![\|67](http://books.google.com/books/content?id=U32fDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2016 | ⭐️⭐️⭐️⭐️⭐️ | Excellent Q&A book, recommend for early stage knowledge accumulation.                |
-| [[Books/Neurosurgery Primary Examination Review\|Neurosurgery Primary Examination Review]]                             | Amgad S. Hanna                                  | ![\|67](http://books.google.com/books/content?id=wtB-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2018 | ⭐️⭐️⭐️⭐️⭐️ | Q&A review book with excellent diagrams and tables, recommend for late stage review. |
-| [[Books/Neuroanatomy Through Clinical Cases\|Neuroanatomy Through Clinical Cases]]                                     | Hal Blumenfeld                                  | ![\|67](http://books.google.com/books/content?id=PgdTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | 2021 | ⭐️⭐️⭐️⭐️⭐️ | The best neuroanatomy book.                                                          |
+| File                                                                                                                      | Author                                                 | Cover                                                                                                                    | Year | Rating     | Comment                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ---- | ---------- | ------------------------------------------------------------------------------------ |
+| [[Books/The Comprehensive Neurosurgery Board Preparation Book\|The Comprehensive Neurosurgery Board Preparation Book]] | Paul V. Birinyi, Najib E. El Tecle, Eric Marvin        | ![\|67](http://books.google.com/books/content?id=U32fDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2016 | ⭐️⭐️⭐️⭐️⭐️ | Excellent Q&A book, recommend for early stage knowledge accumulation.                |
+| [[Books/Neurosurgery Primary Examination Review\|Neurosurgery Primary Examination Review]]                             | Amgad S. Hanna                                         | ![\|67](http://books.google.com/books/content?id=wtB-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2018 | ⭐️⭐️⭐️⭐️⭐️ | Q&A review book with excellent diagrams and tables, recommend for late stage review. |
+| [[Books/Neuroanatomy Through Clinical Cases\|Neuroanatomy Through Clinical Cases]]                                     | Hal Blumenfeld                                         | ![\|67](http://books.google.com/books/content?id=PgdTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | 2021 | ⭐️⭐️⭐️⭐️⭐️ | The best neuroanatomy book.                                                          |
+| [[Books/Oxford Case Histories in Neurosurgery\|Oxford Case Histories in Neurosurgery]]                                 | Harutomo Hasegawa, Matthew Crocker, Pawan Singh Minhas | ![\|67](http://books.google.com/books/content?id=y9H8OzM3niUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2013 | ⭐️⭐️⭐️⭐️⭐️ | Excellent introduction book to clinical neurosurgery cases.                          |
+| [[Books/Handbook of Neurosurgery\|Handbook of Neurosurgery]]                                                           | Mark S. Greenberg                                      | ![\|67](http://books.google.com/books/content?id=Jc_LDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2019 | ⭐️⭐️⭐️⭐️   | In the era of the Internet, this book's value has been drastically depreciated.      |
 
 { .block-language-dataview}
 
