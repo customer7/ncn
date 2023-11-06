@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/index-books/","pinned":true,"tags":["book","index"],"created":"2023-11-03T21:15:01.722-07:00","updated":"2023-11-04T15:47:12.081-07:00"}
+{"dg-publish":true,"permalink":"/books/index-books/","pinned":true,"tags":["book","index"],"created":"2023-11-03T21:15:01.722-07:00","updated":"2023-11-05T18:11:05.187-08:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 | [[Books/Neurosurgery Primary Examination Review\|Neurosurgery Primary Examination Review]]                             | Amgad S. Hanna                                         | ![\|67](http://books.google.com/books/content?id=wtB-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2018 | ⭐️⭐️⭐️⭐️⭐️ | Q&A review book with excellent diagrams and tables, recommend for late stage review. |
 | [[Books/Neuroanatomy Through Clinical Cases\|Neuroanatomy Through Clinical Cases]]                                     | Hal Blumenfeld                                         | ![\|67](http://books.google.com/books/content?id=PgdTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | 2021 | ⭐️⭐️⭐️⭐️⭐️ | The best neuroanatomy book.                                                          |
 | [[Books/Oxford Case Histories in Neurosurgery\|Oxford Case Histories in Neurosurgery]]                                 | Harutomo Hasegawa, Matthew Crocker, Pawan Singh Minhas | ![\|67](http://books.google.com/books/content?id=y9H8OzM3niUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2013 | ⭐️⭐️⭐️⭐️⭐️ | Excellent introduction book to clinical neurosurgery cases.                          |
-| [[Books/Handbook of Neurosurgery\|Handbook of Neurosurgery]]                                                           | Mark S. Greenberg                                      | ![\|67](http://books.google.com/books/content?id=Jc_LDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2019 | ⭐️⭐️⭐️⭐️   | In the era of the Internet, this book's value has been drastically depreciated.      |
+| [[Books/Handbook of Neurosurgery\|Handbook of Neurosurgery]]                                                           | Mark S. Greenberg                                      | ![\|67](http://books.google.com/books/content?id=Jc_LDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2019 | ⭐️⭐️⭐️⭐️   | In the era of the Internet, the value of this book has been drastically depreciated. |
 
 { .block-language-dataview}
 
