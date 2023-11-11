@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/neuroanatomy-through-clinical-cases/","title":"Neuroanatomy Through Clinical Cases","tags":["book","anatomy"],"created":"2023-11-03T22:39:19.627-07:00","updated":"2023-11-03T22:45:11.493-07:00"}
+{"dg-publish":true,"permalink":"/books/neuroanatomy-through-clinical-cases/","title":"Neuroanatomy Through Clinical Cases","tags":["book","anatomy"],"created":"2023-11-03T22:39:19.000-07:00","updated":"2023-11-10T21:24:30.000-08:00"}
 ---
 
 **Title**: Neuroanatomy Through Clinical Cases
