@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/handbook-of-neurosurgery/","title":"Handbook of Neurosurgery","tags":["book"],"created":"2023-11-04T18:07:23.808-07:00","updated":"2023-11-05T18:10:36.576-08:00"}
+{"dg-publish":true,"permalink":"/books/handbook-of-neurosurgery/","title":"Handbook of Neurosurgery","tags":["book"],"created":"2023-11-04T18:07:23.000-07:00","updated":"2023-11-10T21:24:30.000-08:00"}
 ---
 
 **Title**: Handbook of Neurosurgery
