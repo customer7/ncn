@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abns/abns-written-board/","tags":["ABNS","book"],"created":"2023-03-09T14:32:02.000-08:00","updated":"2023-11-05T18:09:44.384-08:00"}
+{"dg-publish":true,"permalink":"/abns/abns-written-board/","tags":["ABNS","book"],"created":"2023-03-09T14:32:02.000-08:00","updated":"2023-11-11T11:38:55.987-08:00"}
 ---
 
 
@@ -11,13 +11,13 @@
 
 ## Books
 
-| File                                                                                                                      | Author                                                 | Cover       | Year | Rating | Comment                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------- | ---- | ------ | ------------------------------------------------------------------------------------ |
-| [[Books/Handbook of Neurosurgery\|Handbook of Neurosurgery]]                                                           | Mark S. Greenberg                                      | ![\|67](\-) | 2019 | ★★★★☆  | In the era of the Internet, the value of this book has been drastically depreciated. |
-| [[Books/Neuroanatomy Through Clinical Cases\|Neuroanatomy Through Clinical Cases]]                                     | Hal Blumenfeld                                         | ![\|67](\-) | 2002 | ★★★★★  | The best neuroanatomy book.                                                          |
-| [[Books/Neurosurgery Primary Examination Review\|Neurosurgery Primary Examination Review]]                             | Amgad S. Hanna                                         | ![\|67](\-) | 2018 | ★★★★★  | Q&A review book with excellent diagrams and tables, recommend for late stage review. |
-| [[Books/Oxford Case Histories in Neurosurgery\|Oxford Case Histories in Neurosurgery]]                                 | Harutomo Hasegawa, Matthew Crocker, Pawan Singh Minhas | ![\|67](\-) | 2013 | ★★★★★  | Excellent introduction book to clinical neurosurgery cases.                          |
-| [[Books/The Comprehensive Neurosurgery Board Preparation Book\|The Comprehensive Neurosurgery Board Preparation Book]] | Paul V. Birinyi, Najib El Tecle, etc.                  | ![\|67](\-) | 2016 | ★★★★★  | Excellent Q&A book, recommend for early stage knowledge accumulation.                |
+| File                                                                                                                      | Author                                                 | Cover                                                                                                                    | Year | Rating | Comment                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ---- | ------ | ------------------------------------------------------------------------------------ |
+| [[Books/Neuroanatomy Through Clinical Cases\|Neuroanatomy Through Clinical Cases]]                                     | Hal Blumenfeld                                         | ![\|67](http://books.google.com/books/content?id=GTpvQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | 2002 | ★★★★★  | The best neuroanatomy book.                                                          |
+| [[Books/Neurosurgery Primary Examination Review\|Neurosurgery Primary Examination Review]]                             | Amgad S. Hanna                                         | ![\|67](http://books.google.com/books/content?id=wtB-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2018 | ★★★★★  | Q&A review book with excellent diagrams and tables, recommend for late stage review. |
+| [[Books/Oxford Case Histories in Neurosurgery\|Oxford Case Histories in Neurosurgery]]                                 | Harutomo Hasegawa, Matthew Crocker, Pawan Singh Minhas | ![\|67](http://books.google.com/books/content?id=y9H8OzM3niUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2013 | ★★★★★  | Excellent introduction book to clinical neurosurgery cases.                          |
+| [[Books/The Comprehensive Neurosurgery Board Preparation Book\|The Comprehensive Neurosurgery Board Preparation Book]] | Paul V. Birinyi, Najib El Tecle, etc.                  | ![\|67](http://books.google.com/books/content?id=B8fhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 2016 | ★★★★★  | Excellent Q&A book, recommend for early stage knowledge accumulation.                |
+| [[Books/Handbook of Neurosurgery\|Handbook of Neurosurgery]]                                                           | Mark S. Greenberg                                      | ![\|67](http://books.google.com/books/content?id=Iu9owAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)           | 2019 | ★★★★☆  | In the era of the Internet, the value of this book has been drastically depreciated. |
 
 { .block-language-dataview}
 
