@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/index-books/","pinned":true,"tags":["book","index"],"created":"2023-11-03T21:15:01.722-07:00","updated":"2023-11-05T18:11:05.187-08:00"}
+{"dg-publish":true,"permalink":"/books/index-books/","pinned":true,"tags":["book","index"],"created":"2023-11-03T21:15:01.000-07:00","updated":"2023-11-10T21:24:30.000-08:00"}
 ---
 
 
