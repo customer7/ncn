@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/fenestration/","created":"2023-09-22T11:59:05.000-07:00","updated":"2023-10-21T11:20:55.181-07:00"}
+{"dg-publish":true,"permalink":"/notes/fenestration/","created":"2023-09-22T11:59:05.000-07:00","updated":"2023-11-11T10:07:02.232-08:00"}
 ---
 
 Originating in the early 19th century, "**Fenestra**," a Latin word for "window," is used to describe a hole in an anatomical structure.^[[Fenestra - Oxford Reference](https://www.oxfordreference.com/display/10.1093/acref/9780195392883.001.0001/m_en_us1246648?rskey=Z7D9Eg&result=1)]^[[Fenestra - Wikipedia](https://en.wikipedia.org/wiki/Fenestra)] Its derivative, "**fenestration**," meaning the surgical creation of such an opening, has, however, been more widely used to describe a natural luminal separation in an artery.
@@ -22,3 +22,10 @@ Diagnostic cerebral angiography confirmed a left V4 fenestration (**D**, **E**).
 
 ![](https://i.imgur.com/F7Vj4KU.jpg)
 This patient presented with a ruptured left MCA aneurysm. There is an incidentally seen small basilar artery fenestration near the origin of the right AICA. The VAs are co-dominant, thus presenting an interesting contrast dilution pattern in the BA.
+
+---
+
+### 3
+
+![](https://i.imgur.com/UpMvqlX.png)
+This left ICA injection shows a small left M1 fenestration.
