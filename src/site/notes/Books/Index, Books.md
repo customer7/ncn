@@ -19,9 +19,9 @@
 
 ## USMLE
 
-| File                                                                                  | Author                | Cover                                                                                                          | Year | Rating     | Comment                                          |
-| ------------------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------- | ---- | ---------- | ------------------------------------------------ |
-| [[Books/First Aid for the USMLE Step 1 2014\|First Aid for the USMLE Step 1 2014]] | Tao Le, Vikas Bhushan | ![\|67](http://books.google.com/books/content?id=0TZPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api) | 2014 | ⭐️⭐️⭐️⭐️⭐️ | If you can have one book for Step 1, this is it. |
+| File                                                                                  | Author                | Cover                                                                                                          | Year             | Rating | Comment                                               |
+| ------------------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------- | ------ | ----------------------------------------------------- |
+| [[Books/First Aid for the USMLE Step 1 2014\|First Aid for the USMLE Step 1 2014]] | Tao Le, Vikas Bhushan | ![\|67](http://books.google.com/books/content?id=0TZPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api) | January 05, 2014 | ★★★★★  | If you can only have one book for Step 1, this is it. |
 
 { .block-language-dataview}
 
