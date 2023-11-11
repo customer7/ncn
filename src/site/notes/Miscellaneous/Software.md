@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/miscellaneous/software/","created":"2023-03-10T11:55:47.000-08:00","updated":"2023-10-23T17:12:49.856-07:00"}
+{"dg-publish":true,"permalink":"/miscellaneous/software/","created":"2023-03-10T11:55:47.000-08:00","updated":"2023-11-11T13:41:59.620-08:00"}
 ---
 
 Everybody has their own individual preferences when it comes to how the workflow is done. 
@@ -24,3 +24,16 @@ Here is the software that we rely on to build this website.
 - [Libby, by OverDrive on the App Store](https://apps.apple.com/ca/app/libby-by-overdrive/id1076402606) - e-books
 - [Mobile Apps - Obsidian](https://obsidian.md/mobile) - note-taking app
 - [Procreate® – Sketch, Paint, Create.](https://procreate.com/) - image editor
+
+---
+
+## Obsidian Plug-Ins
+
+- [Book Search by anpigon](https://github.com/anpigon/obsidian-book-search-plugin) - automatically creates notes by searching for books
+- [Dataview by blacksmithgu](https://blacksmithgu.github.io/obsidian-dataview/) - a live index and query engine
+- [Digital Garden by oleeskild](https://dg-docs.ole.dev/) - publishes obsidian notes for free
+- [Imgur Upload by gavvvr](https://github.com/gavvvr/obsidian-imgur-plugin) - pastes images right to imgur.com
+- [Linter by platers](https://github.com/platers/obsidian-linter) - formats and styles your notes with a focus on configurability and extensibility
+- [Tasks by obsidian tasks group](https://publish.obsidian.md/tasks/Introduction) - task management
+- [Templater by Silentvoid13](https://silentvoid13.github.io/Templater/) - generates templates
+- [Typewriter Scroll by deathau](https://github.com/deathau/cm-typewriter-scroll-obsidian) - enables typewriter-style scrolling
