@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/oxford-case-histories-in-neurosurgery/","title":"Oxford Case Histories in Neurosurgery","tags":["book","Oxford"],"created":"2023-11-11T11:09:47.531-08:00","updated":"2023-11-11T11:10:19.189-08:00"}
+{"dg-publish":true,"permalink":"/books/oxford-case-histories-in-neurosurgery/","title":"Oxford Case Histories in Neurosurgery","tags":["book","Oxford"],"created":"2023-11-11T11:09:47.531-08:00","updated":"2023-11-11T11:13:28.892-08:00"}
 ---
 
 ![](http://books.google.com/books/content?id=y9H8OzM3niUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
