@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/literature/venous-embolization-cfs-venous-fistula/","tags":["CSF","fistula"],"created":"2023-11-02T10:55:16.373-07:00","updated":"2023-11-04T19:41:37.987-07:00"}
+{"dg-publish":true,"permalink":"/literature/venous-embolization-cfs-venous-fistula/","tags":["CSF","fistula"],"created":"2023-11-02T10:55:16.373-07:00","updated":"2023-11-11T12:02:37.549-08:00"}
 ---
+
 
 ## A Novel Endovascular Therapy for CSF Hypotension Secondary to CSF-Venous Fistulas - AJNR
 
