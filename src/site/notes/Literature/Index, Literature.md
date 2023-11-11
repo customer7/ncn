@@ -5,6 +5,7 @@
 ## Vascular
 
 - [[Literature/Venous Embolization, CFS-Venous Fistula\|Venous Embolization, CFS-Venous Fistula]]
+- [[Literature/Unruptured Aneurysm, NEJM 2012\|Unruptured Aneurysm, NEJM 2012]]
 - [[Literature/Triple Therapy, VBA Aneurysm\|Triple Therapy, VBA Aneurysm]]
 
 { .block-language-dataview}
