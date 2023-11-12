@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/literature/unruptured-aneurysm-japanese-2012/","tags":["aneurysm","aneurysm/unruptured","Japanese","NEJM"],"created":"2023-11-11T13:48:16.264-08:00","updated":"2023-11-11T14:56:42.057-08:00"}
+{"dg-publish":true,"permalink":"/literature/unruptured-aneurysm-japanese-2012/","tags":["aneurysm","aneurysm/unruptured","Japanese","NEJM"],"created":"2023-11-11T13:48:16.264-08:00","updated":"2023-11-11T20:39:27.122-08:00"}
 ---
 
 
 ## The Natural Course of Unruptured Cerebral Aneurysms in a Japanese Cohort | NEJM
 
-In this paper^[[The Natural Course of Unruptured Cerebral Aneurysms in a Japanese Cohort | NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa1113260)], the authors enrolled newly identified, unruptured, 3 mm or more, saccular, cerebral aneurysms in patients 20 years of age or older in Japan from January 2001 to April 2004. They concluded that the natural course of unruptured cerebral aneurysms varies according to the size, location, and shape of the aneurysm.
+In this paper^[[The Natural Course of Unruptured Cerebral Aneurysms in a Japanese Cohort | NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa1113260)], the authors enrolled newly identified, unruptured saccular cerebral aneurysms of 3 mm or more in patients aged 20 years or older in Japan from January 2001 to April 2004. They concluded that the natural course of unruptured cerebral aneurysms varies according to the size, location, and shape of the aneurysm.
 
 ---
 
