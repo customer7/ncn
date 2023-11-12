@@ -4,8 +4,9 @@
 
 ## Vascular
 
-- [[Literature/Venous Embolization, CFS-Venous Fistula\|Venous Embolization, CFS-Venous Fistula]]
-- [[Literature/Unruptured Aneurysm, NEJM 2012\|Unruptured Aneurysm, NEJM 2012]]
-- [[Literature/Triple Therapy, VBA Aneurysm\|Triple Therapy, VBA Aneurysm]]
+- [[Literature/Venous Embolization, CFS-Venous Fistula - 2021\|Venous Embolization, CFS-Venous Fistula - 2021]]
+- [[Literature/Unruptured Aneurysm, Japanese - 2012\|Unruptured Aneurysm, Japanese - 2012]]
+- [[Literature/ISUIA, Lancet - 2003\|ISUIA, Lancet - 2003]]
+- [[Literature/Triple Therapy, VBA Aneurysm - 2022\|Triple Therapy, VBA Aneurysm - 2022]]
 
 { .block-language-dataview}
