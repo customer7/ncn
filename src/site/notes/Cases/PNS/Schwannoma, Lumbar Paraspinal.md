@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pns/schwannoma-lumbar-paraspinal/","tags":["NF1","tumor/lsp","PNS","schwannoma"],"created":"2023-05-12T20:42:34.000-07:00","updated":"2023-09-07T23:03:11.000-07:00"}
+{"dg-publish":true,"permalink":"/cases/pns/schwannoma-lumbar-paraspinal/","tags":["NF1","tumor/lsp","PNS","schwannoma"],"created":"2023-05-12T20:42:34.000-07:00","updated":"2023-11-11T11:55:55.548-08:00"}
 ---
 
 
@@ -124,7 +124,6 @@ The wound was closed with Dermabond.
 Benign Schwannomas and neurofibromas have different techniques because of different patterns of fascicular involvement.
 
 #### Schwannoma
-
 
 - Intraoperative monitoring^[[Surgical strategies for peripheral nerve schwannoma based on the intraoperative neurophysiological monitoring - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2468900919300386)]
 - Grows extrinsic to its parent fascicles
