@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature/ucas-japan-2012/","tags":["aneurysm","aneurysm/unruptured","Japanese","NEJM"],"created":"2023-11-11T13:48:16.264-08:00","updated":"2023-11-11T20:39:27.122-08:00"}
+{"dg-publish":true,"permalink":"/literature/ucas-japan-2012/","tags":["aneurysm","aneurysm/unruptured","Japanese","NEJM"],"created":"2023-11-11T13:48:16.264-08:00","updated":"2023-11-11T20:49:50.119-08:00"}
 ---
 
 
@@ -13,7 +13,7 @@ In this paper^[[The Natural Course of Unruptured Cerebral Aneurysms in a Japanes
 
 - **Journal**: *New England Journal of Medicine*
 - **Publication history**: June 28, 2012
-- **Study type**: prospectively enrolled retrospective study
+- **Study type**: prospectively enrolled study
 - **Enrollment**
 	- Interval: January 2001-April 2004
 	- Age: 20 years of age or older
