@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature/isuia-lancet-2003/","tags":["anatomy","Lancet","aneurysm/unruptured"],"created":"2023-11-11T20:25:54.242-08:00","updated":"2023-11-11T22:22:29.111-08:00"}
+{"dg-publish":true,"permalink":"/literature/isuia-lancet-2003/","tags":["anatomy","Lancet","aneurysm/unruptured"],"created":"2023-11-11T20:25:54.242-08:00","updated":"2023-11-11T22:23:44.432-08:00"}
 ---
 
 
@@ -64,7 +64,6 @@ In this paper^[[Unruptured intracranial aneurysms: natural history, clinical out
 		- PCOM: 2.1 \[1.1-4.2\] (p=0.02)
 - **5-year mortality
 	- Death: 193
-	- 
 
 \* The original paper reads as 12 mm. Typo? Should be \> 12 mm?
 > ![](https://i.imgur.com/fZBKHa9.png)
