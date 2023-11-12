@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature/isuia-lancet-2003/","tags":["anatomy","Lancet","aneurysm/unruptured"],"created":"2023-11-11T20:25:54.242-08:00","updated":"2023-11-11T22:23:57.866-08:00"}
+{"dg-publish":true,"permalink":"/literature/isuia-lancet-2003/","tags":["anatomy","Lancet","aneurysm/unruptured"],"created":"2023-11-11T20:25:54.242-08:00","updated":"2023-11-12T10:36:33.638-08:00"}
 ---
 
 
@@ -31,12 +31,11 @@ In this paper^[[Unruptured intracranial aneurysms: natural history, clinical out
 	1. To describe the natural history of unruptured aneurysms
 	2. To determine whether specific subgroups have a greater risk of rupture
 - **Classification**
-	- Surgery
-		- No surgery (natural history)
+	- No surgery (natural history)
 			- Group 1: Patients without SAH from a separate aneurysm
 			- Group 2: Patients with SAH from a separate aneurysm
-		- Open surgery
-		- Endovascular surgery
+	- Open surgery
+	- Endovascular surgery
 - **Total patients**: 4060 
 - **Natural history**
 	- Total patients: 1692
@@ -62,8 +61,8 @@ In this paper^[[Unruptured intracranial aneurysms: natural history, clinical out
 		- Tip of BA: 2.3 \[1.1-4.8\] (p=0.025)
 		- Cavernous artery: 0.15 \[0.04-0.64\] (p=0.01)
 		- PCOM: 2.1 \[1.1-4.2\] (p=0.02)
-- **5-year mortality
-	- Death: 193
+- **5-year mortality**
+	- Death: 193 (11.4%)
 
 \* The original paper reads as 12 mm. Typo? Should be \>12 mm?
 > ![](https://i.imgur.com/fZBKHa9.png)
