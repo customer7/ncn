@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T16:09:37.000-07:00","updated":"2023-08-14T22:02:42.426-07:00"}
+{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T16:09:37.000-07:00","updated":"2023-11-11T11:50:08.560-08:00"}
 ---
 
 
