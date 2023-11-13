@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2023-10-31T15:10:48.977-07:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2023-11-12T16:18:28.883-08:00"}
 ---
 
 The **Simmons catheter** is a group of reverse-curve selective catheters widely used in the [[Notes/Access, Radial Artery\|radial access]] approach for selecting target arteries. In most cases, the catheter must be shaped into its intended configuration ([[Notes/Catheter, Simmons#1\|Case 1]], [[Notes/Catheter, Simmons#2\|Case 2]], [[Notes/Catheter, Simmons#3\|Case 3]], [[Notes/Catheter, Simmons#4\|Case 4]]) before it can be used to select the target artery. The catheter features three curves.^[[Simmons catheter | Radiology Reference Article | Radiopaedia.org](https://radiopaedia.org/articles/simmons-catheter?lang=us)] 
@@ -74,7 +74,10 @@ In cases where the right brachiocephalic artery presents with a long horizontal 
 After completing the right CCA/ICA/ECA angiograms, pushing the formed catheter may cause it to advance further into the CCA rather than into the ascending aorta. In such cases, the following technique can be attempted.
 
 (**E**): Retract the catheter until the secondary curve reaches the right CCA origin.
-(**F**): Advance the stiff end of the Glidewire until it reaches the secondary curve of the catheter. **N.B.**: this must be performed under real-time fluoroscopy to ensure the wire does not protrude from the catheter and potentially injure the right CCA.
+(**F**): Advance the stiff end of the Glidewire until it reaches the secondary curve of the catheter. 
+>[!warning] **NB** 
+>This must be performed under real-time fluoroscopy to ensure the wire does not protrude from the catheter and potentially injure the right CCA.
+
 (**G**): Gently advance the catheter and the Glidewire as one piece into the horizontal segment.
 (**H**): Continue advancing until the secondary curve reaches the ascending aorta, and the catheter tip "pops" into the left CCA.
 (**I**): Gently retract the catheter to better engage the left CCA. Remove the Glidewire.
