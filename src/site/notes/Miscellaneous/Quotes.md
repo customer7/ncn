@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/miscellaneous/quotes/","created":"2023-10-26T09:38:10.918-07:00","updated":"2023-10-31T15:17:20.054-07:00"}
+{"dg-publish":true,"permalink":"/miscellaneous/quotes/","created":"2023-10-26T09:38:10.918-07:00","updated":"2023-11-15T17:33:59.556-08:00"}
 ---
 
 
