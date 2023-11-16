@@ -1,8 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-vtk/","tags":["catheter"],"created":"2023-10-26T09:15:05.548-07:00","updated":"2023-10-26T10:03:36.632-07:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-vtk/","tags":["catheter"],"created":"2023-10-26T09:15:05.548-07:00","updated":"2023-11-15T17:40:49.390-08:00"}
 ---
 
+
 The **VTK** catheter is designed to select the target artery from the aortic arch ([[Notes/Catheter, VTK#1\|Case 1]]), especially in type II and III. It typically forms without the need of a wire. Its design does not involve advancing it into the target artery; instead, it remains in the aortic arch.
+
+---
+
+## Catheter Specifics
+
+- Manufacturer:: [[Cook Medical\|Cook Medical]]
+- Category:: [[Catheter, Select\|Select]]
+- French:: 5F
+- Length:: 125
+- ID:: N/A
+- OD:: N/A
+- Balloon:: N/A
+- Dead-space:: N/A
+- DMSO:: N/A
+- Features:: Reverse-curve
 
 ---
 
