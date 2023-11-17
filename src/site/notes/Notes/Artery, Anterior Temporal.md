@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/artery-anterior-temporal/","tags":["anatomy","vessel","artery"],"created":"2023-05-24T03:17:40.000-07:00","updated":"2023-08-15T14:13:12.472-07:00"}
+{"dg-publish":true,"permalink":"/notes/artery-anterior-temporal/","tags":["anatomy","vessel","artery"],"created":"2023-05-24T03:17:40.000-07:00","updated":"2023-08-15T14:13:12.000-07:00"}
 ---
 
 
-The **anterior temporal artery** is usually a branch of the M1 segment of the **[[Artery, Middle Cerebral\|middle cerebral artery]]**. 
+The **anterior temporal artery** is usually a branch of the M1 segment of the **[[Notes/Artery, Middle Cerebral\|middle cerebral artery]]**. 
 
 ## Anatomy
 
