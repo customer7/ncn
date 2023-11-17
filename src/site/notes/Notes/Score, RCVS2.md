@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/score-rcvs-2/","tags":["score","grading"],"created":"2023-05-12T06:28:27.000-07:00","updated":"2023-10-07T14:54:43.070-07:00"}
+{"dg-publish":true,"permalink":"/notes/score-rcvs-2/","tags":["score","grading"],"created":"2023-05-12T06:28:27.000-07:00","updated":"2023-10-07T15:04:09.264-07:00"}
 ---
 
 
@@ -32,7 +32,7 @@ You can use the online calculator here: [MDCalc](https://www.mdcalc.com/calc/103
 ---
 
 ## Classification
-
+ 
 - Score ≥5: highly likely
 - Score ≤2: highly unlikely
 - Score 3-4: equivocal
