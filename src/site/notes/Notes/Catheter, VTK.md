@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-vtk/","tags":["catheter"],"created":"2023-10-26T09:15:05.548-07:00","updated":"2023-11-15T17:40:49.390-08:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-vtk/","tags":["catheter"],"created":"2023-10-26T09:15:05.548-07:00","updated":"2023-11-17T11:42:25.977-08:00"}
 ---
 
 
@@ -11,13 +11,8 @@ The **VTK** catheter is designed to select the target artery from the aortic arc
 
 - Manufacturer:: [[Cook Medical\|Cook Medical]]
 - Category:: [[Catheter, Select\|Select]]
-- French:: 5F
+- French:: 5
 - Length:: 125
-- ID:: N/A
-- OD:: N/A
-- Balloon:: N/A
-- Dead-space:: N/A
-- DMSO:: N/A
 - Features:: Reverse-curve
 
 ---
