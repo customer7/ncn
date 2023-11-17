@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/hypotension-intracranial/","tags":["DSA","Onyx"],"created":"2023-10-20T13:00:55.899-07:00","updated":"2023-11-02T11:13:26.641-07:00"}
+{"dg-publish":true,"permalink":"/notes/hypotension-intracranial/","tags":["DSA","Onyx"],"created":"2023-10-20T13:00:55.899-07:00","updated":"2023-11-16T09:12:25.772-08:00"}
 ---
+
 
 **Intracranial hypotension** can be caused by multiple conditions, such as CSF leak (spontaneous vs. traumatic), over-shunting, or [[Notes/Fistula, CSF-Venous\|CSF-venous fistula]]^[[Cerebrospinal Fluid-Venous Fistulas: A Systematic Review and Examination of Individual Patient Data - PubMed](https://pubmed.ncbi.nlm.nih.gov/33438744/)], etc. 
 
