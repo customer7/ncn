@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.519-07:00","updated":"2023-10-21T11:44:23.757-07:00"}
+{"dg-publish":true,"permalink":"/notes/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.519-07:00","updated":"2023-11-17T07:11:25.325-08:00"}
 ---
+
 
 The **circle of Willis** (CoW) connects the anterior circulation with the posterior circulation via [[Notes/Artery, Posterior Communicating\|posterior communicating arteries]], as well as the left hemisphere with the right hemisphere via [[Notes/Artery, Anterior Communicating\|anterior communicating artery]]. It is estimated that only 1/3 of the population has the textbook presentation.^[[Anatomy Atlases: Illustrated Encyclopedia of Human Anatomic Variation: Opus II: Cardiovascular System: Arteries: Head, Neck, and Thorax: Circle of Willis](https://www.anatomyatlases.org/AnatomicVariants/Cardiovascular/Text/Arteries/CircleofWillis.shtml)]
 
