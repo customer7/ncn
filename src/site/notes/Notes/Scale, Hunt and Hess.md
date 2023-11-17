@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T15:11:12.000-07:00","updated":"2023-09-15T16:43:53.674-07:00"}
+{"dg-publish":true,"permalink":"/notes/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T15:11:12.000-07:00","updated":"2023-10-01T20:34:18.032-07:00"}
 ---
 
 
