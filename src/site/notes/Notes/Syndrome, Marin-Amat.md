@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/syndrome-marin-amat/","created":"2023-06-03T22:15:31.277-05:00","updated":"2023-06-03T22:24:32.309-05:00"}
+{"dg-publish":true,"permalink":"/notes/syndrome-marin-amat/","created":"2023-06-03T20:15:31.000-07:00","updated":"2023-06-03T20:24:32.000-07:00"}
 ---
 
 
