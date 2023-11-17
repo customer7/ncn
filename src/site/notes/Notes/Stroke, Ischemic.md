@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/stroke-ischemic/","tags":["stroke","DSA","thrombectomy"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2023-10-14T10:14:07.150-07:00"}
+{"dg-publish":true,"permalink":"/notes/stroke-ischemic/","tags":["stroke","DSA","thrombectomy"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2023-10-14T10:14:58.630-07:00"}
 ---
 
 As the saying goes: "time is brain." 
