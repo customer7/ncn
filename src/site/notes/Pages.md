@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/","tags":["index"],"created":"2023-11-15T17:29:52.000-08:00","updated":"2023-11-16T21:25:01.870-08:00"}
+{"dg-publish":true,"permalink":"/pages/","tags":["index"],"created":"2023-11-15T17:29:52.000-08:00","updated":"2023-11-17T07:10:52.416-08:00"}
 ---
 
 
@@ -31,6 +31,7 @@ This page indexes all the pages on this website.
 - [[Notes/Catheter, Simmons\|Catheter, Simmons]]
 - [[Notes/Catheter, VTK\|Catheter, VTK]]
 - [[Cases/PNS/Cervical Rib and TOS\|Cervical Rib and TOS]]
+- [[Notes/Circle, Willis\|Circle, Willis]]
 - [[Cases/Endovascular/Coiling, Ruptured Left Pcom Aneurysm\|Coiling, Ruptured Left Pcom Aneurysm]]
 - [[Notes/CT, Iodine Subtraction\|CT, Iodine Subtraction]]
 - [[Notes/Differential, Sensation\|Differential, Sensation]]
@@ -101,6 +102,8 @@ This page indexes all the pages on this website.
 
 ## Modified Date (Newest to Oldest)
 
+- [[Notes/Artery, Subclavian\|Artery, Subclavian]]
+- [[Notes/Circle, Willis\|Circle, Willis]]
 - [[Pages\|Pages]]
 - [[About\|About]]
 - [[Notes/Index, Catheters\|Index, Catheters]]
@@ -150,7 +153,6 @@ This page indexes all the pages on this website.
 - [[Notes/Artery, Anterior Choroidal\|Artery, Anterior Choroidal]]
 - [[Blog\|Blog]]
 - [[Notes/Access, Femoral Artery\|Access, Femoral Artery]]
-- [[Notes/Artery, Subclavian\|Artery, Subclavian]]
 - [[Notes/Index, Notes\|Index, Notes]]
 - [[Notes/Artery, Anterior Falx\|Artery, Anterior Falx]]
 - [[Notes/Syndrome, Reversible Cerebral Vasoconstriction\|Syndrome, Reversible Cerebral Vasoconstriction]]
