@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-simmons/","created":"2023-10-02T20:02:30.306-07:00","updated":"2023-11-15T17:47:03.984-08:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2023-11-16T09:13:46.650-08:00"}
 ---
 
 
