@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/artery-posterior-communicating/","tags":["anatomy","DSA","artery"],"created":"2023-10-08T20:55:29.032-07:00","updated":"2023-10-10T20:55:38.479-07:00"}
 ---
 
-The **posterior communicating artery**, AKA **PCOM artery**, connects the [[Artery, Internal Carotid\|internal carotid artery]] with the [[Artery, Posterior Cerebral\|posterior cerebral artery]] (PCA). It is called **fetal** PCOM artery if it is bigger than the first segment (P1) of the PCA ([[Notes/Artery, Posterior Communicating#1\|Case 1]]). There are perforators originating from the PCOM artery ([[Notes/Artery, Posterior Communicating#1\|Case 1]]) that should be carefully preserved during PCOM artery aneurysm clipping.
+The **posterior communicating artery**, AKA **PCOM artery**, connects the [[Notes/Artery, Internal Carotid\|internal carotid artery]] with the [[Notes/Artery, Posterior Cerebral\|posterior cerebral artery]] (PCA). It is called **fetal** PCOM artery if it is bigger than the first segment (P1) of the PCA ([[Notes/Artery, Posterior Communicating#1\|Case 1]]). There are perforators originating from the PCOM artery ([[Notes/Artery, Posterior Communicating#1\|Case 1]]) that should be carefully preserved during PCOM artery aneurysm clipping.
 
 ---
 
