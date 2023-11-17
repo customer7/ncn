@@ -3,7 +3,7 @@
 ---
 
 
-The **anterior cerebral artery** is one of the two terminal branches of the [[Artery, Internal Carotid\|internal carotid artery]]. It travels medially into the interhemispheric space, supplying the medial anterior part of the cerebra and other midline structures.
+The **anterior cerebral artery** is one of the two terminal branches of the [[Notes/Artery, Internal Carotid\|internal carotid artery]]. It travels medially into the interhemispheric space, supplying the medial anterior part of the cerebra and other midline structures.
 
 ---
 
@@ -14,8 +14,8 @@ The **anterior cerebral artery** is one of the two terminal branches of the [[Ar
 ![](https://i.imgur.com/a3WJzlv.jpg)
 This patient presented with an acute left M1 occlusion. Without cross-filling of the contralateral ACA through the [[Notes/Artery, Anterior Communicating\|ACOM]], this DSA presents a clear image of the left ACA and its branches (although not in the classic textbook manner).
 
-1. [[Artery, Ophthalmic\|Ophthalmic artery]]
-2. [[Artery, Middle Cerebral\|MCA]] (occluded)
+1. [[Notes/Artery, Ophthalmic\|Ophthalmic artery]]
+2. [[Notes/Artery, Middle Cerebral\|MCA]] (occluded)
 3. Medial lenticulostriate arteries
 4. A1 (horizontal/pre-communicating segment)
 5. A common branch of 6 and 7
