@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-11-11T20:30:12.081-08:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-11-15T16:24:38.027-08:00"}
 ---
 
 
@@ -213,13 +213,30 @@ The final fluoroscopy showed the stent position and contrast stasis.
 - No new neurological deficits
 - ICU overnight
 - Continued triple therapy
-- Discharged home on POD3
+- Discharged home with assistance on POD3
 - No issued at one-week phone follow-up
 - Long-term outcome to follow
+
+### ED Visit (POD14)
+
+- Ground level fall
+- CTA head: stable aneurysm, patent stent
+- Anemia -> GI bleeding (non-active on EGD) -> transfusion and PPI -> stabilized -> discharged home 
+- Continued on triple therapy
+- Steroid taper for presumed post-embolization inflammation
+
+![](https://i.imgur.com/sXNDLJG.jpg)
 
 ---
 
 ## Discussion
 
+- Outcome without treatment
+	- Ischemic events: up to 68.2%
+	- Progression of brainstem compression: 45.7%
+	- Aneurysm rupture: 6%
+	- Mortality: 40%
+- Outcome with treatment: better, but still poor
 - [[Literature/Triple Therapy, VBA Aneurysm - 2022\|Triple therapy]] was used to lower the risk of basilar artery perforators ischemic stroke.
 - Adjunctive coil embolization was not attempted to simplify the process and lower the risks of intra-operative complications.
+- Future stent with anti-platelet coating which may not need triple therapy?
