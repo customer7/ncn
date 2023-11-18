@@ -102,6 +102,11 @@ This page indexes all the pages on this website.
 
 ## Modified Date (Newest to Oldest)
 
+- [[Literature/ISUIA, Lancet - 2003\|ISUIA, Lancet - 2003]]
+- [[Literature/Venous Embolization, CFS-Venous Fistula - 2021\|Venous Embolization, CFS-Venous Fistula - 2021]]
+- [[Literature/UCAS, Japan - 2012\|UCAS, Japan - 2012]]
+- [[Literature/Triple Therapy, VBA Aneurysm - 2022\|Triple Therapy, VBA Aneurysm - 2022]]
+- [[Literature/Index, Literature\|Index, Literature]]
 - [[Notes/Catheter, VTK\|Catheter, VTK]]
 - [[Notes/Catheter, Simmons\|Catheter, Simmons]]
 - [[Notes/Index, Catheters\|Index, Catheters]]
@@ -116,16 +121,11 @@ This page indexes all the pages on this website.
 - [[Miscellaneous/Quotes\|Quotes]]
 - [[Notes/Access, Radial Artery\|Access, Radial Artery]]
 - [[Cases/Endovascular/Flow Diversion, BA Trunk Aneurysm\|Flow Diversion, BA Trunk Aneurysm]]
-- [[Literature/Triple Therapy, VBA Aneurysm - 2022\|Triple Therapy, VBA Aneurysm - 2022]]
 - [[Notes/Stent, Flow Diverter\|Stent, Flow Diverter]]
-- [[Literature/ISUIA, Lancet - 2003\|ISUIA, Lancet - 2003]]
-- [[Literature/UCAS, Japan - 2012\|UCAS, Japan - 2012]]
-- [[Literature/Index, Literature\|Index, Literature]]
 - [[Notes/Fistula, CSF-Venous\|Fistula, CSF-Venous]]
 - [[Cases/Endovascular/Occlusion, Acute Left M1\|Occlusion, Acute Left M1]]
 - [[Cases/Endovascular/Coiling, Ruptured Left Pcom Aneurysm\|Coiling, Ruptured Left Pcom Aneurysm]]
 - [[Miscellaneous/Software\|Software]]
-- [[Literature/Venous Embolization, CFS-Venous Fistula - 2021\|Venous Embolization, CFS-Venous Fistula - 2021]]
 - [[Cases/Index, Cases\|Index, Cases]]
 - [[Cases/Vascular/ICH, Right Midbrain\|ICH, Right Midbrain]]
 - [[Cases/Vascular/DVA, Unruptured\|DVA, Unruptured]]
