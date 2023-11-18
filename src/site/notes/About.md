@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/about/","created":"2023-10-17T17:05:40.970-07:00","updated":"2023-10-19T09:24:25.818-07:00"}
+{"dg-publish":true,"permalink":"/about/","created":"2023-10-17T17:05:40.970-07:00","updated":"2023-11-16T17:16:27.983-08:00"}
 ---
+
 
 Inspired by websites [Wikipedia](https://www.wikipedia.org/), [Sci-Hub](https://www.sci-hub.st/), [Radiopaedia](https://radiopaedia.org/), and [Neuroangio](http://neuroangio.org/), etc., we aspire to create one based on [personal knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management) (PKM) tool [Obsidian](https://obsidian.md/) and plug-in [Obsidian Digital Garden](https://dg-docs.ole.dev/). Here, we share interesting neurosurgery cases.
