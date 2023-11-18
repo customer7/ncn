@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature/isuia-lancet-2003/","tags":["anatomy","Lancet","aneurysm/unruptured"],"created":"2023-11-11T20:25:54.242-08:00","updated":"2023-11-12T10:36:33.638-08:00"}
+{"dg-publish":true,"permalink":"/literature/isuia-lancet-2003/","tags":["anatomy","Lancet","aneurysm/unruptured","aneurysm"],"created":"2023-11-11T20:25:54.242-08:00","updated":"2023-11-17T16:00:09.950-08:00"}
 ---
 
 
@@ -91,6 +91,7 @@ In this paper^[[Unruptured intracranial aneurysms: natural history, clinical out
 Since the publication of this paper, the management landscape for unruptured intracranial aneurysms has witnessed substantial transformation over the past two decades. Notably, there has been a discernible shift from traditional open surgery towards a predominant reliance on endovascular interventions. In light of this evolution, we reviewed solely on the natural history of these aneurysms in this paper, excluding the surgical aspects.
 
 ---
+
 ### Cases
 
 - [[Cases/Endovascular/Coiling, Ruptured Left Pcom Aneurysm\|Coiling, Ruptured Left Pcom Aneurysm]]
