@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature/ucas-japan-2012/","tags":["aneurysm","aneurysm/unruptured","Japanese","NEJM"],"created":"2023-11-11T13:48:16.264-08:00","updated":"2023-11-11T20:49:50.119-08:00"}
+{"dg-publish":true,"permalink":"/literature/ucas-japan-2012/","tags":["aneurysm","aneurysm/unruptured","Japanese","NEJM"],"created":"2023-11-11T13:48:16.264-08:00","updated":"2023-11-17T15:59:33.689-08:00"}
 ---
 
 
