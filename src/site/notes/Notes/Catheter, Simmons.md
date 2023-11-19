@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2023-11-17T11:42:08.190-08:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2023-11-18T12:31:10.364-08:00"}
 ---
 
 
@@ -9,10 +9,10 @@ The **Simmons catheter** is a group of reverse-curve selective catheters widely 
 
 ## Catheter Specifics
 
-- Category:: [[Catheter, Select\|Select]]
-- French:: 5
-- Length:: 65, 100, 125
-- Features:: Reverse-curve
+- Category: (category:: [[Catheter, Select\|Select]])
+- French: (french:: 5)
+- Length: (length:: 65, 100, 125)
+- Features: (features:: Reverse-curve)
 
 ---
 
