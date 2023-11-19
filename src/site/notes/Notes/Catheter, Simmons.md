@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2023-11-18T12:31:10.364-08:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2023-11-18T21:15:39.741-08:00"}
 ---
 
 
@@ -108,7 +108,6 @@ This patient presents for a diagnostic cerebral angiography for a left temporal 
 - Orange arrow: Catheter tip.
 - Blue arrow: Primary curve.
 - Red arrow: Secondary curve.
-- White ar
-row: Left VA.
+- White arrow: Left VA.
 - Green arrow: Left thyrocervical trunk.
 - Magenta arrow: Left subclavian artery.
