@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes/stroke-ischemic/","tags":["stroke","DSA","thrombectomy"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2023-10-14T10:14:58.630-07:00"}
+{"dg-publish":true,"permalink":"/notes/stroke-ischemic/","tags":["stroke","DSA","thrombectomy","stroke/ischemic"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2023-12-03T21:33:50.950-08:00"}
 ---
+
 
 As the saying goes: "time is brain." 
 
@@ -20,3 +21,5 @@ This patient presented with right hemiparesis and aphasia. A CTA revealed a left
 - Green arrow: another collateral originating from the right ACA.
 - Yellow arrow: a collateral from the PCA.
 - Red arrow: another collateral from the PCA.
+
+---
