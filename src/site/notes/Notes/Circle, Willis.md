@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.519-07:00","updated":"2023-11-17T07:11:25.325-08:00"}
+{"dg-publish":true,"permalink":"/notes/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.519-07:00","updated":"2023-12-05T14:30:58.742-08:00"}
 ---
 
 
@@ -22,3 +22,32 @@ This CTA head (thickness: 10 mm) presents an intact CoW and a normal variant of 
 - Yellow: [[Notes/Artery, Posterior Cerebral\|PCA]]s. 
 - Black: [[Notes/Artery, Superior Cerebellar\|SCA]]s. 
 - Teal: [[Notes/Artery, Basilar\|BA]].
+
+---
+
+### 2
+
+![](https://i.imgur.com/qPnPdmw.jpg)
+This 3D reconstruction image from a CTA head showed an incomplete circle of Willis—hypoplastic left [[Notes/Artery, Posterior Cerebral\|P1]], and absence of right [[Notes/Artery, Posterior Communicating\|PCOM]] and left [[Notes/Artery, Anterior Cerebral\|A1]].
+
+1. Left [[Notes/Artery, Anterior Cerebral\|A2]]
+2. Right A2
+3. [[Notes/Artery, Anterior Communicating\|ACOM]]
+4. Right [[Notes/Artery, Anterior Cerebral\|A1]]
+5. Left [[Notes/Artery, Ophthalmic\|ophthalmic artery]]
+6. Right [[Notes/Artery, Internal Carotid\|ICA]]
+7. Left ophthalmic artery aneurysm
+8. Left ICA
+9. Right [[Notes/Artery, Middle Cerebral\|M1]]
+10. Left M1
+11. Left [[Notes/Artery, Posterior Communicating\|PCOM]]
+12. Right [[Notes/Artery, Posterior Cerebral\|P1]]
+13. Left [[Notes/Artery, Posterior Cerebral\|P2]]
+14. Left P1
+15. [[Notes/Artery, Basilar\|BA]]
+16. Left [[Notes/Artery, Vertebral\|VA]]
+17. Right VA
+18. Right [[Notes/Artery, Posterior Inferior Cerebellar\|PICA]]
+19. Right [[Notes/Artery, Superficial Temporal\|STA]]
+20. Left STA
+21. Right [[Notes/Artery, Occipital\|occipital artery]]
