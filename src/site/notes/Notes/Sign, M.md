@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/sign-m/","tags":["anatomy","MRI","brain"],"created":"2023-12-04T21:12:44.380-08:00","updated":"2023-12-04T21:24:00.670-08:00"}
+{"dg-publish":true,"permalink":"/notes/sign-m/","tags":["anatomy","MRI","brain"],"created":"2023-12-04T21:12:44.380-08:00","updated":"2023-12-05T14:25:30.832-08:00"}
 ---
 
 
-The **M sign** can be seen on the sagittal MRI brain located at the inferior frontal gyrus, indicating the location of the frontal operculum-pars orbitalis, pars triangularis, and pars opercularis.
+The **M sign** can be seen on the sagittal MRI brain located at the inferior frontal gyrus, indicating the location of the frontal operculum—pars orbitalis, pars triangularis, and pars opercularis.
 
 ---
 
