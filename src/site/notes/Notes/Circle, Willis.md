@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.519-07:00","updated":"2023-12-05T14:30:58.742-08:00"}
+{"dg-publish":true,"permalink":"/notes/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.519-07:00","updated":"2023-12-06T08:27:47.885-08:00"}
 ---
 
 
@@ -30,24 +30,24 @@ This CTA head (thickness: 10 mm) presents an intact CoW and a normal variant of 
 ![](https://i.imgur.com/qPnPdmw.jpg)
 This 3D reconstruction image from a CTA head showed an incomplete circle of Willis—hypoplastic left [[Notes/Artery, Posterior Cerebral\|P1]], and absence of right [[Notes/Artery, Posterior Communicating\|PCOM]] and left [[Notes/Artery, Anterior Cerebral\|A1]].
 
-1. Left [[Notes/Artery, Anterior Cerebral\|A2]]
-2. Right A2
+1. Right [[Notes/Artery, Anterior Cerebral\|A2]]
+2. Left A2
 3. [[Notes/Artery, Anterior Communicating\|ACOM]]
-4. Right [[Notes/Artery, Anterior Cerebral\|A1]]
-5. Left [[Notes/Artery, Ophthalmic\|ophthalmic artery]]
-6. Right [[Notes/Artery, Internal Carotid\|ICA]]
-7. Left ophthalmic artery aneurysm
-8. Left ICA
-9. Right [[Notes/Artery, Middle Cerebral\|M1]]
-10. Left M1
-11. Left [[Notes/Artery, Posterior Communicating\|PCOM]]
-12. Right [[Notes/Artery, Posterior Cerebral\|P1]]
-13. Left [[Notes/Artery, Posterior Cerebral\|P2]]
-14. Left P1
+4. Left [[Notes/Artery, Anterior Cerebral\|A1]]
+5. Right [[Notes/Artery, Ophthalmic\|ophthalmic artery]]
+6. Left [[Notes/Artery, Internal Carotid\|ICA]]
+7. Right ophthalmic artery aneurysm
+8. Right ICA
+9. Left [[Notes/Artery, Middle Cerebral\|M1]]
+10. Right M1
+11. Right [[Notes/Artery, Posterior Communicating\|PCOM]]
+12. Left [[Notes/Artery, Posterior Cerebral\|P1]]
+13. Right [[Notes/Artery, Posterior Cerebral\|P2]]
+14. Right P1
 15. [[Notes/Artery, Basilar\|BA]]
-16. Left [[Notes/Artery, Vertebral\|VA]]
-17. Right VA
-18. Right [[Notes/Artery, Posterior Inferior Cerebellar\|PICA]]
-19. Right [[Notes/Artery, Superficial Temporal\|STA]]
-20. Left STA
-21. Right [[Notes/Artery, Occipital\|occipital artery]]
+16. Right [[Notes/Artery, Vertebral\|VA]]
+17. Left VA
+18. Left [[Notes/Artery, Posterior Inferior Cerebellar\|PICA]]
+19. Left [[Notes/Artery, Superficial Temporal\|STA]]
+20. Right STA
+21. Left [[Notes/Artery, Occipital\|occipital artery]]
