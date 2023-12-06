@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.519-07:00","updated":"2023-12-06T08:27:47.885-08:00"}
+{"dg-publish":true,"permalink":"/notes/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.519-07:00","updated":"2023-12-06T10:53:25.630-08:00"}
 ---
 
 
@@ -29,6 +29,8 @@ This CTA head (thickness: 10 mm) presents an intact CoW and a normal variant of 
 
 ![](https://i.imgur.com/qPnPdmw.jpg)
 This 3D reconstruction image from a CTA head showed an incomplete circle of Willis—hypoplastic left [[Notes/Artery, Posterior Cerebral\|P1]], and absence of right [[Notes/Artery, Posterior Communicating\|PCOM]] and left [[Notes/Artery, Anterior Cerebral\|A1]].
+
+![](https://i.imgur.com/T4jlvaN.jpg)
 
 1. Right [[Notes/Artery, Anterior Cerebral\|A2]]
 2. Left A2
