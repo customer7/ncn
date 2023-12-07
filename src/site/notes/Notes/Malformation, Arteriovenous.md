@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/malformation-arteriovenous/","tags":["DSA"],"created":"2023-10-11T21:14:56.112-07:00","updated":"2023-12-07T11:27:36.601-08:00"}
+{"dg-publish":true,"permalink":"/notes/malformation-arteriovenous/","tags":["DSA"],"created":"2023-10-11T21:14:56.112-07:00","updated":"2023-12-07T11:28:46.274-08:00"}
 ---
 
 
-In the acute phase of an AVM rupture, the lesion could be obscured by the adjacent hematoma. A repeat imaging study is usually necessary if the original workup was unremarkable ([[Notes/Malformation, Arteriovenous#1\|Case 1]]).
+In the acute phase of an AVM rupture, the lesion could be obscured by the adjacent hematoma. A repeat imaging study is usually necessary if the original workup was unremarkable ([[Notes/Malformation, Arteriovenous#1\|Case 1]]). In rare cases, an intracranial AVM could be supplied by both the [[Notes/Artery, Internal Carotid\|ICA]] and the [[Notes/Artery, External Carotid\|ECA]] ([[Notes/Malformation, Arteriovenous#2\|Case 2]]).
 
 ---
 
