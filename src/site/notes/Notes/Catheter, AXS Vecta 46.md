@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-axs-vecta-46/","tags":["catheter"],"created":"2023-11-15T16:49:07.643-08:00","updated":"2023-11-18T21:34:14.475-08:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-axs-vecta-46/","tags":["catheter"],"created":"2023-11-15T16:49:07.643-08:00","updated":"2023-12-06T18:57:25.119-08:00"}
 ---
 
 
-**AXS Vecta 46**^[[AXS Vecta 46 | Stryker](https://www.stryker.com/us/en/neurovascular/products/axs-vecta-46.html)]
+The **AXS Vecta 46**^[[AXS Vecta 46 \| Stryker](https://www.stryker.com/us/en/neurovascular/products/axs-vecta-46.html)] catheter is a *[[Stryker\|Stryker]]* product.
 
-- Manufacturer: (manufacturer:: [[Stryker\|Stryker]])
+- Manufacturer: (manufacturer:: [[Stryker]])
 - Category: (category:: [[Catheter, Intermediate\|Intermediate]])
-- French: (french:: N/A)
-- Length: (length:: 125, 146, 160)
-- ID: (ID:: 0.046)
-- OD: (OD:: "0.058 (proximal)", "0.056 (distal)")
+- Length (cm): (length:: 125, 146, 160)
+- ID (distal, in): (ID:: 0.046)
+- OD (proximal, in): (OD:: 0.058)
 - Features: (features:: Thin-wall technology)
