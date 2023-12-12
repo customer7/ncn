@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/notes/aneurysm-pcom/","tags":["aneurysm","aneurysm/unruptured","coil"],"created":"2023-12-11T18:46:03.036-08:00","updated":"2023-12-11T21:22:33.865-08:00"}
+{"dg-publish":true,"permalink":"/notes/aneurysm-pcom/","tags":["aneurysm","aneurysm/unruptured","coil"],"created":"2023-12-11T18:46:03.036-08:00","updated":"2023-12-11T21:24:23.179-08:00"}
 ---
 
 
-The [[Notes/Artery, Posterior Communicating\|PCOM]] artery aneurysms are reported to be the 2nd most common location of intracranial aneurysms.^[[Surgical Neurology International](https://surgicalneurologyint.com/surgicalint-articles/a-review-of-the-management-of-posterior-communicating-artery-aneurysms-in-the-modern-era/)] They are often associated with a higher risk of rupturing.^[[ISUIA, Lancet - 2003](https://neurosurgerycases.com/literature/isuia-lancet-2003/)]^[[UCAS, Japan - 2012](https://neurosurgerycases.com/literature/ucas-japan-2012/)]
+The [[Notes/Artery, Posterior Communicating\|posterior communicating]] (PCOM) artery aneurysms are reported to be the 2nd most common location of intracranial aneurysms.^[[Surgical Neurology International](https://surgicalneurologyint.com/surgicalint-articles/a-review-of-the-management-of-posterior-communicating-artery-aneurysms-in-the-modern-era/)] They are often associated with a higher risk of rupturing.^[[ISUIA, Lancet - 2003](https://neurosurgerycases.com/literature/isuia-lancet-2003/)]^[[UCAS, Japan - 2012](https://neurosurgerycases.com/literature/ucas-japan-2012/)]
 
 ---
 
