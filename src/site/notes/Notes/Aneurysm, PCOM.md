@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/aneurysm-pcom/","tags":["aneurysm","aneurysm/unruptured","coil"],"created":"2023-12-11T18:46:03.036-08:00","updated":"2023-12-11T21:24:23.179-08:00"}
+{"dg-publish":true,"permalink":"/notes/aneurysm-pcom/","tags":["aneurysm","aneurysm/unruptured","coil"],"created":"2023-12-11T18:46:03.036-08:00","updated":"2023-12-11T21:24:42.046-08:00"}
 ---
 
 
@@ -16,5 +16,3 @@ This patient presented with a 3 mm aneurysm in the right [[Notes/Artery, Posteri
 
 Green arrow: right PCOM
 Orange arrow: right [[Notes/Artery, Anterior Choroidal\|anterior choroidal artery]]
-
----
