@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/aneurysm-pcom/","tags":["aneurysm","aneurysm/unruptured","coil"],"created":"2023-12-11T18:46:03.036-08:00","updated":"2023-12-11T21:20:38.592-08:00"}
+{"dg-publish":true,"permalink":"/notes/aneurysm-pcom/","tags":["aneurysm","aneurysm/unruptured","coil"],"created":"2023-12-11T18:46:03.036-08:00","updated":"2023-12-11T21:21:32.179-08:00"}
 ---
 
 
@@ -12,7 +12,7 @@ The [[Notes/Artery, Posterior Communicating\|PCOM]] artery aneurysms are reporte
 ### 1
 
 ![](https://i.imgur.com/z8jMMUk.jpg)
-This patient presented with a 3 mm aneurysm in the right fetal [[Notes/Artery, Posterior Communicating\|posterior communicating artery]], originating from the PCOM artery itself (not the [[Notes/Artery, Internal Carotid\|ICA]]). This aneurysm was coiled using one 3 mm x 10 cm Target Tetra coil with excellent results.
+This patient presented with a 3 mm aneurysm in the right [[Notes/Artery, Posterior Communicating#1\|fetal]] [[Notes/Artery, Posterior Communicating\|posterior communicating artery]], originating from the PCOM artery itself (not the [[Notes/Artery, Internal Carotid\|ICA]]). This aneurysm was coiled using one 3 mm x 10 cm Target Tetra coil with excellent results.
 
 Green arrow: right PCOM
 Orange arrow: right [[Notes/Artery, Anterior Choroidal\|anterior choroidal artery]]
