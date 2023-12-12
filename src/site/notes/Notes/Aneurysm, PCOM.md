@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/aneurysm-pcom/","created":"2023-12-11T18:46:03.036-08:00","updated":"2023-12-11T21:17:19.044-08:00"}
+{"dg-publish":true,"permalink":"/notes/aneurysm-pcom/","tags":["aneurysm","aneurysm/unruptured","coil"],"created":"2023-12-11T18:46:03.036-08:00","updated":"2023-12-11T21:18:07.792-08:00"}
 ---
 
 
