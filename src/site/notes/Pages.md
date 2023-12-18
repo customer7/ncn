@@ -22,6 +22,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Notes/Artery, External Carotid\|Artery, External Carotid]]
 - [[Notes/Artery, Lingual\|Artery, Lingual]]
 - [[Notes/Artery, Posterior Communicating\|Artery, Posterior Communicating]]
+- [[Notes/Artery, Posterior Inferior Cerebellar\|Artery, Posterior Inferior Cerebellar]]
 - [[Notes/Artery, Posterior Meningeal\|Artery, Posterior Meningeal]]
 - [[Notes/Artery, Subclavian\|Artery, Subclavian]]
 - [[Notes/Artery, Superior Cerebellar\|Artery, Superior Cerebellar]]
