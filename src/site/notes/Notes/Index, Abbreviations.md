@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-11-02T11:58:45.580-07:00"}
+{"dg-publish":true,"permalink":"/notes/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-12-19T09:31:11.586-08:00"}
 ---
 
 
@@ -69,6 +69,7 @@
 - **PICA** - posterior inferior cerebellar artery
 - **POD** - post-operative day
 - **PPD** - pack per day
+- **PSP** - [[Notes/Syndrome, SRO\|progressive supranuclear palsy]]
 - **PT** - physical therapy
 - **RAO** - right anterior oblique
 - **RLE** - right lower extremity
