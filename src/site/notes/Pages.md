@@ -89,6 +89,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Notes/Stroke, Ischemic\|Stroke, Ischemic]]
 - [[Notes/Syndrome, Marin-Amat\|Syndrome, Marin-Amat]]
 - [[Notes/Syndrome, Reversible Cerebral Vasoconstriction\|Syndrome, Reversible Cerebral Vasoconstriction]]
+- [[Notes/Syndrome, SRO\|Syndrome, SRO]]
 - [[Notes/Syndrome, Thoracic Outlet\|Syndrome, Thoracic Outlet]]
 - [[Notes/Technique, Rib Resection for TOS\|Technique, Rib Resection for TOS]]
 - [[Books/The Comprehensive Neurosurgery Board Preparation Book\|The Comprehensive Neurosurgery Board Preparation Book]]
