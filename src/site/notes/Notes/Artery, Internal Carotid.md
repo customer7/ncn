@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/artery-internal-carotid/","created":"2023-10-19T13:27:23.960-07:00","updated":"2023-12-19T16:33:55.136-08:00"}
+{"dg-publish":true,"permalink":"/notes/artery-internal-carotid/","created":"2023-10-19T13:27:23.960-07:00","updated":"2023-12-19T16:47:12.631-08:00"}
 ---
 
 
@@ -18,3 +18,5 @@ This [[Notes/Angiography, Digital Subtraction\|DSA]] presents an interesting ana
 Cyan arrow: [[Notes/Artery, Posterior Communicating\|Posterior communicating artery]]/[[Notes/Artery, Posterior Cerebral\|posterior cerebral artery]].
 White arrow: Callosomarginal artery.
 Brown arrow: Pericallosal artery.
+
+P.S.: (B) and (C) originate from the same injection, whereas (A) features a slightly different angle.
