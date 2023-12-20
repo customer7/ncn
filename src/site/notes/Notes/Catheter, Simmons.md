@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2023-11-18T21:15:39.741-08:00"}
+{"dg-publish":true,"permalink":"/notes/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2023-12-20T14:14:48.889-08:00"}
 ---
 
 
@@ -9,9 +9,9 @@ The **Simmons catheter** is a group of reverse-curve selective catheters widely 
 
 ## Catheter Specifics
 
-- Category: (category:: [[Catheter, Select\|Select]])
-- French: (french:: 5)
-- Length: (length:: 65, 100, 125)
+- Category: (category:: [[Notes/Catheter, Select\|Select]])
+- French (proximal): (french:: 5)
+- Length (cm): (length:: 65, 100, 125)
 - Features: (features:: Reverse-curve)
 
 ---
@@ -111,3 +111,17 @@ This patient presents for a diagnostic cerebral angiography for a left temporal 
 - White arrow: Left VA.
 - Green arrow: Left thyrocervical trunk.
 - Magenta arrow: Left subclavian artery.
+
+---
+
+### 6
+
+![](https://i.imgur.com/IkQye0s.jpg)
+The Simmons 2 catheter could also be utilized for transfemoral access to select target arteries. It can be reformed using the left subclavian artery.
+
+(**A**): Advance the Glidewire tip (black arrow) into the left subclavian artery.
+(**B**): Advance the catheter tip (orange arrow) into the left subclavian artery while firmly holding the Glidewire.
+(**C**): Withdraw the Glidewire while maintaining the catheter's position.
+(**D**): Withdraw the catheter until the secondary curve (red arrow) reaches the aortic arch.
+(**E**): Twist and advance the catheter to push the secondary curve into the aortic arch.
+(**F**): Push the catheter into the ascending aorta.
