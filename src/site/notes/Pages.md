@@ -20,6 +20,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Notes/Artery, Anterior Falx\|Artery, Anterior Falx]]
 - [[Notes/Artery, Anterior Temporal\|Artery, Anterior Temporal]]
 - [[Notes/Artery, External Carotid\|Artery, External Carotid]]
+- [[Notes/Artery, Internal Carotid\|Artery, Internal Carotid]]
 - [[Notes/Artery, Lingual\|Artery, Lingual]]
 - [[Notes/Artery, Posterior Communicating\|Artery, Posterior Communicating]]
 - [[Notes/Artery, Posterior Inferior Cerebellar\|Artery, Posterior Inferior Cerebellar]]
