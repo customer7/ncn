@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-anterior-cerebral/","created":"2023-10-16T19:00:10.808-07:00","updated":"2023-12-21T15:45:43.738-08:00"}
+{"dg-publish":true,"permalink":"/topics/artery-anterior-cerebral/","created":"2023-10-16T19:00:10.808-07:00","updated":"2023-12-21T21:24:29.992-08:00"}
 ---
 
 
