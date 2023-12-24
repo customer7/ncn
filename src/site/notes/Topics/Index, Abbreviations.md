@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-12-19T09:31:11.586-08:00"}
+{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-12-24T11:13:53.271-08:00"}
 ---
 
 
@@ -77,6 +77,7 @@
 - **RUE** - right upper extremity
 - **SCA** - [[Topics/Artery, Superior Cerebellar\|superior cerebellar artery]]
 - **TCAR** - transcarotid artery revascularization
+- **TCD** - transcranial doppler
 - **TICI** - thrombolysis in cerebral infarction scale
 - **Tmax** - time to maximum
 - **TRAP** - Trevo Aspiration Proximal Flow Control Registry^[[TRAP in Stroke, Ischemic - Clinical Trials Registry - ICH GCP](https://ichgcp.net/clinical-trials-registry/NCT03199404)]
