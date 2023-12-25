@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-11-11T11:42:32.515-08:00"}
+{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-12-24T18:31:15.391-08:00"}
 ---
 
 
 ## H&P
 
-- 21F, right-hand dominant
+- Right-hand dominant
 - PMHx: migraines, severe mood disorder
 - PSHx: none
 - FHx: noncontributory
