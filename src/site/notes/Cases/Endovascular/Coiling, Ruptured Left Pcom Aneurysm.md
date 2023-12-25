@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","coil","embolization","Pcom","endovascular"],"created":"2023-04-24T19:29:35.000-07:00","updated":"2023-11-11T14:34:55.648-08:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","coil","embolization","Pcom","endovascular"],"created":"2023-04-24T19:29:35.000-07:00","updated":"2023-12-24T18:29:20.139-08:00"}
 ---
 
 
 ## H&P
 
-- 52F
 - PMHx: none
 - PSHx: none
 - FHx: noncontributory
@@ -119,12 +118,6 @@ Control DSA, Post-Coil Embolization - Left ICA Injection, PA and Lateral
 - Anisocoria persisted
 - Transferred to floor on POD6
 - Discharged on POD10
-
----
-
-## Follow-Up Plan
-
--  #todo 3-4 months with MRA brain
 
 ---
 
