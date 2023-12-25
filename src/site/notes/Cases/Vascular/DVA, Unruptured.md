@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["todo","DVA","IPH","DSA"],"created":"2023-06-05T08:00:51.000-07:00","updated":"2023-11-11T11:58:23.837-08:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["todo","DVA","IPH","DSA"],"created":"2023-06-05T08:00:51.000-07:00","updated":"2023-12-24T18:31:33.904-08:00"}
 ---
 
 
 ## H&P
 
-- 24F
 - PMHx: asthma, anxiety, ICH at OSH 2w ago (admitted for 11d)
 - PSHx: DSA at OSH
 - FHx: drug abuse (father), birth defects (son)
@@ -83,6 +82,6 @@ Brain MRI and DSA (Right ICA Injection) - T2WI, PA (Late Arterial Phase, Early V
 
 ## Discussion
 
-- [[Notes/Anomaly, Developmental Venous\|Developmental venous anomaly]]
-- [[Notes/Score, RCVS2\|RCVS]] remains a possible cause of the ICH
+- [[Topics/Anomaly, Developmental Venous\|Developmental venous anomaly]]
+- [[Topics/Score, RCVS2\|RCVS]] remains a possible cause of the ICH
 - [ ] #todo Repeat brain MRI with and without contrast in 3 months 
