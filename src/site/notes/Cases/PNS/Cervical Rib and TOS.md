@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T18:36:27.000-07:00","updated":"2023-11-11T11:55:17.134-08:00"}
+{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T18:36:27.000-07:00","updated":"2023-12-24T18:30:31.962-08:00"}
 ---
 
 
 ## H&P
 
-- 51F, right-hand dominant
+- Right-hand dominant
 - PMHx: arrhythmia, asthma, antiphospholipid syndrome, migraines
 - SoHx: former smoker of cigarettes, denies EtOH/drugs
 - HPI: 
@@ -61,7 +61,7 @@ Bilateral cervical ribs seen on the plain X-ray film, right (yellow arrow) > lef
 
 ## Differential Diagnosis
 
-- [[Notes/Syndrome, Thoracic Outlet\|Thoracic outlet syndrome]] - neurogenic, secondary to cervical rib
+- [[Topics/Syndrome, Thoracic Outlet\|Thoracic outlet syndrome]] - neurogenic, secondary to cervical rib
 - Cervical radiculopathy - symptoms do not correlate with certain dermatomes
 - Peripheral neuropathy - ruled out by NCS and EMG
 
@@ -124,5 +124,5 @@ Pre-(left) and Post-(right)Op X-rays
 
 ## Discussion
 
-- [[Notes/Syndrome, Thoracic Outlet\|Thoracic outlet syndrome]]
-- [[Notes/Technique, Rib Resection for TOS\|Surgical techniques]]
+- [[Topics/Syndrome, Thoracic Outlet\|Thoracic outlet syndrome]]
+- [[Topics/Technique, Rib Resection for TOS\|Surgical techniques]]
