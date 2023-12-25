@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m1/","tags":["MCA","MT","thrombectomy","stroke","endostroke"],"created":"2023-05-24T03:15:30.000-07:00","updated":"2023-11-11T14:35:09.768-08:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m1/","tags":["MCA","MT","thrombectomy","stroke","endostroke"],"created":"2023-05-24T03:15:30.000-07:00","updated":"2023-12-24T18:29:46.922-08:00"}
 ---
 
 
 ## H&P
 
-- 77M
 - PMHx: unknown
 - PSHx: unknown
 - HPI: 
@@ -92,7 +91,7 @@ DSA - Left ICA, PA and lateral
 { #34dc73}
 
 - M1 occlusion (red arrow)
-- Patent left [[Notes/Artery, Anterior Temporal\|anterior temporal artery]] (yellow arrow)
+- Patent left [[Topics/Artery, Anterior Temporal\|anterior temporal artery]] (yellow arrow)
 
 ---
 
@@ -138,4 +137,4 @@ Post-thrombectomy (1st attempt) - mTICI 2B
 
 ## Further Reading
 
-- [[Notes/Stroke, Ischemic\|Ischemic stroke]]
+- [[Topics/Stroke, Ischemic\|Ischemic stroke]]
