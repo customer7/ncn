@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/spine/kyphosis-cervical/","tags":["spine/c","fusion","corpectomy"],"created":"2023-05-22T19:19:31.000-07:00","updated":"2023-11-11T11:56:31.590-08:00"}
+{"dg-publish":true,"permalink":"/cases/spine/kyphosis-cervical/","tags":["spine/c","fusion","corpectomy"],"created":"2023-05-22T19:19:31.000-07:00","updated":"2023-12-24T18:31:00.366-08:00"}
 ---
 
 
 ## H&P
 
-- 65M
 - PMHx: CAD, HTN, HLD, DM
 - PSHx: cardiac catheterization
 - SoHx: former smoker, current EtOH and marijuana
