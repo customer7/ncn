@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T16:09:37.000-07:00","updated":"2023-11-11T11:50:08.560-08:00"}
+{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T16:09:37.000-07:00","updated":"2023-12-24T18:30:00.599-08:00"}
 ---
 
 
 ## H&P
 
-- 3 months female
+- 3 months
 - PMHx: term birth
 - PSHx: none
 - HPI: 
@@ -36,7 +36,7 @@ CT Head without Contrast - Axial, Coronal, and Sagittal
 
 CT Head with Contrast - Axial, Coronal, and Sagittal
 ![](https://i.imgur.com/WA31IBw.png)
-- A vertically oriented primitive [[Notes/Sinus, Falcine\|falcine sinus]] extends from the posterior internal cerebral veins to the site of the calvarial defect. 
+- A vertically oriented primitive [[Topics/Sinus, Falcine\|falcine sinus]] extends from the posterior internal cerebral veins to the site of the calvarial defect. 
 - The straight sinus is relatively hypoplastic.
 
 ---
@@ -81,4 +81,4 @@ CT Head (Bone Window) - Axial, Coronal, and Sagittal
 ## Discussion
 
 - The lesion is at the proximity of the superior sagittal sinus and seems to have connection with the falcine sinus, posing a high risk of intraoperative vascular injury.
-- [[Notes/Sinus, Falcine\|Falcine sinus]]
+- [[Topics/Sinus, Falcine\|Falcine sinus]]
