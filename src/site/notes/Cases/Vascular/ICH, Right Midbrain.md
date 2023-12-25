@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/ich-right-midbrain/","tags":["ICH","midbrain"],"created":"2023-05-12T20:23:44.000-07:00","updated":"2023-11-11T11:58:42.453-08:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/ich-right-midbrain/","tags":["ICH","midbrain"],"created":"2023-05-12T20:23:44.000-07:00","updated":"2023-12-24T18:31:39.593-08:00"}
 ---
 
 
 ## H&P
 
-- 30F
 - PMHx: ADHD on [[Meds, Lisdexamfetamine\|lisdexamfetamine]], anxiety, hypothyroidism
 - PSHx: tonsillectomy
 - FHx: noncontributory
