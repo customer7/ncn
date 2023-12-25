@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-11-15T16:24:38.027-08:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-12-24T18:29:34.144-08:00"}
 ---
 
 
 ## HPI:
 
-- 48M
-- PMHx: [[Notes/Neurofibromatosis, Type I\|neurofibromatosis]], HTN
+- PMHx: [[Topics/Neurofibromatosis, Type I\|neurofibromatosis]], HTN
 - Presented to ED with slurred speech and dizzy spells intermittently for 1 year
 - Workup: CT head -> CTA head -> MRI brain
 
@@ -52,7 +51,7 @@ It appeared that there was calcification and stenosis at the right VA origin (or
 - Diagnostic cerebral angiography was performed under moderate sedation
 	- Co-dominant bilateral VAs -> radial access -> right VA
 	- A large unruptured irregular basilar trunk aneurysm, 21 mm
-- Black blood MRI illustrates bilateral [[Notes/Artery, Vertebral\|VA]] vessel wall and aneurysm wall enhancement -> high risk of rupturing
+- Black blood MRI illustrates bilateral [[Topics/Artery, Vertebral\|VA]] vessel wall and aneurysm wall enhancement -> high risk of rupturing
 - Plan for flow diversion embolization
 - [[Literature/Triple Therapy, VBA Aneurysm - 2022\|Triple therapy]]^[[Triple therapy versus dual-antiplatelet therapy for dolichoectatic vertebrobasilar fusiform aneurysms treated with flow diverters | Journal of NeuroInterventional Surgery](https://jnis.bmj.com/content/15/7/655)] for anti-thrombotic management
 	- Daily 81 mg of aspirin - response: 369 ARU
@@ -67,7 +66,7 @@ It appeared that there was calcification and stenosis at the right VA origin (or
 
 - Intra-operative neuro-monitoring: SSEP, MEP, EEG
 - General anesthesia
-- **Access**: Right [[Notes/Access, Radial Artery\|radial artery access]]
+- **Access**: Right [[Topics/Access, Radial Artery\|radial artery access]]
 - **Sheath**: Terumo 7F slender sheath, 10 cm^[[GLIDESHEATH SLENDER® Hydrophilic Coated Introducer Sheath](https://terumois.com/products/access/glidesheath-slender-introducer-sheath.html)]
 - **Guide catheter**: 7F Rist, 95 cm^[[Rist Radial Access System | Medtronic](https://www.medtronic.com/us-en/healthcare-professionals/products/neurological/access-delivery-nv/rist-radial-access-system.html)]
 - **Select catheter**: Vert, 125 cm^[[Cook Beacon® Tip 5.0 Fr Angiographic Catheter | Cook Medical](https://www.cookmedical.com/products/f3521610-2414-4b83-8fe1-3ab22f433a27/)]
