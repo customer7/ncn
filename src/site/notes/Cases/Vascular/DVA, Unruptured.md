@@ -1,14 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["todo","DVA","IPH","DSA"],"created":"2023-06-05T08:00:51.000-07:00","updated":"2023-12-24T18:31:33.904-08:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["todo","DVA","IPH","DSA"],"created":"2023-06-05T08:00:51.000-07:00","updated":"2023-12-27T14:17:41.285-08:00"}
 ---
 
 
 ## H&P
 
-- PMHx: asthma, anxiety, ICH at OSH 2w ago (admitted for 11d)
-- PSHx: DSA at OSH
-- FHx: drug abuse (father), birth defects (son)
-- SoHx: daily smoker (1 PPD), +EtOH, denies drugs
 - HPI: 
 	- Presented to ED
 	- Headache and photophobia
