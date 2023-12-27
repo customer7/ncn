@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T18:36:27.000-07:00","updated":"2023-12-24T18:30:31.962-08:00"}
+{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T18:36:27.000-07:00","updated":"2023-12-27T14:14:39.804-08:00"}
 ---
 
 
 ## H&P
 
-- Right-hand dominant
-- PMHx: arrhythmia, asthma, antiphospholipid syndrome, migraines
-- SoHx: former smoker of cigarettes, denies EtOH/drugs
 - HPI: 
 	- Presented to neurosurgery clinic
 	- Progressive left neck and posterior shoulder pain for years
