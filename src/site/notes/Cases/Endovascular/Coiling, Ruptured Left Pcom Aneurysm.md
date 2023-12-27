@@ -1,14 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","coil","embolization","Pcom","endovascular"],"created":"2023-04-24T19:29:35.000-07:00","updated":"2023-12-24T18:29:20.139-08:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/coiling-ruptured-left-pcom-aneurysm/","tags":["aneurysm/ruptured","coil","embolization","Pcom","endovascular"],"created":"2023-04-24T19:29:35.000-07:00","updated":"2023-12-27T14:12:44.946-08:00"}
 ---
 
 
 ## H&P
 
-- PMHx: none
-- PSHx: none
-- FHx: noncontributory
-- SoHx: denies smoking/EtOH/illicit drugs
 - HPI: 
 	- Presented to ED
 	- Two days of left eye pain, headache, blurry vision
