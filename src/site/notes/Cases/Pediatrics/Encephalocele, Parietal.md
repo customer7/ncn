@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T16:09:37.000-07:00","updated":"2023-12-24T18:30:00.599-08:00"}
+{"dg-publish":true,"permalink":"/cases/pediatrics/encephalocele-parietal/","tags":["pediatric","encephalocele","skull","brain"],"created":"2023-05-25T16:09:37.000-07:00","updated":"2023-12-27T14:13:48.877-08:00"}
 ---
 
 
 ## H&P
 
-- 3 months
-- PMHx: term birth
-- PSHx: none
 - HPI: 
 	- Presented to clinic
 	- Born with a 2-3 cm slightly right biased parietal skull/scalp mass
