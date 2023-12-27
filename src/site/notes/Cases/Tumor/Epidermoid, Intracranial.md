@@ -1,15 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-12-24T18:31:15.391-08:00"}
+{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-12-27T14:17:11.768-08:00"}
 ---
 
 
 ## H&P
 
-- Right-hand dominant
-- PMHx: migraines, severe mood disorder
-- PSHx: none
-- FHx: noncontributory
-- SoHx: denies smoking/EtOH/drugs
 - HPI: 
 	- Presented to neurosurgery clinic
 	- Chronic headache x5 years
