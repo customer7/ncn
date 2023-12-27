@@ -1,14 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/spine/thoracic-epidural-lesion/","tags":["tumor/tsp"],"created":"2023-05-17T14:29:14.000-07:00","updated":"2023-12-24T18:31:06.033-08:00"}
+{"dg-publish":true,"permalink":"/cases/spine/thoracic-epidural-lesion/","tags":["tumor/tsp"],"created":"2023-05-17T14:29:14.000-07:00","updated":"2023-12-27T14:17:02.164-08:00"}
 ---
 
 
 ## H&P
 
-- PMHx: none
-- PSHx: tonsillectomy
-- FHx: hypertension
-- SoHx: denies smoking, EtOH, or drugs
 - HPI: 
 	- Presented to ED
 	- Back pain x1m
