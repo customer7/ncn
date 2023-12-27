@@ -1,14 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/ich-right-midbrain/","tags":["ICH","midbrain"],"created":"2023-05-12T20:23:44.000-07:00","updated":"2023-12-24T18:31:39.593-08:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/ich-right-midbrain/","tags":["ICH","midbrain"],"created":"2023-05-12T20:23:44.000-07:00","updated":"2023-12-27T14:17:51.171-08:00"}
 ---
 
 
 ## H&P
 
-- PMHx: ADHD on [[Meds, Lisdexamfetamine\|lisdexamfetamine]], anxiety, hypothyroidism
-- PSHx: tonsillectomy
-- FHx: noncontributory
-- SoHx: denies smoking/EtOH/drugs
 - HPI: 
 	- Presented to ED
 	- Sudden onset of left hemifacial anesthesia, diplopia
