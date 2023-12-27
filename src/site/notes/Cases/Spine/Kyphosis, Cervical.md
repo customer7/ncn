@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/spine/kyphosis-cervical/","tags":["spine/c","fusion","corpectomy"],"created":"2023-05-22T19:19:31.000-07:00","updated":"2023-12-24T18:31:00.366-08:00"}
+{"dg-publish":true,"permalink":"/cases/spine/kyphosis-cervical/","tags":["spine/c","fusion","corpectomy"],"created":"2023-05-22T19:19:31.000-07:00","updated":"2023-12-27T14:16:55.665-08:00"}
 ---
 
 
 ## H&P
 
-- PMHx: CAD, HTN, HLD, DM
-- PSHx: cardiac catheterization
-- SoHx: former smoker, current EtOH and marijuana
 - HPI: 
 	- Presented to neurosurgery clinic
 	- Progressive BUE weakness x6m, right \> left
