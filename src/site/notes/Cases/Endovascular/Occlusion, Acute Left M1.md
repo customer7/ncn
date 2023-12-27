@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m1/","tags":["MCA","MT","thrombectomy","stroke","endostroke"],"created":"2023-05-24T03:15:30.000-07:00","updated":"2023-12-24T18:29:46.922-08:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m1/","tags":["MCA","MT","thrombectomy","stroke","endostroke"],"created":"2023-05-24T03:15:30.000-07:00","updated":"2023-12-27T14:13:15.475-08:00"}
 ---
 
 
 ## H&P
 
-- PMHx: unknown
-- PSHx: unknown
 - HPI: 
 	- Acute onset of right hemiparesis and aphasia
 	- LKN: 2.5 hours ago
