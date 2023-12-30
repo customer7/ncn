@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/topics/access-femoral-artery/","tags":["access","anatomy","artery"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-10-26T09:29:28.790-07:00"}
+{"dg-publish":true,"permalink":"/topics/access-femoral-artery/","tags":["access","anatomy","artery"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2023-12-30T15:04:06.183-08:00"}
 ---
 
 
-How to safely perform femoral arterial access is the first step of any transfemoral angiography ([[Topics/Access, Femoral Artery#1\|Case 1]], [[Topics/Access, Femoral Artery#2\|Case 2]]). In patients with challenging anatomies, such as low blood pressure or obesity, bedside ultrasound can be utilized to guide the puncture ([[Topics/Access, Femoral Artery#3\|Case 3]], [[Topics/Access, Femoral Artery#4\|Case 4]]). Pre-interventional imaging such as CTA/MRA are sometimes of tremendous help, however, knowing the patient's anatomy remains a key step to avoid complications ([[Topics/Access, Femoral Artery#5\|Case 5]], [[Topics/Access, Femoral Artery#6\|Case 6]]). A slight RAO adjustment of the PA view will medialize the CFA, avoiding overlap with the underlying artificial femoral head ([[Topics/Access, Femoral Artery#7\|Case 7]]). 
+How to safely perform femoral arterial access is the first step of any transfemoral angiography ([[Topics/Access, Femoral Artery#1\|Case 1]], [[Topics/Access, Femoral Artery#2\|Case 2]]). In patients with challenging anatomies, such as low blood pressure or obesity, bedside ultrasound can be utilized to guide the puncture ([[Topics/Access, Femoral Artery#3\|Case 3]], [[Topics/Access, Femoral Artery#4\|Case 4]]). Pre-interventional imaging such as CTA/MRA are sometimes of tremendous help, however, knowing the patient's anatomy remains a key step to avoid complications ([[Topics/Access, Femoral Artery#5\|Case 5]], [[Topics/Access, Femoral Artery#6\|Case 6]]). A slight RAO adjustment of the PA view will medialize the CFA, avoiding overlap with the underlying artificial femoral head ([[Topics/Access, Femoral Artery#7\|Case 7]]). Obtain a femoral run before deploying any closure device to confirm the catheter entry site ([[Topics/Access, Femoral Artery#8\|Case 8]]).
 
 Extensive atherosclerotic disease indicates a higher risk of stroke via transfemoral approach ([[Topics/Access, Femoral Artery#3\|Case 3]]). According to the CREST study^[[Stenting versus Endarterectomy for Treatment of Carotid-Artery Stenosis | NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa0912321?logout=true)], compared with carotid endarterectomy, stroke was more likely after transfemoral carotid-artery stenting. TCAR bypasses the aortic arch and subclavian/CCA origins, and is branded to have a lower peri-operative stroke rate.
 
@@ -69,3 +69,10 @@ This patient developed diffuse intracranial vasospasm in the setting of subarach
 ![](https://i.imgur.com/ZvyS1XW.jpg)
 (**A**): A true PA view revealed an overlap of the CFA, represented by the sheath (black arrow), with the underlying artificial femoral head.
 (**B**): A slight RAO view medialized the CFA and provided a much clearer image.
+
+---
+
+### 8 
+
+![](https://i.imgur.com/DqFnEhN.jpg)
+Sometimes the PA view can be ambiguous regarding the catheter entry site (**A**). The lateral view (**B**) provides a clear demonstration.
