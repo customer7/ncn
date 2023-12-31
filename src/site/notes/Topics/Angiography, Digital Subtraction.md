@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2023-11-27T21:05:26.848-08:00"}
+{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2023-12-30T18:41:25.695-08:00"}
 ---
 
 
@@ -7,8 +7,14 @@
 
 ### Techniques
 
-- 
+### Avoiding Complications
 
+#### Air Bubble
+One of the complications of cerebral angiography is ischemic stroke caused by an injected air bubble ([[Topics/Angiography, Digital Subtraction#4 - Air Bubble\|Case 4]]). There are several tips to avoid such a complication.
+
+- Examine each single contrast syringe thoroughly to ensure there is no air bubble.
+- After connecting to the catheter/Touhy-Borst, use one hand to lift the plunger and withdraw the syringe while applying some gentle flicks with the other hand until blood reaches the syringe, eliminating any air bubble.
+- Avoid injecting all the contrast in the syringe to keep air away from the syringe tip.
 
 ---
 
@@ -36,3 +42,9 @@ There is a round hypodensity (arrow) that seems to be in the transverse segment 
 
 ![](https://i.imgur.com/Y9u0xVT.jpg)
 This patient underwent mechanical thrombectomy under moderate sedation for acute right ICA terminus occlusion. DSA images were blurred due to head motions (**A** and **C**). After **pixel shift** (**B** and **D**), the image quality significantly improved.
+
+---
+
+### 4 - Air Bubble
+<div style="padding:96.75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/898832192?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Air Bubble"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+An air bubble can be seen injected into the [[Artery, Maxillary\|internal maxillary artery]], fortunately without causing any significant clinical complications.
