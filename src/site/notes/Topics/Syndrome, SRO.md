@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/syndrome-sro/","tags":["anatomy","MRI"],"created":"2023-12-19T09:18:26.069-08:00","updated":"2023-12-19T15:50:30.687-08:00"}
+{"dg-publish":true,"permalink":"/topics/syndrome-sro/","tags":["anatomy","MRI"],"created":"2023-12-19T09:18:26.000-08:00","updated":"2023-12-24T21:52:24.000-08:00"}
 ---
 
 
