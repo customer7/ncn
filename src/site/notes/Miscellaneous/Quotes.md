@@ -7,7 +7,7 @@
 > "*Be brutally honest with yourself.*"
 
 ### Dr. R
-> "I know, I mean, it's a good [[Notes/Scale, Hunt and Hess\|Hunt and Hess]] 4."
+> "I know, I mean, it's a good [[Topics/Scale, Hunt and Hess\|Hunt and Hess]] 4."
 
 ### Dr. W 
-> "The [[Notes/Catheter, VTK\|VTK]] catheter is an absolutely beautiful catheter."
+> "The [[Topics/Catheter, VTK\|VTK]] catheter is an absolutely beautiful catheter."
