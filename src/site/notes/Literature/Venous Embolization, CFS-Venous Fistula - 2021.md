@@ -5,7 +5,7 @@
 
 ## A Novel Endovascular Therapy for CSF Hypotension Secondary to CSF-Venous Fistulas - AJNR
 
-In this paper[^1], the authors reported a consecutive case series of five patients with spontaneous intracranial hypotension secondary to [[Notes/Fistula, CSF-Venous\|CSF-venous fistula]], which was successfully treated with endovascular transvenous Onyx embolization. 
+In this paper[^1], the authors reported a consecutive case series of five patients with spontaneous intracranial hypotension secondary to [[Topics/Fistula, CSF-Venous\|CSF-venous fistula]], which was successfully treated with endovascular transvenous Onyx embolization. 
 
 ---
 
@@ -47,7 +47,7 @@ In this paper[^1], the authors reported a consecutive case series of five patien
 
 ### Cases
 
-- [[Notes/Fistula, CSF-Venous#1\|CSF-venous fistula]]
-- [[Notes/Hypotension, Intracranial#1\|Intracranial hypotension]]
+- [[Topics/Fistula, CSF-Venous#1\|CSF-venous fistula]]
+- [[Topics/Hypotension, Intracranial#1\|Intracranial hypotension]]
 
 [^1]: [A Novel Endovascular Therapy for CSF Hypotension Secondary to CSF-Venous Fistulas - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8115355/)
