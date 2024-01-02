@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature/venous-embolization-cfs-venous-fistula-2021/","tags":["CSF","fistula"],"created":"2023-11-02T10:55:16.373-07:00","updated":"2023-11-17T15:59:42.060-08:00"}
+{"dg-publish":true,"permalink":"/literature/venous-embolization-cfs-venous-fistula-2021/","tags":["CSF","fistula"],"created":"2023-11-02T10:55:16.373-07:00","updated":"2024-01-02T13:12:54.694-08:00"}
 ---
 
 
