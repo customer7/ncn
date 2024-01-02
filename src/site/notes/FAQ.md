@@ -46,7 +46,7 @@ Cases presented on this website are for educational and informational purposes o
 
 ## ★ What does the abbreviation stand for?
 
-If you are not sure about an abbreviation, [[Notes/Index, Abbreviations\|here]] is the reference.
+If you are not sure about an abbreviation, [[Topics/Index, Abbreviations\|here]] is the reference.
 
 ---
 
