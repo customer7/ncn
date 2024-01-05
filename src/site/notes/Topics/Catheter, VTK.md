@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/catheter-vtk/","tags":["catheter"],"created":"2023-10-26T09:15:05.548-07:00","updated":"2023-12-06T18:53:17.645-08:00"}
+{"dg-publish":true,"permalink":"/topics/catheter-vtk/","tags":["catheter"],"created":"2023-10-26T09:15:05.548-07:00","updated":"2024-01-05T12:20:43.114-08:00"}
 ---
 
 
@@ -34,3 +34,10 @@ This case illustrates how the VTK catheter can be utilized to select the right I
 - Red arrow: Secondary curve.
 - Cyan arrow: Tertiary curve.
 - Green arrow: Walrus tip.
+
+---
+
+### 2 
+
+![](https://i.imgur.com/rU6o1RZ.jpg)
+This patient has a bovine-type arch, and the VTK catheter makes the selection of the left [[Topics/Artery, Common Carotid\|CCA]] straightforward.
