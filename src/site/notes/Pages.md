@@ -101,6 +101,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Literature/Triple Therapy, VBA Aneurysm - 2022\|Triple Therapy, VBA Aneurysm - 2022]]
 - [[Literature/UCAS, Japan - 2012\|UCAS, Japan - 2012]]
 - [[Topics/Vein, Superficial Middle Cerebral\|Vein, Superficial Middle Cerebral]]
+- [[Topics/Veins, Deep Cerebral\|Veins, Deep Cerebral]]
 - [[Literature/Venous Embolization, CFS-Venous Fistula - 2021\|Venous Embolization, CFS-Venous Fistula - 2021]]
 - [[Books/Yasargil\|Yasargil]]
 
