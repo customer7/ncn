@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m1/","tags":["MCA","MT","thrombectomy","stroke","endostroke"],"created":"2023-05-24T03:15:30.000-07:00","updated":"2023-12-27T14:13:15.475-08:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/occlusion-acute-left-m1/","tags":["MCA","MT","thrombectomy","stroke","endostroke"],"created":"2023-05-24T03:15:30.000-07:00","updated":"2024-01-10T11:04:11.694-08:00"}
 ---
 
 
@@ -88,20 +88,20 @@ DSA - Left ICA, PA and lateral
 ![](https://i.imgur.com/2p2BZAh.png)
 { #34dc73}
 
-- M1 occlusion (red arrow)
-- Patent left [[Topics/Artery, Anterior Temporal\|anterior temporal artery]] (yellow arrow)
+- M1 occlusion (<span style="color:red">red</span> arrow)
+- Patent left [[Topics/Artery, Anterior Temporal\|anterior temporal artery]] (<span style="color:yellow">yellow</span> arrow)
 
 ---
 
 DSA - Left ICA, PA and lateral
 ![](https://i.imgur.com/iw04X8m.png)
-Patent left anterior temporal artery (yellow arrow)
+Patent left anterior temporal artery (<span style="color:yellow">yellow</span> arrow)
 
 ---
 
 DSA - Left ICA, PA and lateral
 ![](https://i.imgur.com/jD1Vegn.png)
-Patent left anterior temporal artery (yellow arrow)
+Patent left anterior temporal artery (<span style="color:yellow">yellow</span> arrow)
 
 ---
 
