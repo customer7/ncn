@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2023-12-24T18:29:34.144-08:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2024-01-10T11:34:32.994-08:00"}
 ---
 
 
@@ -36,13 +36,13 @@ Axial Brain MRI - T1/T2/T1 (+C)/Black Blood (+C)
 
 Coronal Brain MRI - Black Blood (+C)
 ![](https://i.imgur.com/tC9NvlM.jpg)
-Enhancement was observed in the walls of both the bilateral VA (orange arrow: right VA; green arrow: left VA) and the aneurysm (red arrow).
+Enhancement was observed in the walls of both the bilateral VA (<span style="color:orange">orange</span> arrow: right VA; <span style="color:palegreen">green</span> arrow: left VA) and the aneurysm (<span style="color:red">red</span> arrow).
 
 ---
 
 CTA Neck - Coronal (A)/Axial (B)
 ![](https://i.imgur.com/ErEqwJ6.jpg)
-It appeared that there was calcification and stenosis at the right VA origin (orange arrow), which might pose a challenge for catheterization.
+It appeared that there was calcification and stenosis at the right VA origin (<span style="color:orange">orange</span> arrow), which might pose a challenge for catheterization.
 
 ---
 
@@ -86,19 +86,19 @@ It appeared that there was calcification and stenosis at the right VA origin (or
 
 ### Labelling
 
-- Orange arrow: right VA.
-- Red arrow: The aneurysm.
-- Green arrow: left VA.
-- Pink arrow: Rist tip.
-- Plum arrow: Adjacent small aneurysms.
-- White arrow: BA apex.
-- Blue arrow: right PCA.
-- Cyan arrow: left PCA.
+- <span style="color:orange">Orange</span> arrow: right VA.
+- <span style="color:red">Red</span> arrow: The aneurysm.
+- <span style="color:palegreen">Green</span> arrow: left VA.
+- <span style="color:pink">Pink</span> arrow: Rist tip.
+- <span style="color:plum">Plum</span> arrow: Adjacent small aneurysms.
+- <span style="color:white">White</span> arrow: BA apex.
+- <span style="color:cornflowerblue">Blue</span> arrow: right PCA.
+- <span style="color:cyan">Cyan</span> arrow: left PCA.
 - Brown arrow: Vecta 0.046 tip.
-- Black arrow: XT-27 tip.
-- Magenta arrow: Proximal marker.
-- Teal arrow: Resheath marker.
-- Maroon arrow: Distal marker.
+- <span style="color:black">Black</span> arrow: XT-27 tip.
+- <span style="color:magenta">Magenta</span> arrow: Proximal marker.
+- <span style="color:teal">Teal</span> arrow: Resheath marker.
+- <span style="color:maroon">Maroon</span> arrow: Distal marker.
 
 ---
 
@@ -136,7 +136,7 @@ Roadmap - Right VA Injection (PA and Lateral)
 
 Roadmap - Right VA Injection (PA and Lateral)
 ![](https://i.imgur.com/A5aW9C9.jpg)
-Following the microwire, both the XT-27 (black arrow) and Vecta 0.046 (brown arrow) catheters were positioned in the proximal basilar artery.
+Following the microwire, both the XT-27 (<span style="color:black">black</span> arrow) and Vecta 0.046 (brown arrow) catheters were positioned in the proximal basilar artery.
 
 ---
 
