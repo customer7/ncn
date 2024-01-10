@@ -29,6 +29,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Topics/Artery, Posterior Meningeal\|Artery, Posterior Meningeal]]
 - [[Topics/Artery, Subclavian\|Artery, Subclavian]]
 - [[Topics/Artery, Superior Cerebellar\|Artery, Superior Cerebellar]]
+- [[Topics/Artery, Vertebral\|Artery, Vertebral]]
 - [[Topics/Catheter, AXS Vecta 46\|Catheter, AXS Vecta 46]]
 - [[Topics/Catheter, Excelsior SL-10\|Catheter, Excelsior SL-10]]
 - [[Topics/Catheter, Simmons\|Catheter, Simmons]]
