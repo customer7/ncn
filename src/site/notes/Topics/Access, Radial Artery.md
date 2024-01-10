@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2023-11-15T17:33:53.975-08:00"}
+{"dg-publish":true,"permalink":"/topics/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2024-01-10T11:23:31.253-08:00"}
 ---
 
 With the introduction of various catheters designed for radial access, the **radial artery access** has been gaining popularity recently. The [[Topics/Catheter, Simmons\|Simmons catheters]] are typically the go-to choice for selecting target arteries.
@@ -31,7 +31,7 @@ With the introduction of various catheters designed for radial access, the **rad
 
 **Ultrasound-Guided Radial Artery Puncture**
 ![](https://i.imgur.com/3FvkGBB.png)
-**A**: Frequently, there is an accompanying vein (red arrow) running alongside the radial artery (yellow arrowhead). 
+**A**: Frequently, there is an accompanying vein (<span style="color:red">red</span> arrow) running alongside the radial artery (<span style="color:yellow">yellow</span> arrowhead). 
 **B**: Applying gentle pressure on the wrist will cause the vein to collapse, while the artery remains full with pulsations. Observe the slight "upward shift" of both the collapsed vein and the artery (closer to the skin).
 
 ---
@@ -49,20 +49,20 @@ The local anesthetic infiltrated area (white diamond) can be seen above the righ
 
 **CTA Neck**
 ![](https://i.imgur.com/CVxdMX9.jpg)
-The **aberrant right subclavian artery**/**lusorian artery** (red arrow) which can be easily ascertained on CTA neck, is considered a relative contraindication for radial access.^[[Radial Access via Aberrant Right Subclavian Artery | neuroangio.org](https://neuroangio.org/sample-page/case-archives/radial-access-via-aberrant-right-subclavian-artery/)] Yellow arrow: right CCA. Blue arrow: left CCA. Green arrow: left subclavian artery. Orange arrow: right VA. Pink star: esophagus. White diamond: trachea. (Unfortunately, this is not an ideal study due to the suboptimal timing and contrast contamination in the adjacent veins.)
+The **aberrant right subclavian artery**/**lusorian artery** (<span style="color:red">red</span> arrow) which can be easily ascertained on CTA neck, is considered a relative contraindication for radial access.^[[Radial Access via Aberrant Right Subclavian Artery | neuroangio.org](https://neuroangio.org/sample-page/case-archives/radial-access-via-aberrant-right-subclavian-artery/)] <span style="color:yellow">Yellow</span> arrow: right CCA. <span style="color:cornflowerblue">Blue</span> arrow: left CCA. <span style="color:palegreen">Green</span> arrow: left subclavian artery. <span style="color:orange">Orange</span> arrow: right VA. Pink star: esophagus. White diamond: trachea. (Unfortunately, this is not an ideal study due to the suboptimal timing and contrast contamination in the adjacent veins.)
 
 ---
 
 **CTA Chest**
 ![](https://i.imgur.com/f5ZB1F7.png)
-This patient presented after a chest trauma. There is also an aberrant right subclavian artery (red arrow). Also, please note the right pulmonary contusion and the chest tube.
+This patient presented after a chest trauma. There is also an aberrant right subclavian artery (<span style="color:red">red</span> arrow). Also, please note the right pulmonary contusion and the chest tube.
 
-- Yellow arrow: Right [[Topics/Artery, Common Carotid\|CCA]]. 
-- Blue arrow: Left [[Topics/Artery, Common Carotid\|CCA]]. 
-- Green arrow: Left subclavian artery. 
-- Orange arrow: Right [[Topics/Artery, Vertebral\|VA]]. 
-- Cyan arrow: Left [[Topics/Artery, Vertebral\|VA]]. 
-- Black arrow: Right long thoracic artery. 
+- <span style="color:yellow">Yellow</span> arrow: Right [[Topics/Artery, Common Carotid\|CCA]]. 
+- <span style="color:cornflowerblue">Blue</span> arrow: Left [[Topics/Artery, Common Carotid\|CCA]]. 
+- <span style="color:palegreen">Green</span> arrow: Left subclavian artery. 
+- <span style="color:orange">Orange</span> arrow: Right [[Topics/Artery, Vertebral\|VA]]. 
+- <span style="color:cyan">Cyan</span> arrow: Left [[Topics/Artery, Vertebral\|VA]]. 
+- <span style="color:black">Black</span> arrow: Right long thoracic artery. 
 - Magenta star: Esophagus/NGT. 
 - White diamond: Trachea/ETT. 
 
@@ -87,12 +87,12 @@ This is an MRA neck of another patient who has an aberrant right subclavian arte
 ### 4
 
 ![](https://i.imgur.com/VYISHHZ.jpg)
-This angiography revealed a tortuous right radial artery origin with adjacent two U-turns. The Glidewire was too stiff to safely navigate through these two turns (red arrow). Consequently, the decision was made to abandon radial access and switch to a femoral access. In cases where the right radial artery remains the only viable option for access, one could consider using a microwire to guide the selection of the brachial artery, followed by a microcatheter to straighten the radial artery origin. 
+This angiography revealed a tortuous right radial artery origin with adjacent two U-turns. The Glidewire was too stiff to safely navigate through these two turns (<span style="color:red">red</span> arrow). Consequently, the decision was made to abandon radial access and switch to a femoral access. In cases where the right radial artery remains the only viable option for access, one could consider using a microwire to guide the selection of the brachial artery, followed by a microcatheter to straighten the radial artery origin. 
 
-- Orange arrow: The tip of the sheath.
+- <span style="color:orange">Orange</span> arrow: The tip of the sheath.
 - White arrow: Radial artery.
-- Blue arrow: Ulnar artery.
-- Green arrow: Brachial artery.
+- <span style="color:cornflowerblue">Blue</span> arrow: Ulnar artery.
+- <span style="color:palegreen">Green</span> arrow: Brachial artery.
 
 ---
 
@@ -101,7 +101,7 @@ This angiography revealed a tortuous right radial artery origin with adjacent tw
 ![](https://i.imgur.com/ai1kM80.jpg)
 The right [[Topics/Artery, Vertebral\|VA]] (pink arrow) is typically the first artery to catheterize in diagnostic cerebral angiography via the radial access.
 
-(**A**): In this pre-operative CTA neck 3D reconstruction view, the right VA origin (green arrow) can be clearly recognized with its relative location to the tip of the distal right subclavian curve (white arrow).
-(**B**): Advance the catheter tip (orange arrow) to the estimated VA origin and obtain a roadmap to assist in artery catheterization.
+(**A**): In this pre-operative CTA neck 3D reconstruction view, the right VA origin (<span style="color:palegreen">green</span> arrow) can be clearly recognized with its relative location to the tip of the distal right subclavian curve (white arrow).
+(**B**): Advance the catheter tip (<span style="color:orange">orange</span> arrow) to the estimated VA origin and obtain a roadmap to assist in artery catheterization.
 
 An alternative method to localize the right VA origin would be to advance the catheter tip more distally and then retract it while puffing contrast to opacify it.
