@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2023-12-30T18:41:25.695-08:00"}
+{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2024-01-10T11:04:11.696-08:00"}
 ---
 
 
@@ -32,9 +32,9 @@ There is a round hypodensity (arrow) that seems to be in the transverse segment 
 
 ![](https://i.imgur.com/7gsx2pv.jpg)
 (**A**): This patient presented with a supraclinoid aneurysm, which appears to be an isolated aneurysm without an adjacent branch.
-(**B**): After flow diverter embolization, the stasis of the contrast revealed a small adjacent [[Artery, Superior Hypophyseal\|superior hypophyseal artery]] (yellow arrow).
+(**B**): After flow diverter embolization, the stasis of the contrast revealed a small adjacent [[Artery, Superior Hypophyseal\|superior hypophyseal artery]] (<span style="color:yellow">yellow</span> arrow).
 
-- Red arrow: ophthalmic artery.
+- <span style="color:red">Red</span> arrow: ophthalmic artery.
 
 ---
 
