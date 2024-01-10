@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2023-11-01T16:09:57.872-07:00"}
+{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-01-10T11:25:00.217-08:00"}
 ---
 
 In this article, we gathered cases with interesting external carotid-internal carotid anastomoses.
@@ -12,7 +12,7 @@ In this article, we gathered cases with interesting external carotid-internal ca
 
 DSA - Right ICA Injection (PA \[Top\] and Lateral \[Bottom\])
 ![](https://i.imgur.com/O3RCMBz.jpg)
-The right [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (red arrows) is arising from the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (blue arrow), as observed during an injection into the right ICA. By the way, did you notice the aneurysm?
+The right [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (<span style="color:red">red</span> arrows) is arising from the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:cornflowerblue">blue</span> arrow), as observed during an injection into the right ICA. By the way, did you notice the aneurysm?
 
 --- 
 
@@ -20,8 +20,8 @@ The right [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (red arro
 
 DSA - Left ECA Injection (PA \[Left\] and Lateral \[Right\])
 ![](https://i.imgur.com/kHKRuzV.jpg)
-On this left ECA angiogram, an anastomosis (blue arrow) can be seen between the left occipital artery (red arrow) and the left VA (green arrow).
+On this left ECA angiogram, an anastomosis (<span style="color:cornflowerblue">blue</span> arrow) can be seen between the left occipital artery (<span style="color:red">red</span> arrow) and the left VA (<span style="color:palegreen">green</span> arrow).
 
-- Orange arrow: [[Topics/Artery, Basilar\|Basilar artery]].
-- Magenta arrow: [[Topics/Artery, Superficial Temporal\|Superficial temporal artery]].
-- Cyan arrow: [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]].
+- <span style="color:orange">Orange</span> arrow: [[Topics/Artery, Basilar\|Basilar artery]].
+- <span style="color:magenta">Magenta</span> arrow: [[Topics/Artery, Superficial Temporal\|Superficial temporal artery]].
+- <span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]].
