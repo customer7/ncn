@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2024-01-10T11:34:32.994-08:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2024-01-10T11:37:25.812-08:00"}
 ---
 
 
@@ -94,7 +94,7 @@ It appeared that there was calcification and stenosis at the right VA origin (<s
 - <span style="color:white">White</span> arrow: BA apex.
 - <span style="color:cornflowerblue">Blue</span> arrow: right PCA.
 - <span style="color:cyan">Cyan</span> arrow: left PCA.
-- Brown arrow: Vecta 0.046 tip.
+- <span style="color:brow">Brown</span> arrow: Vecta 0.046 tip.
 - <span style="color:black">Black</span> arrow: XT-27 tip.
 - <span style="color:magenta">Magenta</span> arrow: Proximal marker.
 - <span style="color:teal">Teal</span> arrow: Resheath marker.
@@ -136,7 +136,7 @@ Roadmap - Right VA Injection (PA and Lateral)
 
 Roadmap - Right VA Injection (PA and Lateral)
 ![](https://i.imgur.com/A5aW9C9.jpg)
-Following the microwire, both the XT-27 (<span style="color:black">black</span> arrow) and Vecta 0.046 (brown arrow) catheters were positioned in the proximal basilar artery.
+Following the microwire, both the XT-27 (<span style="color:black">black</span> arrow) and Vecta 0.046 (<span style="color:brow">brown</span> arrow) catheters were positioned in the proximal basilar artery.
 
 ---
 
