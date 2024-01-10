@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/access-femoral-artery/","tags":["access","anatomy","artery"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2024-01-05T16:13:09.228-08:00"}
+{"dg-publish":true,"permalink":"/topics/access-femoral-artery/","tags":["access","anatomy","artery"],"created":"2023-08-14T19:26:50.000-07:00","updated":"2024-01-10T11:23:42.008-08:00"}
 ---
 
 
@@ -20,7 +20,7 @@ When performing access to the right common femoral artery using the micro-punctu
 ### 2
 
 ![](https://i.imgur.com/ID9QMXd.png)
-(**A**): This patient has a venous access catheter (black arrow) in the right common femoral vein (CFV), which travels towards the heart to the right of the spine. The arterial puncture site is lateral to this venous catheter, and the 0.021'' microwire (yellow arrowheads) from the micropuncture kit travels from the lateral side to the medial side of the venous catheter and then crosses the midline to the left of the spine, indicating arterial access. 
+(**A**): This patient has a venous access catheter (<span style="color:black">black</span> arrow) in the right common femoral vein (CFV), which travels towards the heart to the right of the spine. The arterial puncture site is lateral to this venous catheter, and the 0.021'' microwire (<span style="color:yellow">yellow</span> arrowheads) from the micropuncture kit travels from the lateral side to the medial side of the venous catheter and then crosses the midline to the left of the spine, indicating arterial access. 
 (**B**): DSA showed that the arterial puncture site is in the common femoral artery (CFA), above the bifurcation (red double arrow).
 
 ---
@@ -28,14 +28,14 @@ When performing access to the right common femoral artery using the micro-punctu
 ### 3
 
 ![](https://i.imgur.com/NMlKfQ8.jpg)
-Ideally, the sheath entry site (black double-arrow) should be between the origin of the inferior epigastric artery (yellow arrow) and the common femoral artery bifurcation (red arrow) to lower the risks of retroperitoneal hematoma (too proximal) or pseudoaneurysm/AVF (too distal).^[[Cureus | Assessment of Femoral Artery Bifurcation Level with Conventional Angiography | Article](https://www.cureus.com/articles/15378-assessment-of-femoral-artery-bifurcation-level-with-conventional-angiography#!/)]
+Ideally, the sheath entry site (black double-arrow) should be between the origin of the inferior epigastric artery (<span style="color:yellow">yellow</span> arrow) and the common femoral artery bifurcation (<span style="color:red">red</span> arrow) to lower the risks of retroperitoneal hematoma (too proximal) or pseudoaneurysm/AVF (too distal).^[[Cureus | Assessment of Femoral Artery Bifurcation Level with Conventional Angiography | Article](https://www.cureus.com/articles/15378-assessment-of-femoral-artery-bifurcation-level-with-conventional-angiography#!/)]
 
 ---
 
 ### 4
 
 ![](https://i.imgur.com/Mz0WqSM.png)
-Common femoral artery calcifications can often be seen in patients with systemic atherosclerotic disease, particularly those presented for the evaluation of internal carotid artery stenoses. On ultrasound imaging, calcified tissues are hyperechoic/echogenic/bright (red arrow) with clean posterior acoustic shadowing (yellow arrow),^[[Diagnostic Approach to Benign and Malignant Calcifications in the Abdomen and Pelvis | RadioGraphics](https://pubs.rsna.org/doi/full/10.1148/rg.2020190152)] which should be avoided when performing puncture.
+Common femoral artery calcifications can often be seen in patients with systemic atherosclerotic disease, particularly those presented for the evaluation of internal carotid artery stenoses. On ultrasound imaging, calcified tissues are hyperechoic/echogenic/bright (<span style="color:red">red</span> arrow) with clean posterior acoustic shadowing (<span style="color:yellow">yellow</span> arrow),^[[Diagnostic Approach to Benign and Malignant Calcifications in the Abdomen and Pelvis | RadioGraphics](https://pubs.rsna.org/doi/full/10.1148/rg.2020190152)] which should be avoided when performing puncture.
 
 ---
 
@@ -65,7 +65,7 @@ This patient has a history of a renal transplant. The right common femoral arter
 ![](https://i.imgur.com/83tzk6M.png)
 
 This patient developed diffuse intracranial vasospasm in the setting of subarachnoid hemorrhage due to a ruptured aneurysm. 
-(**A**): A 6F 11 cm flexible Arrow sheath^[[Super Arrow-Flex® Sheaths | US | Teleflex](https://www.teleflex.com/usa/en/product-areas/interventional/vascular-access-closure/super-arrow-flex-sheaths/)] was placed for repetitive intra-arterial vasodilation therapy, with its tip in the external iliac artery (yellow arrowhead). A stenotic segment (red arrow) was noticed at the CFA, impeding distal flow. 
+(**A**): A 6F 11 cm flexible Arrow sheath^[[Super Arrow-Flex® Sheaths | US | Teleflex](https://www.teleflex.com/usa/en/product-areas/interventional/vascular-access-closure/super-arrow-flex-sheaths/)] was placed for repetitive intra-arterial vasodilation therapy, with its tip in the external iliac artery (<span style="color:yellow">yellow</span> arrowhead). A stenotic segment (<span style="color:red">red</span> arrow) was noticed at the CFA, impeding distal flow. 
 (**B**): Gentle withdrawal of the sheath under fluoroscopy until the tip was distal to the stenosis improved distal flow of the CFA, preventing distal limb ischemia. The left-in sheath was then sutured to the skin and maintained on continuous drip. Black double-arrow: catheter entry site of the CFA.
 
 ---
@@ -73,7 +73,7 @@ This patient developed diffuse intracranial vasospasm in the setting of subarach
 ### 8
 
 ![](https://i.imgur.com/ZvyS1XW.jpg)
-(**A**): A true PA view revealed an overlap of the CFA, represented by the sheath (black arrow), with the underlying artificial femoral head.
+(**A**): A true PA view revealed an overlap of the CFA, represented by the sheath (<span style="color:black">black</span> arrow), with the underlying artificial femoral head.
 (**B**): A slight RAO view medialized the CFA and provided a much clearer image.
 
 ---
