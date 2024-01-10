@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T18:36:27.000-07:00","updated":"2023-12-27T14:14:39.804-08:00"}
+{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T18:36:27.000-07:00","updated":"2024-01-10T11:04:11.696-08:00"}
 ---
 
 
@@ -52,7 +52,7 @@ Cervical Spine CT
 
 Cervical X-ray, PA
 ![](https://i.imgur.com/wH7cgjw.png)
-Bilateral cervical ribs seen on the plain X-ray film, right (yellow arrow) > left (red arrow).
+Bilateral cervical ribs seen on the plain X-ray film, right (<span style="color:yellow">yellow</span> arrow) > left (<span style="color:red">red</span> arrow).
 
 ---
 
