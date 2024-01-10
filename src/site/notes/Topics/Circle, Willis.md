@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.519-07:00","updated":"2023-12-06T14:58:20.526-08:00"}
+{"dg-publish":true,"permalink":"/topics/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.519-07:00","updated":"2024-01-10T11:34:19.144-08:00"}
 ---
 
 
@@ -14,7 +14,7 @@ The **circle of Willis** (CoW) connects the anterior circulation with the poster
 ![](https://i.imgur.com/87UroZq.png)
 This CTA head (thickness: 10 mm) presents an intact CoW and a normal variant of the ACOM. 
 
-- Pink arrow: [[Topics/Artery, Internal Carotid\|ICA]]s. 
+- <span style="color:pink">Pink</span> arrow: [[Topics/Artery, Internal Carotid\|ICA]]s. 
 - Blue: [[Topics/Artery, Anterior Cerebral\|ACA]]s. 
 - Green: duplicate [[Topics/Artery, Anterior Communicating\|ACOM]]. 
 - White: [[Topics/Artery, Middle Cerebral\|MCA]]s. 
