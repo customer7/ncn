@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/aneurysm-pcom/","tags":["aneurysm","aneurysm/unruptured","coil"],"created":"2023-12-11T18:46:03.000-08:00","updated":"2023-12-20T09:38:55.590-08:00"}
+{"dg-publish":true,"permalink":"/topics/aneurysm-pcom/","tags":["aneurysm","aneurysm/unruptured","coil"],"created":"2023-12-11T18:46:03.000-08:00","updated":"2024-01-10T11:06:10.258-08:00"}
 ---
 
 
@@ -14,5 +14,5 @@ The [[Topics/Artery, Posterior Communicating\|posterior communicating]] (PCOM) a
 ![](https://i.imgur.com/z8jMMUk.jpg)
 This patient presented with a 3 mm aneurysm in the right [[Topics/Artery, Posterior Communicating#1\|fetal PCOM]], originating from the PCOM artery itself (not the [[Topics/Artery, Internal Carotid\|ICA]]). This aneurysm was coiled using one 3 mm x 10 cm Target Tetra coil with an excellent result.
 
-Green arrow: right PCOM
-Orange arrow: right [[Topics/Artery, Anterior Choroidal\|anterior choroidal artery]]
+<span style="color:palegreen">Green</span> arrow: right PCOM
+<span style="color:orange">Orange</span> arrow: right [[Topics/Artery, Anterior Choroidal\|anterior choroidal artery]]
