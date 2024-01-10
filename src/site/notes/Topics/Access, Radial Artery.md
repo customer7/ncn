@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2024-01-10T11:23:31.253-08:00"}
+{"dg-publish":true,"permalink":"/topics/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2024-01-10T11:25:38.794-08:00"}
 ---
 
 With the introduction of various catheters designed for radial access, the **radial artery access** has been gaining popularity recently. The [[Topics/Catheter, Simmons\|Simmons catheters]] are typically the go-to choice for selecting target arteries.
@@ -90,7 +90,7 @@ This is an MRA neck of another patient who has an aberrant right subclavian arte
 This angiography revealed a tortuous right radial artery origin with adjacent two U-turns. The Glidewire was too stiff to safely navigate through these two turns (<span style="color:red">red</span> arrow). Consequently, the decision was made to abandon radial access and switch to a femoral access. In cases where the right radial artery remains the only viable option for access, one could consider using a microwire to guide the selection of the brachial artery, followed by a microcatheter to straighten the radial artery origin. 
 
 - <span style="color:orange">Orange</span> arrow: The tip of the sheath.
-- White arrow: Radial artery.
+- <span style="color:white">White</span> arrow: Radial artery.
 - <span style="color:cornflowerblue">Blue</span> arrow: Ulnar artery.
 - <span style="color:palegreen">Green</span> arrow: Brachial artery.
 
@@ -101,7 +101,7 @@ This angiography revealed a tortuous right radial artery origin with adjacent tw
 ![](https://i.imgur.com/ai1kM80.jpg)
 The right [[Topics/Artery, Vertebral\|VA]] (pink arrow) is typically the first artery to catheterize in diagnostic cerebral angiography via the radial access.
 
-(**A**): In this pre-operative CTA neck 3D reconstruction view, the right VA origin (<span style="color:palegreen">green</span> arrow) can be clearly recognized with its relative location to the tip of the distal right subclavian curve (white arrow).
+(**A**): In this pre-operative CTA neck 3D reconstruction view, the right VA origin (<span style="color:palegreen">green</span> arrow) can be clearly recognized with its relative location to the tip of the distal right subclavian curve (<span style="color:white">white</span> arrow).
 (**B**): Advance the catheter tip (<span style="color:orange">orange</span> arrow) to the estimated VA origin and obtain a roadmap to assist in artery catheterization.
 
 An alternative method to localize the right VA origin would be to advance the catheter tip more distally and then retract it while puffing contrast to opacify it.
