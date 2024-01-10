@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2023-12-20T14:15:59.869-08:00"}
+{"dg-publish":true,"permalink":"/topics/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2024-01-10T11:25:38.795-08:00"}
 ---
 
 
@@ -23,16 +23,16 @@ The **Simmons catheter** is a group of reverse-curve selective catheters widely 
 ![](https://i.imgur.com/FmfgqAW.jpg)
 Via [[Topics/Access, Radial Artery\|radial artery access]], the traditional way to shape the Simmons 2 catheter involves using the aortic arch. 
 
-(**A**): The Glidewire (black arrow) is advanced into the descending aorta, along with the tip of the Simmons catheter (orange arrow). 
-(**B**): The Glidewire is withdrawn proximal to the secondary curve (red arrow). 
+(**A**): The Glidewire (<span style="color:black">black</span> arrow) is advanced into the descending aorta, along with the tip of the Simmons catheter (<span style="color:orange">orange</span> arrow). 
+(**B**): The Glidewire is withdrawn proximal to the secondary curve (<span style="color:red">red</span> arrow). 
 (**C** and **D**): The catheter is slightly twisted and pushed so that the secondary curve herniates down into the ascending aorta. 
-(**E**): The catheter is successfully shaped with its tip at the aortic arch-descending aorta junction, the secondary curve in the ascending aorta, and tertiary curve (cyan arrow) in the brachiocephalic artery. 
+(**E**): The catheter is successfully shaped with its tip at the aortic arch-descending aorta junction, the secondary curve in the ascending aorta, and tertiary curve (<span style="color:cyan">cyan</span> arrow) in the brachiocephalic artery. 
 
-- Black arrow: Glidewire tip.
-- Orange arrow: Catheter tip.
-- Blue arrow: Primary curve.
-- Red arrow: Secondary curve.
-- Cyan arrow: Tertiary curve.
+- <span style="color:black">Black</span> arrow: Glidewire tip.
+- <span style="color:orange">Orange</span> arrow: Catheter tip.
+- <span style="color:cornflowerblue">Blue</span> arrow: Primary curve.
+- <span style="color:red">Red</span> arrow: Secondary curve.
+- <span style="color:cyan">Cyan</span> arrow: Tertiary curve.
 
 ---
 
@@ -41,16 +41,16 @@ Via [[Topics/Access, Radial Artery\|radial artery access]], the traditional way 
 ![](https://i.imgur.com/Vu8zUn2.jpg)
 In situations where the Glidewire fails to enter the aortic arch, the following technique could be attempted.
 
-(**A**): Advance the Glidewire (black arrow) into the ascending aorta.
-(**B**): Advance the catheter tip (orange arrow) into the ascending aorta. 
-(**C**): Withdraw the Glidewire into the catheter proximal to the primary curve (blue arrow) and point the catheter tip leftward.
+(**A**): Advance the Glidewire (<span style="color:black">black</span> arrow) into the ascending aorta.
+(**B**): Advance the catheter tip (<span style="color:orange">orange</span> arrow) into the ascending aorta. 
+(**C**): Withdraw the Glidewire into the catheter proximal to the primary curve (<span style="color:cornflowerblue">blue</span> arrow) and point the catheter tip leftward.
 (**D**): Slowly withdraw the catheter until its tip "pops" into the aortic arch.
 (**E**): Gently advance the Glidewire into the descending aorta.
 (**F**): Advance the catheter tip into the descending aorta.
 
-- Black arrow: Glidewire tip.
-- Orange arrow: Catheter tip.
-- Blue arrow: Primary curve.
+- <span style="color:black">Black</span> arrow: Glidewire tip.
+- <span style="color:orange">Orange</span> arrow: Catheter tip.
+- <span style="color:cornflowerblue">Blue</span> arrow: Primary curve.
 
 ---
 
@@ -59,15 +59,15 @@ In situations where the Glidewire fails to enter the aortic arch, the following 
 ![](https://i.imgur.com/Vd3y2he.jpg)
 Every once in a while, luck strikes, and the Glidewire goes directly into the left CCA, simplifying the forming process.
 
-(**A**): In this particular case, the Glidewire (black arrow indicates its tip) entered the left CCA directly. 
+(**A**): In this particular case, the Glidewire (<span style="color:black">black</span> arrow indicates its tip) entered the left CCA directly. 
 (**B**): The Simmons catheter followed the Glidewire's path with a gentle advancement while the latter was firmly held (tip out of the view on this PA imagine). 
 (**C**) The formation was completed with a slow withdrawal of the Glidewire. 
 
-- Black arrow: Glidewire tip.
-- Orange arrow: Catheter tip. 
-- Blue arrow: primary curve. 
-- Red arrow: reversed secondary curve (the knee). 
-- Cyan arrow: tertiary curve.
+- <span style="color:black">Black</span> arrow: Glidewire tip.
+- <span style="color:orange">Orange</span> arrow: Catheter tip. 
+- <span style="color:cornflowerblue">Blue</span> arrow: primary curve. 
+- <span style="color:red">Red</span> arrow: reversed secondary curve (the knee). 
+- <span style="color:cyan">Cyan</span> arrow: tertiary curve.
 
 ---
 
@@ -77,8 +77,8 @@ Every once in a while, luck strikes, and the Glidewire goes directly into the le
 In cases where the right brachiocephalic artery presents with a long horizontal segment, the formation of the Simmons catheter via the techniques mentioned above could be challenging. On the other hand, the right CCA (pink arrow) could be utilized for this purpose.
 
 (**A**): The roadmap of the right brachiocephalic artery indicates a long horizontal segment, consistent with the pre-operative CTA 3D reconstruction image.
-(**B**): The Glidewire (black arrow) is then gently advanced after slightly retracting the tip of the catheter (orange arrow). In this anatomy, the Glidewire tends to bounce back after hitting the end of the horizontal segment and enter the right CCA. If the Glidewire enters the right VA (cyan arrow), it should to be retracted and re-advanced into the right CCA to avoid injury to the smaller right VA.
-(**C**): Gently advance the catheter while holding the Glidewire firmly to navigate to the right CCA until the secondary curve (red arrow) reaches the bend of the wire, thereby forming the catheter into its intended configuration.
+(**B**): The Glidewire (<span style="color:black">black</span> arrow) is then gently advanced after slightly retracting the tip of the catheter (<span style="color:orange">orange</span> arrow). In this anatomy, the Glidewire tends to bounce back after hitting the end of the horizontal segment and enter the right CCA. If the Glidewire enters the right VA (<span style="color:cyan">cyan</span> arrow), it should to be retracted and re-advanced into the right CCA to avoid injury to the smaller right VA.
+(**C**): Gently advance the catheter while holding the Glidewire firmly to navigate to the right CCA until the secondary curve (<span style="color:red">red</span> arrow) reaches the bend of the wire, thereby forming the catheter into its intended configuration.
 (**D**): Withdraw the Glidewire and perform angiograms of the right CCA/ICA/ECA.
 
 After completing the right CCA/ICA/ECA angiograms, pushing the formed catheter may cause it to advance further into the CCA rather than into the ascending aorta. In such cases, the following technique can be attempted.
@@ -98,19 +98,19 @@ After completing the right CCA/ICA/ECA angiograms, pushing the formed catheter m
 ### 5
 
 ![](https://i.imgur.com/2KqqAbW.jpg)
-This patient presents for a diagnostic cerebral angiography for a left temporal [[Topics/Malformation, Arteriovenous\|AVM]]. In this particular case, the distance of the left [[Topics/Artery, Vertebral\|VA]] origin to the aortic arch is within the length limit of the Simmons 2 catheter distal to the secondary curve (red arrow), simplifying the selection process.
+This patient presents for a diagnostic cerebral angiography for a left temporal [[Topics/Malformation, Arteriovenous\|AVM]]. In this particular case, the distance of the left [[Topics/Artery, Vertebral\|VA]] origin to the aortic arch is within the length limit of the Simmons 2 catheter distal to the secondary curve (<span style="color:red">red</span> arrow), simplifying the selection process.
 
-(**A**): The catheter tip (orange arrow) appears to be positioned within the left [[Topics/Artery, Subclavian\|subclavian artery]] on contrast puff.
-(**B**): The roadmap confirms its position, which is proximal to the origin of the left VA (white arrow).
+(**A**): The catheter tip (<span style="color:orange">orange</span> arrow) appears to be positioned within the left [[Topics/Artery, Subclavian\|subclavian artery]] on contrast puff.
+(**B**): The roadmap confirms its position, which is proximal to the origin of the left VA (<span style="color:white">white</span> arrow).
 (**C**): A gentle pull on the catheter will advance the catheter tip to engage the left VA.
 (**D**): A contrast puff confirms the successful selection of the left VA.
 
-- Orange arrow: Catheter tip.
-- Blue arrow: Primary curve.
-- Red arrow: Secondary curve.
-- White arrow: Left VA.
-- Green arrow: Left thyrocervical trunk.
-- Magenta arrow: Left subclavian artery.
+- <span style="color:orange">Orange</span> arrow: Catheter tip.
+- <span style="color:cornflowerblue">Blue</span> arrow: Primary curve.
+- <span style="color:red">Red</span> arrow: Secondary curve.
+- <span style="color:white">White</span> arrow: Left VA.
+- <span style="color:palegreen">Green</span> arrow: Left thyrocervical trunk.
+- <span style="color:magenta">Magenta</span> arrow: Left subclavian artery.
 
 ---
 
@@ -119,9 +119,9 @@ This patient presents for a diagnostic cerebral angiography for a left temporal 
 ![](https://i.imgur.com/IkQye0s.jpg)
 The Simmons 2 catheter could also be utilized for transfemoral access to select target arteries. It can be reformed using the left subclavian artery.
 
-(**A**): Advance the Glidewire tip (black arrow) into the left subclavian artery.
-(**B**): Advance the catheter tip (orange arrow) into the left subclavian artery while firmly holding the Glidewire.
+(**A**): Advance the Glidewire tip (<span style="color:black">black</span> arrow) into the left subclavian artery.
+(**B**): Advance the catheter tip (<span style="color:orange">orange</span> arrow) into the left subclavian artery while firmly holding the Glidewire.
 (**C**): Withdraw the Glidewire while maintaining the catheter's position.
-(**D**): Withdraw the catheter until the secondary curve (red arrow) reaches the aortic arch.
+(**D**): Withdraw the catheter until the secondary curve (<span style="color:red">red</span> arrow) reaches the aortic arch.
 (**E**): Twist and advance the catheter to push the secondary curve into the aortic arch.
 (**F**): Push the catheter into the ascending aorta.
