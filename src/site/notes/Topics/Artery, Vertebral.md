@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-vertebral/","tags":["anatomy","variant"],"created":"2023-10-21T20:31:09.000-07:00","updated":"2024-01-09T18:51:26.477-08:00"}
+{"dg-publish":true,"permalink":"/topics/artery-vertebral/","tags":["anatomy","variant"],"created":"2023-10-21T20:31:09.000-07:00","updated":"2024-01-11T13:46:43.345-08:00"}
 ---
 
 
