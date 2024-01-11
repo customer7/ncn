@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/","tags":["index"],"created":"2023-11-15T17:29:52.000-08:00","updated":"2023-11-22T11:24:36.849-08:00"}
+{"dg-publish":true,"permalink":"/pages/","tags":["index"],"created":"2023-11-15T17:29:52.000-08:00","updated":"2024-01-11T13:57:36.132-08:00"}
 ---
 
 
@@ -93,7 +93,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Topics/Stroke, Ischemic\|Stroke, Ischemic]]
 - [[Topics/Syndrome, Marin-Amat\|Syndrome, Marin-Amat]]
 - [[Topics/Syndrome, Reversible Cerebral Vasoconstriction\|Syndrome, Reversible Cerebral Vasoconstriction]]
-- [[Syndrome, Rotational Vertebral Artery\|Syndrome, Rotational Vertebral Artery]]
+- [[Topics/Syndrome, Rotational Vertebral Artery\|Syndrome, Rotational Vertebral Artery]]
 - [[Topics/Syndrome, SRO\|Syndrome, SRO]]
 - [[Topics/Syndrome, Thoracic Outlet\|Syndrome, Thoracic Outlet]]
 - [[Topics/Technique, Rib Resection for TOS\|Technique, Rib Resection for TOS]]
