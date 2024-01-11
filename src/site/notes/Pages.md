@@ -93,6 +93,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Topics/Stroke, Ischemic\|Stroke, Ischemic]]
 - [[Topics/Syndrome, Marin-Amat\|Syndrome, Marin-Amat]]
 - [[Topics/Syndrome, Reversible Cerebral Vasoconstriction\|Syndrome, Reversible Cerebral Vasoconstriction]]
+- [[Syndrome, Rotational Vertebral Artery\|Syndrome, Rotational Vertebral Artery]]
 - [[Topics/Syndrome, SRO\|Syndrome, SRO]]
 - [[Topics/Syndrome, Thoracic Outlet\|Syndrome, Thoracic Outlet]]
 - [[Topics/Technique, Rib Resection for TOS\|Technique, Rib Resection for TOS]]
