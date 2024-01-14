@@ -3,7 +3,7 @@
 ---
 
 
-Congenital lesion, eyelid closes on jaw opening, due to inhibition of the levator palpebrae superioris ([[Nerve, Oculomotor\|CN III]])
+Congenital lesion, eyelid closes on jaw opening, due to inhibition of the levator palpebrae superioris ([[Topics/Nerve, Oculomotor\|CN III]])
 
 ## Associated Syndrome
 
