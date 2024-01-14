@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature/isuia-lancet-2003/","tags":["anatomy","Lancet","aneurysm/unruptured","aneurysm"],"created":"2023-11-11T20:25:54.242-08:00","updated":"2023-11-17T16:00:09.950-08:00"}
+{"dg-publish":true,"permalink":"/literature/isuia-lancet-2003/","tags":["anatomy","Lancet","aneurysm/unruptured","aneurysm"],"created":"2023-11-11T20:25:54.242-08:00","updated":"2024-01-13T20:18:49.761-08:00"}
 ---
 
 
