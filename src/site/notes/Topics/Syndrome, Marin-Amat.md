@@ -7,7 +7,7 @@ A form of acquired facial synkinesis manifesting as involuntary **eyelid closure
 
 ## Mechanism
 
-Eyelid closure occurs due to orbicularis oculi (CN VII) contraction rather than inhibition of levator palpebrae superioris ([[Nerve, Oculomotor\|CN III]]) as is seen in [[Topics/Phenomenon, Inverse Marcus Gunn\|inverse Marcus Gunn phenomenon]]
+Eyelid closure occurs due to orbicularis oculi (CN VII) contraction rather than inhibition of levator palpebrae superioris ([[Topics/Nerve, Oculomotor\|CN III]]) as is seen in [[Topics/Phenomenon, Inverse Marcus Gunn\|inverse Marcus Gunn phenomenon]]
 
 ## Pearls
 
