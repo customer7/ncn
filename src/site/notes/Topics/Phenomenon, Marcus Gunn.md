@@ -17,5 +17,5 @@
 
 ## Pearls
 
-- Eyelid opening ([[Nerve, Oculomotor\|CN III]])
+- Eyelid opening ([[Topics/Nerve, Oculomotor\|CN III]])
 - Jaw closure (CN V3)
