@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/stroke-ischemic/","tags":["stroke","DSA","thrombectomy","stroke/ischemic"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2024-01-10T11:34:19.144-08:00"}
+{"dg-publish":true,"permalink":"/topics/stroke-ischemic/","tags":["stroke","DSA","thrombectomy","stroke/ischemic"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2024-01-14T20:23:55.086-08:00"}
 ---
 
 
@@ -23,3 +23,12 @@ This patient presented with right hemiparesis and aphasia. A CTA revealed a left
 - <span style="color:red">Red</span> arrow: another collateral from the PCA.
 
 ---
+
+### 2
+
+![](https://i.imgur.com/62L2TaU.jpg)
+This patient underwent [[Topics/Angiography, Digital Subtraction\|DSA]] for the treatment of intracranial vasospasm. 
+
+(**A**): Posterior circulation run showed collateral flow to an [[Topics/Artery, Anterior Cerebral\|ACA]] branch (<span style="color:red">red</span> arrow).
+(**B**): Left [[Topics/Artery, Internal Carotid\|ICA]] injection showed severe left [[Topics/Artery, Anterior Cerebral\|A1]] (<span style="color:orange">orange</span> arrow) vasospasm, explaining the presentation seen in (A).
+(**C**): This same ACA branch (<span style="color:red">red</span> arrow) could be faintly seen on the lateral run of the left ICA injection.
