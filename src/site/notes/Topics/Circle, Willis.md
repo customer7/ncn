@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.519-07:00","updated":"2024-01-10T11:34:19.144-08:00"}
+{"dg-publish":true,"permalink":"/topics/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.000-07:00","updated":"2024-01-15T08:26:11.291-08:00"}
 ---
 
 
@@ -28,7 +28,7 @@ This CTA head (thickness: 10 mm) presents an intact CoW and a normal variant of 
 ### 2
 
 ![](https://i.imgur.com/qPnPdmw.jpg)
-This 3D reconstruction image from a CTA head showed an incomplete circle of Willis—hypoplastic left [[Topics/Artery, Posterior Cerebral\|P1]], and absence of right [[Topics/Artery, Posterior Communicating\|PCOM]] and left [[Topics/Artery, Anterior Cerebral\|A1]].
+This 3D reconstruction image from a CTA head showed an incomplete circle of Willis—hypoplastic right [[Topics/Artery, Posterior Cerebral\|P1]], and absence of left [[Topics/Artery, Posterior Communicating\|PCOM]] and right [[Topics/Artery, Anterior Cerebral\|A1]].
 
 ![](https://i.imgur.com/T4jlvaN.jpg)
 The same patient underwent a diagnostic cerebral angiography and flow diverter embolization of the aneurysm.
