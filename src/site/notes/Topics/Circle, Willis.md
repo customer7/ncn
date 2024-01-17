@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.000-07:00","updated":"2024-01-15T08:26:11.291-08:00"}
+{"dg-publish":true,"permalink":"/topics/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.000-07:00","updated":"2024-01-17T08:52:13.951-08:00"}
 ---
 
 
