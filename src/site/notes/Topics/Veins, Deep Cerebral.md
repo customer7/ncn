@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/veins-deep-cerebral/","tags":["anatomy","MRI","vein"],"created":"2024-01-09T10:27:21.885-08:00","updated":"2024-01-10T11:25:28.451-08:00"}
+{"dg-publish":true,"permalink":"/topics/veins-deep-cerebral/","tags":["anatomy","MRI","vein"],"created":"2024-01-09T10:27:21.000-08:00","updated":"2024-01-15T08:24:50.000-08:00"}
 ---
 
 
