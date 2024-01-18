@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/stroke-ischemic/","tags":["stroke","DSA","thrombectomy","stroke/ischemic"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2024-01-14T20:23:55.086-08:00"}
+{"dg-publish":true,"permalink":"/topics/stroke-ischemic/","tags":["stroke","DSA","thrombectomy","stroke/ischemic"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2024-01-18T09:39:41.040-08:00"}
 ---
 
 
@@ -26,7 +26,7 @@ This patient presented with right hemiparesis and aphasia. A CTA revealed a left
 
 ### 2
 
-![](https://i.imgur.com/62L2TaU.jpg)
+![](https://i.imgur.com/c3YbA1g.jpg)
 This patient underwent [[Topics/Angiography, Digital Subtraction\|DSA]] for the treatment of intracranial vasospasm. 
 
 (**A**): Posterior circulation run showed collateral flow to an [[Topics/Artery, Anterior Cerebral\|ACA]] branch (<span style="color:red">red</span> arrow).
