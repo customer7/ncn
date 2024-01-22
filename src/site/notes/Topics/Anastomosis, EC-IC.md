@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-01-21T16:27:38.534-08:00"}
+{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-01-21T16:28:26.866-08:00"}
 ---
 
 In this article, we gathered cases with interesting external carotid-internal carotid anastomoses.
@@ -34,5 +34,7 @@ On this left ECA angiogram, an anastomosis (<span style="color:cornflowerblue">b
 ![](https://i.imgur.com/tzvd5PW.jpg)
 This patient presented with stroke activation, and the right [[Topics/Artery, Internal Carotid\|internal carotid artery]] run showed a right M1 occlusion (<span style="color:yellow">yellow</span> arrow). Interestingly, an anastomosis was also observed between the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:red">red</span> arrow) and the right [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (<span style="color:palegreen">green</span> arrow). Subsequent mechanical thrombectomy achieved a TICI 2C reperfusion.
 
+(**A**): PA view.
+(**B**): Lateral view.
 <span style="color:cornflowerblue">Blue</span> arrow: Anterior branch of the MMA.
 <span style="color:orange">Orange</span> arrow: Posterior branch of the MMA.
