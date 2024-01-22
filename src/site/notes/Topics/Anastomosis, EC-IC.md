@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-01-21T17:41:15.266-08:00"}
+{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-01-22T08:11:54.776-08:00"}
 ---
 
 In this article, we gathered cases with interesting external carotid-internal carotid anastomoses.
@@ -43,5 +43,5 @@ This patient presented with stroke activation, and the right [[Topics/Artery, In
 
 ### 4
 
-![](https://i.imgur.com/Z6Dciw4.jpg)
+![](https://i.imgur.com/rhWp7hA.jpg)
 This patient presented with a ruptured paraophthalmic aneurysm that necessitated urgent coiling. Subsequently, a flow diverter embolization was carried out in a delayed manner. Notably, there existed an ophthalmic artery origin stenosis (**A**, <span style="color:red">red</span> arrow), showcasing normal flow (**B**). However, following the deployment of the flow diverter, a hindrance in the flow (**C** and **D**, <span style="color:yellow">yellow</span> arrow) was observed. An [[Topics/Artery, External Carotid\|external carotid artery]] injection (**E**) revealed a choroidal blush (**F**, <span style="color:palegreen">green</span> arrow), signifying an EC-ophthalmic artery anastomosis.
