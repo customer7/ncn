@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/stroke-ischemic/","tags":["stroke","DSA","thrombectomy","stroke/ischemic"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2024-01-18T09:39:41.040-08:00"}
+{"dg-publish":true,"permalink":"/topics/stroke-ischemic/","tags":["stroke","DSA","thrombectomy","stroke/ischemic"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2024-01-22T15:25:37.914-08:00"}
 ---
 
 
@@ -32,3 +32,10 @@ This patient underwent [[Topics/Angiography, Digital Subtraction\|DSA]] for the 
 (**A**): Posterior circulation run showed collateral flow to an [[Topics/Artery, Anterior Cerebral\|ACA]] branch (<span style="color:red">red</span> arrow).
 (**B**): Left [[Topics/Artery, Internal Carotid\|ICA]] injection showed severe left [[Topics/Artery, Anterior Cerebral\|A1]] (<span style="color:orange">orange</span> arrow) vasospasm, explaining the presentation seen in (A).
 (**C**): This same ACA branch (<span style="color:red">red</span> arrow) could be faintly seen on the lateral run of the left ICA injection.
+
+---
+
+### 3
+
+![](https://i.imgur.com/QSO2ypt.jpg)
+This patient presented with left hemiparesis and a stroke alert was activated. CTA head and neck showed an aortic dissection and occlusion of the right [[Topics/Artery, Common Carotid\|CCA]] origin. Vascular surgery service was emergently consulted.
