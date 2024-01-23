@@ -50,6 +50,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Topics/Fenestration\|Fenestration]]
 - [[Books/First Aid for the USMLE Step 1 2014\|First Aid for the USMLE Step 1 2014]]
 - [[Topics/Fistula, CSF-Venous\|Fistula, CSF-Venous]]
+- [[Topics/Fistula, Dural Arteriovenous\|Fistula, Dural Arteriovenous]]
 - [[Cases/Endovascular/Flow Diversion, BA Trunk Aneurysm\|Flow Diversion, BA Trunk Aneurysm]]
 - [[Books/Handbook of Neurosurgery\|Handbook of Neurosurgery]]
 - [[Topics/Hypotension, Intracranial\|Hypotension, Intracranial]]
