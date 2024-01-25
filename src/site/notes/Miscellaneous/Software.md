@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/miscellaneous/software/","created":"2023-03-10T11:55:47.000-08:00","updated":"2023-11-11T13:41:59.620-08:00"}
+{"dg-publish":true,"permalink":"/miscellaneous/software/","created":"2023-03-10T11:55:47.000-08:00","updated":"2024-01-24T21:25:02.305-08:00"}
 ---
 
 Everybody has their own individual preferences when it comes to how the workflow is done. 
@@ -9,6 +9,7 @@ Here is the software that we rely on to build this website.
 ---
 
 ## Desktop (macOS)
+- [Atom](https://atom-editor.cc/) - bulk note editing
 - [Bookends — Bookends for Mac](https://www.sonnysoftware.com/bookends-for-mac) - reference management
 - [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/) - publish platform
 - [iMovie - Apple (CA)](https://www.apple.com/ca/imovie/) - video editor
