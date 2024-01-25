@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.000-07:00","updated":"2024-01-17T08:52:13.951-08:00"}
+{"dg-publish":true,"permalink":"/topics/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.000-07:00","updated":"2024-01-24T17:11:27.877-08:00"}
 ---
 
 
@@ -15,13 +15,13 @@ The **circle of Willis** (CoW) connects the anterior circulation with the poster
 This CTA head (thickness: 10 mm) presents an intact CoW and a normal variant of the ACOM. 
 
 - <span style="color:pink">Pink</span> arrow: [[Topics/Artery, Internal Carotid\|ICA]]s. 
-- Blue: [[Topics/Artery, Anterior Cerebral\|ACA]]s. 
-- Green: duplicate [[Topics/Artery, Anterior Communicating\|ACOM]]. 
-- White: [[Topics/Artery, Middle Cerebral\|MCA]]s. 
-- Red: [[Topics/Artery, Posterior Communicating\|PCOM]]s. 
-- Yellow: [[Topics/Artery, Posterior Cerebral\|PCA]]s. 
-- Black: [[Topics/Artery, Superior Cerebellar\|SCA]]s. 
-- Teal: [[Topics/Artery, Basilar\|BA]].
+- <span style="color:cornflowerblue">Blue</span> arrow: [[Topics/Artery, Anterior Cerebral\|ACA]]s. 
+- <span style="color:palegreen">Green</span> arrow: duplicate [[Topics/Artery, Anterior Communicating\|ACOM]]. 
+- <span style="color:white">White</span> arrow: [[Topics/Artery, Middle Cerebral\|MCA]]s. 
+- <span style="color:red">Red</span> arrow: [[Topics/Artery, Posterior Communicating\|PCOM]]s. 
+- <span style="color:yellow">Yellow</span> arrow: [[Topics/Artery, Posterior Cerebral\|PCA]]s. 
+- <span style="color:black">Black</span> arrow: [[Topics/Artery, Superior Cerebellar\|SCA]]s. 
+- <span style="color:teal">Teal</span> arrow: [[Topics/Artery, Basilar\|BA]].
 
 ---
 
