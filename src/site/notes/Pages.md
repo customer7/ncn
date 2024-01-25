@@ -44,6 +44,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Topics/Drain, Lumbar\|Drain, Lumbar]]
 - [[Topics/Drain, Ventriculostomy\|Drain, Ventriculostomy]]
 - [[Cases/Vascular/DVA, Unruptured\|DVA, Unruptured]]
+- [[Topics/Embolization, AVM\|Embolization, AVM]]
 - [[Cases/Pediatrics/Encephalocele, Parietal\|Encephalocele, Parietal]]
 - [[Cases/Tumor/Epidermoid, Intracranial\|Epidermoid, Intracranial]]
 - [[FAQ\|FAQ]]
