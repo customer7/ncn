@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-01-22T08:17:47.405-08:00"}
+{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-02-16T14:43:14.488-08:00"}
 ---
+
 
 In this article, we gathered cases with interesting external carotid-internal carotid anastomoses.
 
@@ -16,12 +17,27 @@ The right [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (<span st
 
 --- 
 
-### 2
+### 2 Occipital-Vertebral Anastomosis
+
+#### 2.1
 
 **DSA - Left ECA Injection (PA \[Left\] and Lateral \[Right\])**
 ![](https://i.imgur.com/kHKRuzV.jpg)
 On this left ECA angiogram, an anastomosis (<span style="color:cornflowerblue">blue</span> arrow) can be seen between the left occipital artery (<span style="color:red">red</span> arrow) and the left VA (<span style="color:palegreen">green</span> arrow).
 
+- <span style="color:orange">Orange</span> arrow: [[Topics/Artery, Basilar\|Basilar artery]].
+- <span style="color:magenta">Magenta</span> arrow: [[Topics/Artery, Superficial Temporal\|Superficial temporal artery]].
+- <span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]].
+
+---
+
+#### 2.2
+
+![](https://i.imgur.com/757AQH4.jpg)
+
+On this ECA angiogram, an anastomosis (<span style="color:cornflowerblue">blue</span> arrow) can be seen between the occipital artery (<span style="color:red">red</span> arrow) and the VA (<span style="color:palegreen">green</span> arrow).
+
+- <span style="color:795548">Brown</span> arrow: [[Artery, Maxillary\|Internal maxillary artery]]
 - <span style="color:orange">Orange</span> arrow: [[Topics/Artery, Basilar\|Basilar artery]].
 - <span style="color:magenta">Magenta</span> arrow: [[Topics/Artery, Superficial Temporal\|Superficial temporal artery]].
 - <span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]].
