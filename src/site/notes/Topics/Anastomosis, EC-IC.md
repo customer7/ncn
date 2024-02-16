@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-02-16T14:43:14.488-08:00"}
+{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-02-16T14:46:12.295-08:00"}
 ---
 
 
@@ -37,7 +37,7 @@ On this left ECA angiogram, an anastomosis (<span style="color:cornflowerblue">b
 
 On this ECA angiogram, an anastomosis (<span style="color:cornflowerblue">blue</span> arrow) can be seen between the occipital artery (<span style="color:red">red</span> arrow) and the VA (<span style="color:palegreen">green</span> arrow).
 
-- <span style="color:795548">Brown</span> arrow: [[Artery, Maxillary\|Internal maxillary artery]]
+- <span style="color:SaddleBrown">Brown</span> arrow: [[Artery, Maxillary\|Internal maxillary artery]]
 - <span style="color:orange">Orange</span> arrow: [[Topics/Artery, Basilar\|Basilar artery]].
 - <span style="color:magenta">Magenta</span> arrow: [[Topics/Artery, Superficial Temporal\|Superficial temporal artery]].
 - <span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]].
