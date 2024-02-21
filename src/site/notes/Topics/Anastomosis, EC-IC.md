@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-02-16T14:46:12.295-08:00"}
+{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-02-21T15:14:22.406-08:00"}
 ---
 
 
@@ -9,13 +9,44 @@ In this article, we gathered cases with interesting external carotid-internal ca
 
 ## Cases
 
-### 1
+### 1 MMA and Ophthalmic Artery
+
+#### 1.1
 
 **DSA - Right ICA Injection (PA \[Top\] and Lateral \[Bottom\])**
 ![](https://i.imgur.com/O3RCMBz.jpg)
 The right [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (<span style="color:red">red</span> arrows) is arising from the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:cornflowerblue">blue</span> arrow), as observed during an injection into the right ICA. By the way, did you notice the aneurysm?
 
 --- 
+
+#### 1.2
+
+**Right ICA Injection**
+![](https://i.imgur.com/tzvd5PW.jpg)
+This patient presented with stroke activation, and the right [[Topics/Artery, Internal Carotid\|internal carotid artery]] run showed a right M 1 occlusion (<span style="color:yellow">yellow</span> arrow). Interestingly, an anastomosis was also observed between the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:red">red</span> arrow) and the right [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (<span style="color:palegreen">green</span> arrow). Subsequent mechanical thrombectomy achieved a TICI 2 C reperfusion (inset images).
+
+(**A**): PA view.
+(**B**): Lateral view.
+<span style="color:cornflowerblue">Blue</span> arrow: Anterior branch of the MMA.
+<span style="color:orange">Orange</span> arrow: Posterior branch of the MMA.
+
+---
+
+#### 1.3
+
+![](https://i.imgur.com/MsTogQQ.jpeg)
+This patient presented with chronic complete occlusion of the right cervical [[Topics/Artery, Internal Carotid\|ICA]]. DSA showed an anastomosis between the right [[Artery, Maxillary\|internal maxillary artery]] branches and the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:cornflowerblue">blue</span> arrowhead). There is also cross-filling from the left ICA injection via the patent [[Topics/Artery, Anterior Communicating\|anterior communicating artery]] (<span style="color:orange">orange</span> arrow).
+
+(**A**): Right CCA injection, PA view.
+(**B**): Right CCA injection, lateral view.
+(**C**): Left CCA injection, PA view.
+
+<span style="color:red">Red</span> arrow: Right [[Topics/Artery, Occipital\|occipital artery]].
+<span style="color:magenta">Magenta</span> arrow: Right [[Topics/Artery, Superficial Temporal\|superficial temporal artery]].
+<span style="color:SaddleBrown">Brown</span> arrow: [[Artery, Maxillary\|Internal maxillary artery]].
+<span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]].
+
+---
 
 ### 2 Occipital-Vertebral Anastomosis
 
@@ -45,19 +76,6 @@ On this ECA angiogram, an anastomosis (<span style="color:cornflowerblue">blue</
 ---
 
 ### 3
-
-**Right ICA Injection**
-![](https://i.imgur.com/tzvd5PW.jpg)
-This patient presented with stroke activation, and the right [[Topics/Artery, Internal Carotid\|internal carotid artery]] run showed a right M1 occlusion (<span style="color:yellow">yellow</span> arrow). Interestingly, an anastomosis was also observed between the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:red">red</span> arrow) and the right [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (<span style="color:palegreen">green</span> arrow). Subsequent mechanical thrombectomy achieved a TICI 2C reperfusion (inset images).
-
-(**A**): PA view.
-(**B**): Lateral view.
-<span style="color:cornflowerblue">Blue</span> arrow: Anterior branch of the MMA.
-<span style="color:orange">Orange</span> arrow: Posterior branch of the MMA.
-
----
-
-### 4
 
 ![](https://i.imgur.com/rhWp7hA.jpg)
 This patient presented with a ruptured paraophthalmic aneurysm that necessitated urgent coiling. Subsequently, a flow diverter embolization was carried out in a delayed manner. Notably, there existed an ophthalmic artery origin stenosis (**A**, <span style="color:red">red</span> arrow), showcasing normal flow (**B**). However, following the deployment of the flow diverter, a hindrance in the flow (**C** and **D**, <span style="color:yellow">yellow</span> arrow) was observed. An [[Topics/Artery, External Carotid\|external carotid artery]] injection (**E**) revealed a choroidal blush (**F**, <span style="color:palegreen">green</span> arrow), signifying an EC-ophthalmic artery anastomosis.
