@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-02-21T15:14:22.406-08:00"}
+{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-02-21T16:05:30.703-08:00"}
 ---
 
 
@@ -34,7 +34,7 @@ This patient presented with stroke activation, and the right [[Topics/Artery, In
 
 #### 1.3
 
-![](https://i.imgur.com/MsTogQQ.jpeg)
+![](https://i.imgur.com/z5i4GBb.jpeg)
 This patient presented with chronic complete occlusion of the right cervical [[Topics/Artery, Internal Carotid\|ICA]]. DSA showed an anastomosis between the right [[Artery, Maxillary\|internal maxillary artery]] branches and the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:cornflowerblue">blue</span> arrowhead). There is also cross-filling from the left ICA injection via the patent [[Topics/Artery, Anterior Communicating\|anterior communicating artery]] (<span style="color:orange">orange</span> arrow).
 
 (**A**): Right CCA injection, PA view.
@@ -45,6 +45,20 @@ This patient presented with chronic complete occlusion of the right cervical [[T
 <span style="color:magenta">Magenta</span> arrow: Right [[Topics/Artery, Superficial Temporal\|superficial temporal artery]].
 <span style="color:SaddleBrown">Brown</span> arrow: [[Artery, Maxillary\|Internal maxillary artery]].
 <span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]].
+<span style="color:white">White</span> arrow: Choroidal blush.
+
+---
+
+#### 1.4
+
+![](https://i.imgur.com/Gh8n9F7.jpeg)
+On the right [[Topics/Artery, Internal Carotid\|ICA]] run (top row), the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:red">red</span> arrow) briefly opacified and disappeared with the retrograde flow. On the right [[Topics/Artery, External Carotid\|ECA]] run (bottom row), an anastomosis (<span style="color:red">red</span> circle) between the frontal branch (<span style="color:cornflowerblue">blue</span> arrow) of the right [[Topics/Artery, Middle Meningeal\|MMA]] (<span style="color:yellow">yellow</span> arrow) and right ophthalmic artery was observed with robust flow from the former to the latter. Note: The anastomosis point was right where the ophthalmic artery forward flow stopped on the ICA run.
+
+<span style="color:cyan">Cyan</span> arrow: Posterior branch of the MMA.
+<span style="color:Magenta">Magenta</span> arrow: [[Topics/Artery, Superficial Temporal\|Superficial temporal artery]].
+<span style="color:SaddleBrown">Brown</span> arrow: [[Artery, Maxillary\|Internal maxillary artery]].
+<span style="color:orange">Orange</span> arrow: [[Topics/Artery, Internal Carotid\|Internal carotid artery]].
+<span style="color:white">White</span> arrow: Choroidal blush.
 
 ---
 
