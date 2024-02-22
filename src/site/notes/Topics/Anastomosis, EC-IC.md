@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-02-21T16:05:30.703-08:00"}
+{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-02-21T17:07:12.377-08:00"}
 ---
 
 
@@ -53,6 +53,9 @@ This patient presented with chronic complete occlusion of the right cervical [[T
 
 ![](https://i.imgur.com/Gh8n9F7.jpeg)
 On the right [[Topics/Artery, Internal Carotid\|ICA]] run (top row), the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:red">red</span> arrow) briefly opacified and disappeared with the retrograde flow. On the right [[Topics/Artery, External Carotid\|ECA]] run (bottom row), an anastomosis (<span style="color:red">red</span> circle) between the frontal branch (<span style="color:cornflowerblue">blue</span> arrow) of the right [[Topics/Artery, Middle Meningeal\|MMA]] (<span style="color:yellow">yellow</span> arrow) and right ophthalmic artery was observed with robust flow from the former to the latter. Note: The anastomosis point was right where the ophthalmic artery forward flow stopped on the ICA run.
+
+> [!warning] Caution!
+> This type of anastomosis poses a potential risk of vision loss in the setting of MMA embolization. 
 
 <span style="color:cyan">Cyan</span> arrow: Posterior branch of the MMA.
 <span style="color:Magenta">Magenta</span> arrow: [[Topics/Artery, Superficial Temporal\|Superficial temporal artery]].
