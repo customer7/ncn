@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/aneurysm-cavernous-carotid/","tags":["anatomy","aneurysm","DSA"],"created":"2024-01-13T20:16:08.678-08:00","updated":"2024-01-13T20:38:33.388-08:00"}
+{"dg-publish":true,"permalink":"/topics/aneurysm-cavernous-carotid/","tags":["anatomy","aneurysm","DSA"],"created":"2024-01-13T20:16:08.000-08:00","updated":"2024-01-24T18:30:19.000-08:00"}
 ---
 
 
