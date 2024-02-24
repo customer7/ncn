@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2023-12-24T11:13:53.271-08:00"}
+{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2024-02-23T21:11:10.525-08:00"}
 ---
 
 
@@ -53,6 +53,7 @@
 - **MRA** - magnetic resonance angiography
 - **MRI** - magnetic resonance imaging
 - **MRV** - magnetic resonance venography
+- **MSSA** - methicillin-susceptible Staphylococcus aureus
 - **MT** - mechanical thrombectomy
 - **mTICI** - modified treatment in cerebral ischemia score
 - **N.B.** - nota bene (note well)
