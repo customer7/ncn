@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/fistula-dural-arteriovenous/","tags":["anatomy"],"created":"2024-01-23T09:37:59.830-08:00","updated":"2024-01-23T10:22:28.008-08:00"}
+{"dg-publish":true,"permalink":"/topics/fistula-dural-arteriovenous/","tags":["anatomy"],"created":"2024-01-23T09:37:59.000-08:00","updated":"2024-01-24T18:30:18.000-08:00"}
 ---
 
 
