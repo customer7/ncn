@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2024-02-23T21:11:10.525-08:00"}
+{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2024-02-23T21:13:27.464-08:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - **ACA** - [[Topics/Artery, Anterior Cerebral\|anterior cerebral artery]]
 - **AChA** - [[Topics/Artery, Anterior Choroidal\|anterior choroidal artery]]
 - **ACOM** - [[Topics/Artery, Anterior Communicating\|anterior communicating artery]]
-- **AICA** - anterior inferior cerebellar artery
+- **AICA** - [[Topics/Artery, Anterior Inferior Cerebellar\|anterior inferior cerebellar artery]]
 - **AIF** - arterial input function
 - **AKA** - also known as
 - **BA** - [[Topics/Artery, Basilar\|basilar artery]]
