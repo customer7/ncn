@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/books/practical-neuroangiography/","title":"Practical Neuroangiography","tags":["endovascular","DSA"],"created":"2024-02-24T11:06:56.134-08:00","updated":"2024-02-24T11:30:49.303-08:00"}
+{"dg-publish":true,"permalink":"/books/practical-neuroangiography/","title":"Practical Neuroangiography","tags":["endovascular","DSA"],"created":"2024-02-24T11:06:56.134-08:00","updated":"2024-02-24T11:41:56.669-08:00"}
 ---
 
 
 ![](http://books.google.com/books/content?id=HyMQXPCHWNcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 **Title**: Practical Neuroangiography
-**Subtitle**: 
+**Subtitle**: Edition 3
 **Author**: P. Pearse Morris
 **Category**: Medical
 **Publisher**: Lippincott Williams & Wilkins
