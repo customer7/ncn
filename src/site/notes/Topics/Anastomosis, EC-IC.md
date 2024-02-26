@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.788-07:00","updated":"2024-02-24T11:35:34.840-08:00"}
+{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.000-07:00","updated":"2024-02-26T10:11:17.863-08:00"}
 ---
 
 
@@ -63,7 +63,7 @@ On the right [[Topics/Artery, Internal Carotid\|ICA]] run (top row), the right [
 <span style="color:orange">Orange</span> arrow: [[Topics/Artery, Internal Carotid\|Internal carotid artery]].
 <span style="color:white">White</span> arrow: Choroidal blush.
 
-**P.S.** A similar case was described in [[Books/Practical Neuroangiography\|Practical Neuroangiography]] page 135, *Figure 10-6*.
+**P.S.** A similar case was described on [[Books/Practical Neuroangiography\|Practical Neuroangiography]] page 135, *Figure 10-6*.
 
 ---
 
