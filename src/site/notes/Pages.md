@@ -20,6 +20,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Topics/Arteries, Deep Temporal\|Arteries, Deep Temporal]]
 - [[Topics/Artery, Anterior Cerebral\|Artery, Anterior Cerebral]]
 - [[Topics/Artery, Anterior Choroidal\|Artery, Anterior Choroidal]]
+- [[Topics/Artery, Anterior Communicating\|Artery, Anterior Communicating]]
 - [[Topics/Artery, Anterior Falx\|Artery, Anterior Falx]]
 - [[Topics/Artery, Anterior Temporal\|Artery, Anterior Temporal]]
 - [[Topics/Artery, External Carotid\|Artery, External Carotid]]
