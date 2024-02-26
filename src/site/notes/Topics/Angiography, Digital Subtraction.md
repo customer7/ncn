@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2024-02-26T09:47:34.013-08:00"}
+{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2024-02-26T10:13:14.736-08:00"}
 ---
 
 
@@ -57,13 +57,13 @@ An air bubble can be seen injected into the [[Artery, Maxillary\|internal maxill
 
 **Left Column: PA View; Right Column: Lateral View**
 ![](https://i.imgur.com/y13RvmQ.jpeg)
-In this scenario, the goal was to super-select the <span style="color:palegreen">green</span> branch of the frontal division (<span style="color:black">black</span>) of the [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (**B**). However, challenges arose due to anatomical constraints, including: 1. An acute angle at the origin of the target branch observed on PA views; 2. Limited diameter of the artery, impeding the manipulation of the microwire tip. As a workaround, the <span style="color:red">red</span> branch was intentionally blocked using coils.
+In this scenario, the goal was to super-select the <span style="color: palegreen">green</span> branch of the frontal division (<span style="color: black">black</span>) of the [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (**B**). However, challenges arose due to anatomical constraints, including: 1. An acute angle at the origin of the target branch observed on PA views; 2. Limited diameter of the artery, impeding the manipulation of the microwire tip. As a workaround, the <span style="color: red">red</span> branch was intentionally blocked using coils.
 
-(**A**): The microwire was advanced into the <span style="color:red">red</span> branch.
+(**A**): The microwire was advanced into the <span style="color: red">red</span> branch.
 (**B**): Illustrative depiction of the arterial branches.
-(**C**): Coil embolization of the <span style="color:red">red</span> branch.
+(**C**): Coil embolization of the <span style="color: red">red</span> branch.
 (**D**): Achievement of successful microwire advancement into the intended target branch subsequent to rebounding from the coils.
 
-<span style="color:white">White</span> arrow: Microwire tip.
-<span style="color:black">Black</span> arrow: The main trunk of the frontal division of the MMA.
-<span style="color:yellow">Yellow</span> arrow: Microcatheter tip.
+<span style="color: white">White</span> arrow: Microwire tip.
+<span style="color: black">Black</span> arrow: The main trunk of the frontal division of the MMA.
+<span style="color: yellow">Yellow</span> arrow: Microcatheter tip.
