@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2024-02-25T20:29:05.261-08:00"}
+{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2024-02-26T09:47:34.013-08:00"}
 ---
 
 
@@ -65,5 +65,5 @@ In this scenario, the goal was to super-select the <span style="color:palegreen"
 (**D**): Achievement of successful microwire advancement into the intended target branch subsequent to rebounding from the coils.
 
 <span style="color:white">White</span> arrow: Microwire tip.
-<span style="color:black">Black</span> arrow: The main trunk of the frontal branch of the MMA.
+<span style="color:black">Black</span> arrow: The main trunk of the frontal division of the MMA.
 <span style="color:yellow">Yellow</span> arrow: Microcatheter tip.
