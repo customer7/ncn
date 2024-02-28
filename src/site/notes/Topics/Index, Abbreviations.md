@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2024-02-23T21:13:27.464-08:00"}
+{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2024-02-28T13:33:25.844-08:00"}
 ---
 
 
@@ -88,3 +88,4 @@
 - **VA** - vertebral artery
 - **VBA** - vertebrobasilar artery
 - **VOF** - venous output function
+- **VRT** - [[Topics/Imaging, VRT\|volume rendering technique]]
