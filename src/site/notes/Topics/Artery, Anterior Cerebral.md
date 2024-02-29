@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-anterior-cerebral/","created":"2023-10-16T19:00:10.808-07:00","updated":"2024-02-28T16:11:02.549-08:00"}
+{"dg-publish":true,"permalink":"/topics/artery-anterior-cerebral/","created":"2023-10-16T19:00:10.808-07:00","updated":"2024-02-28T16:12:19.924-08:00"}
 ---
 
 
@@ -42,8 +42,14 @@ This patient presented with a severe headache and diffuse [[Hemorrhage, Subarach
 
 ### 3 Azygous ACA
 
+#### 3.1
+
 ![](https://i.imgur.com/UuyV9IH.jpg)
 This CTA shows an Azygous ACA with no ACOM. This anomaly is reported to be associated with saccular aneurysms.^[[Saccular Aneurysm of the Azygos Anterior Cerebral Artery: Three Case Reports - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2588199/)]
+
+---
+
+#### 3.2
 
 ![](https://i.imgur.com/5fepsUU.jpeg)
 Here is a [[Topics/Imaging, VRT\|VRT]] image from a CTA head of another patient.
