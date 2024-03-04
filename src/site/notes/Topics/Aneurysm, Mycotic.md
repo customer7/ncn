@@ -12,7 +12,7 @@ Intracranial **mycotic aneurysms**, AKA **infectious aneurysms**, develop second
 ### 1
 
 ![](https://i.imgur.com/Yc9ElJG.jpg)
-A patient with a history of MSSA bacteremia presented with severe headache and left hemiparesis. CT head showed a large right frontal [[Hemorrhage, Intracerebral\|ICH]], and CTA head showed a peripheral right MCA mycotic aneurysm. The patient subsequently underwent a right craniotomy and clipping of the aneurysm. Post-op [[Topics/Angiography, Digital Subtraction\|DSA]] showed complete occlusion of the aneurysm.
+A patient with a history of MSSA bacteremia presented with severe headache and left hemiparesis. CT head showed a large right frontal [[Topics/Hemorrhage, Intracerebral\|ICH]], and CTA head showed a peripheral right MCA mycotic aneurysm. The patient subsequently underwent a right craniotomy and clipping of the aneurysm. Post-op [[Topics/Angiography, Digital Subtraction\|DSA]] showed complete occlusion of the aneurysm.
 
 (**A**): Axial CT head without contrast.
 (**B**): Coronal CT head without contrast.
