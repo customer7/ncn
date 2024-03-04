@@ -17,7 +17,7 @@ There is no ECA originating from the right CCA.
 
 DSA - Right CCA Injection (PA and Lateral)
 ![](https://i.imgur.com/5Eo29Nw.png)
-It seems there is an anastomosis between the cavernous segment of the right [[Topics/Artery, Internal Carotid\|ICA]] and the right [[Artery, Maxillary\|internal maxillary artery]] (<span style="color:yellow">yellow</span> arrow).
+It seems there is an anastomosis between the cavernous segment of the right [[Topics/Artery, Internal Carotid\|ICA]] and the right [[Topics/Artery, Maxillary\|internal maxillary artery]] (<span style="color:yellow">yellow</span> arrow).
 
 DSA - Right CCA Injection (3D)
 ![](https://i.imgur.com/j59pqXH.png)
