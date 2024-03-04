@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-posterior-inferior-cerebellar/","tags":["anatomy","artery","vessel"],"created":"2023-12-05T14:29:24.000-08:00","updated":"2024-03-04T13:47:39.876-08:00"}
+{"dg-publish":true,"permalink":"/topics/artery-posterior-inferior-cerebellar/","tags":["anatomy","artery","vessel","anastomosis"],"created":"2023-12-05T14:29:24.000-08:00","updated":"2024-03-04T13:48:10.527-08:00"}
 ---
 
 
