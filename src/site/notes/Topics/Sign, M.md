@@ -12,4 +12,4 @@ The **M sign** can be seen on the sagittal MRI brain located at the inferior fro
 ### 1
 
 ![](https://i.imgur.com/FB3BD11.jpg)
-This MRI sagittal image clearly depicts the M sign, composed of the pars orbitalis (green line), pars triangularis (red V), and pars opercularis (blue line). Additionally, please notice the presence of superior temporal encephalomalacia, which is secondary to an old [[Hemorrhage, Intracerebral\|ICH]].
+This MRI sagittal image clearly depicts the M sign, composed of the pars orbitalis (green line), pars triangularis (red V), and pars opercularis (blue line). Additionally, please notice the presence of superior temporal encephalomalacia, which is secondary to an old [[Topics/Hemorrhage, Intracerebral\|ICH]].
