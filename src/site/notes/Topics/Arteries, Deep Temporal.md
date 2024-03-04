@@ -3,7 +3,7 @@
 ---
 
 
-The **deep temporal arteries** are branches from the second part of the [[Artery, Maxillary\|maxillary artery]]. They ascend between the pericranium and the temporalis muscle.
+The **deep temporal arteries** are branches from the second part of the [[Topics/Artery, Maxillary\|maxillary artery]]. They ascend between the pericranium and the temporalis muscle.
 
 ---
 
