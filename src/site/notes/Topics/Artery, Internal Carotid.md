@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-internal-carotid/","created":"2023-10-19T13:27:23.960-07:00","updated":"2024-03-06T18:36:29.100-08:00"}
+{"dg-publish":true,"permalink":"/topics/artery-internal-carotid/","created":"2023-10-19T13:27:23.960-07:00","updated":"2024-03-07T09:28:10.333-08:00"}
 ---
 
 
-The **internal carotid artery** (**ICA**) is a branch of the [[Topics/Artery, Common Carotid\|common carotid artery]], it terminates into [[Topics/Artery, Middle Cerebral\|Artery, Middle Cerebral]] and [[Topics/Artery, Anterior Cerebral\|anterior cerebral artery]].
+The **internal carotid artery** (**ICA**) is a branch of the [[Topics/Artery, Common Carotid\|common carotid artery]], it terminates into [[Topics/Artery, Middle Cerebral\|middle cerebral artery]] and [[Topics/Artery, Anterior Cerebral\|anterior cerebral artery]].
 
 ---
 
