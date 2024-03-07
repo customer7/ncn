@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-anterior-communicating/","created":"2023-10-16T19:07:40.290-07:00","updated":"2024-02-26T14:48:30.301-08:00"}
+{"dg-publish":true,"permalink":"/topics/artery-anterior-communicating/","created":"2023-10-16T19:07:40.290-07:00","updated":"2024-03-06T17:36:21.050-08:00"}
 ---
 
 
