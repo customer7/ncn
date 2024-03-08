@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-anterior-cerebral/","created":"2023-10-16T19:00:10.808-07:00","updated":"2024-02-28T16:12:19.924-08:00"}
+{"dg-publish":true,"permalink":"/topics/artery-anterior-cerebral/","created":"2023-10-16T19:00:10.808-07:00","updated":"2024-03-08T11:27:39.481-08:00"}
 ---
 
 
@@ -9,7 +9,7 @@ The **anterior cerebral artery** is one of the two terminal branches of the [[To
 
 ## Cases
 
-### 1
+### 1.
 
 ![](https://i.imgur.com/a3WJzlv.jpg)
 This patient presented with an acute left M1 occlusion. Without cross-filling of the contralateral ACA through the [[Topics/Artery, Anterior Communicating\|ACOM]], this DSA presents a clear image of the left ACA and its branches (although not in the classic textbook manner).
@@ -33,14 +33,14 @@ This patient presented with an acute left M1 occlusion. Without cross-filling of
 
 ---
 
-### 2 A2 Trifurcation
+### 2. A2 Trifurcation
 
 ![](https://i.imgur.com/83AN2su.jpg)
 This patient presented with a severe headache and diffuse [[Topics/Hemorrhage, Subarachnoid\|SAH]] on CT head. 3D reconstruction from the CTA head showed a small [[Topics/Artery, Anterior Communicating\|ACOM]] aneurysm, a hypoplastic/atretic left A1, and an A2 trifurcation variation (**A**, **B**, and **C**). Figures (**D**) and (**E**) demonstrate standard [[Topics/Angiography, Digital Subtraction\|DSA]] PA and lateral views. Figures (**F**) and (**G**) are zoomed-in post-coiling working angle views of the aneurysm.
 
 ---
 
-### 3 Azygous ACA
+### 3. Azygous ACA
 
 #### 3.1
 
@@ -55,3 +55,12 @@ This CTA shows an Azygous ACA with no ACOM. This anomaly is reported to be assoc
 Here is a [[Topics/Imaging, VRT\|VRT]] image from a CTA head of another patient.
 
 <span style="color:cornflowerblue">Blue</span> arrow: azygous ACA.
+
+---
+
+### 4. Atresia
+
+![](https://i.imgur.com/2Ak4Mqz.jpeg)
+(**A**): The PA view of the right ICA injection reveals an atretic right A1 segment.
+(**B**): The PA view of the left ICA injection demonstrates patent [[Topics/Artery, Anterior Communicating\|ACOM artery]] and cross-filling of the right ACA.
+(**C**) and (**D**): The arterial and capillary phases of the lateral view of the right ICA injection depicted branches of the right MCA and their respective territories without ACA contamination.
