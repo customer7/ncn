@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-anterior-cerebral/","created":"2023-10-16T19:00:10.808-07:00","updated":"2024-03-08T11:27:39.481-08:00"}
+{"dg-publish":true,"permalink":"/topics/artery-anterior-cerebral/","created":"2023-10-16T19:00:10.808-07:00","updated":"2024-03-08T11:28:11.844-08:00"}
 ---
 
 
@@ -61,6 +61,6 @@ Here is a [[Topics/Imaging, VRT\|VRT]] image from a CTA head of another patient.
 ### 4. Atresia
 
 ![](https://i.imgur.com/2Ak4Mqz.jpeg)
-(**A**): The PA view of the right ICA injection reveals an atretic right A1 segment.
+(**A**): The PA view of the right [[Topics/Artery, Internal Carotid\|ICA]] injection reveals an atretic right A1 segment.
 (**B**): The PA view of the left ICA injection demonstrates patent [[Topics/Artery, Anterior Communicating\|ACOM artery]] and cross-filling of the right ACA.
-(**C**) and (**D**): The arterial and capillary phases of the lateral view of the right ICA injection depicted branches of the right MCA and their respective territories without ACA contamination.
+(**C**) and (**D**): The arterial and capillary phases of the lateral view of the right ICA injection depicted branches of the right [[Topics/Artery, Middle Cerebral\|MCA]] and their respective territories without ACA contamination.
