@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2024-01-10T11:37:25.812-08:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2024-03-14T20:12:34.752-07:00"}
 ---
 
 
@@ -97,7 +97,7 @@ It appeared that there was calcification and stenosis at the right VA origin (<s
 - <span style="color:brow">Brown</span> arrow: Vecta 0.046 tip.
 - <span style="color:black">Black</span> arrow: XT-27 tip.
 - <span style="color:magenta">Magenta</span> arrow: Proximal marker.
-- <span style="color:teal">Teal</span> arrow: Resheath marker.
+- <span style="color:teal">Teal</span> arrow: Recapture marker.
 - <span style="color:maroon">Maroon</span> arrow: Distal marker.
 
 ---
