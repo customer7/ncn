@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2024-03-14T20:25:50.036-07:00"}
+{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2024-03-16T11:31:03.161-07:00"}
 ---
 
 
@@ -73,8 +73,8 @@ In this scenario, the goal was to super-select the <span style="color: palegreen
 ### 6
  
 ![](https://i.imgur.com/JruFn8Y.jpeg)
-After the deployment of the flow diverter stent, the subsequent procedure involves recapturing the delivery wire (<span style="color: orange">orange</span> arrow) utilizing the microcatheter (<span style="color: red">red</span> arrow) to maintain intra-stent access (**A**). However, owing to the pressure accumulated during the stent delivery process, the mico-system tightly conforms to the arterial wall (<span style="color: white">white</span> dotted line), hightening the risk of the microcatheter tip entanglement with the proximal stent. An effective maneuver to mitigate this risk involves "unloading" the entire micro-system to diminish wall apposition (**B**). Subsequently, delicately advancing the microcatheter while gradually withdrawing the microwire (**C**) facilitates the smooth advancement of the microcatheter into the stent without impending its integrity (**D**).
+After the deployment of the flow diverter stent, the subsequent procedure involves recapturing the delivery wire (<span style="color: orange">orange</span> arrow) utilizing the microcatheter (<span style="color: red">red</span> arrow) to maintain intra-stent access (**A**). However, owing to the pressure accumulated during the stent delivery process, the mico-system tightly conforms to the arterial wall (<span style="color: white">white</span> dotted line), hightening the risk of the microcatheter tip entanglement with the proximal stent. An effective maneuver to mitigate this risk involves "unloading"* the entire micro-system to diminish wall apposition (**B**). Note the advancement of the intermediate catheter (<span style="color: Cyan">cyan</span> arrow). Subsequently, delicately advancing the microcatheter while gradually withdrawing the microwire (**C**) facilitates the smooth advancement of the microcatheter into the stent without impending its integrity (**D**).
 
 <span style="color: yellow">Yellow</span> arrow: Recapture marker.
 <span style="color: cornflowerblue">Blue</span> arrow: Proximal marker.
-<span style="color: Cyan">Cyan</span> arrow: Intermediate catheter tip.
+\*Unloading means systematic withdrawal of the microcatheter and accompanying microwire as an integrated system.
