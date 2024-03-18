@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2023-12-18T20:41:49.272-08:00"}
+{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2024-03-17T21:04:37.934-07:00"}
 ---
 
 
@@ -47,6 +47,12 @@ Cases presented on this website are for educational and informational purposes o
 ## ★ What does the abbreviation stand for?
 
 If you are not sure about an abbreviation, [[Topics/Index, Abbreviations\|here]] is the reference.
+
+---
+
+## ★ I would like to leave a comment.
+
+A commentary section is located at the bottom of each page, facilitated by the Disqus^[[Disqus](https://disqus.com/)] platform.
 
 ---
 
