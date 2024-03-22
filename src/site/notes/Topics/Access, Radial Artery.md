@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/topics/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2024-01-10T11:25:38.794-08:00"}
+{"dg-publish":true,"permalink":"/topics/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2024-03-22T12:27:24.637-07:00"}
 ---
+
 
 With the introduction of various catheters designed for radial access, the **radial artery access** has been gaining popularity recently. The [[Topics/Catheter, Simmons\|Simmons catheters]] are typically the go-to choice for selecting target arteries.
 
@@ -45,7 +46,8 @@ The local anesthetic infiltrated area (white diamond) can be seen above the righ
 - (**B**): Post-injection. 
 
 ---
-### 3
+
+### 3 Aberrant Right Subclavian Artery
 
 **CTA Neck**
 ![](https://i.imgur.com/CVxdMX9.jpg)
@@ -81,6 +83,16 @@ This is an MRA neck of another patient who has an aberrant right subclavian arte
 - Orange line: Right subclavian artery.
 - Blue line: Right [[Topics/Artery, Vertebral\|VA]].
 - White dotted line: Left subclavian vein.
+
+---
+
+![](https://i.imgur.com/olZlWpO.jpeg)
+- <span style="color: yellow">Yellow</span> arrow: Right [[Topics/Artery, Common Carotid\|CCA]].
+- <span style="color: palegreen">Green</span> arrow: Left CCA.
+- <span style="color: red">Red</span> arrow: Left [[Topics/Artery, Subclavian\|subclavian artery]].
+- <span style="color: white">White</span> arrow: Left [[Topics/Artery, Vertebral\|VA]].
+- <span style="color: orange">Orange</span> arrow: Aberrant right subclavian artery.
+\*The right VA is a small artery and is not shown.
 
 ---
 
