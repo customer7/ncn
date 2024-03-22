@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2024-03-22T12:27:24.637-07:00"}
+{"dg-publish":true,"permalink":"/topics/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2024-03-22T12:29:16.218-07:00"}
 ---
 
 
@@ -78,7 +78,7 @@ This is an MRA neck of another patient who has an aberrant right subclavian arte
 - Red line: Aortic arch.
 - Purple line: Right [[Topics/Artery, Common Carotid\|CCA]].
 - Green line: Left [[Topics/Artery, Common Carotid\|CCA]].
-- Pink line: Left subclavian artery.
+- Pink line: Left [[Topics/Artery, Subclavian\|subclavian artery]].
 - Black line: Left [[Topics/Artery, Vertebral\|VA]].
 - Orange line: Right subclavian artery.
 - Blue line: Right [[Topics/Artery, Vertebral\|VA]].
