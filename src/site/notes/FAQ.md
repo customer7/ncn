@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2024-03-17T21:04:37.934-07:00"}
+{"dg-publish":true,"permalink":"/faq/","created":"2023-09-25T09:01:59.890-07:00","updated":"2024-03-23T14:20:33.217-07:00"}
 ---
 
 
@@ -52,7 +52,9 @@ If you are not sure about an abbreviation, [[Topics/Index, Abbreviations\|here]]
 
 ## ★ I would like to leave a comment.
 
-A commentary section is located at the bottom of each page, facilitated by the Disqus^[[Disqus](https://disqus.com/)] platform.
+A commentary section is located at the bottom of each page, facilitated by the Disqus^[[Disqus](https://disqus.com/)] platform. 
+
+Alternatively, you can leave any comments on the [[Comments\|Comments]] page.
 
 ---
 
