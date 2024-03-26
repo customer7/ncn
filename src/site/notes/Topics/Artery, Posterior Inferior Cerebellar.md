@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-posterior-inferior-cerebellar/","tags":["anatomy","artery","vessel","anastomosis"],"created":"2023-12-05T14:29:24.000-08:00","updated":"2024-03-25T17:02:26.463-07:00"}
+{"dg-publish":true,"permalink":"/topics/artery-posterior-inferior-cerebellar/","tags":["anatomy","artery","vessel","anastomosis"],"created":"2023-12-05T14:29:24.000-08:00","updated":"2024-03-25T17:41:00.643-07:00"}
 ---
 
 
@@ -44,5 +44,7 @@ This right [[Topics/Artery, Vertebral\|vertebral artery]] injection yielded seve
 
 ### 3
 
-![](https://i.imgur.com/6KCj8nZ.jpeg)
-This left [[Topics/Artery, Vertebral\|VA]] [[Topics/Angiography, Digital Subtraction\|DSA]] revealed an extra-cranial origin (<span style="color: yellow">yellow</span> arrow) of the left PICA.
+![](https://i.imgur.com/u22hnnb.jpeg)
+This left [[Topics/Artery, Vertebral\|VA]] [[Topics/Angiography, Digital Subtraction\|DSA]] revealed an extra-cranial origin (<span style="color: yellow">yellow</span> arrow) of the left PICA. It is imperative to acknowledge this anatomical variation prior to conducting sub-occipital craniotomy or atlanto-occipital procedures.
+
+- <span style="color: red">Red</span> arrow: Direction of the flow of the left VA.
