@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.000-07:00","updated":"2024-02-06T11:16:43.000-08:00"}
+{"dg-publish":true,"permalink":"/topics/circle-willis/","tags":["anatomy","CTA"],"created":"2023-09-27T17:21:02.000-07:00","updated":"2024-03-26T17:21:46.613-07:00"}
 ---
 
 
@@ -54,3 +54,10 @@ The same patient underwent a diagnostic cerebral angiography and flow diverter e
 19. Left [[Topics/Artery, Superficial Temporal\|STA]]
 20. Right STA
 21. Left [[Topics/Artery, Occipital\|occipital artery]]
+
+---
+
+### 3
+
+![](https://i.imgur.com/GFoSwLu.jpeg)
+The [[Topics/Angiography, Digital Subtraction\|DSA]] reveals two key features. Firstly, it shows that both P1 segments of the [[Topics/Artery, Posterior Cerebral\|PCAs]] (**A** and **B**) are underdeveloped, a condition known as bilateral hypoplastic P1s. Secondly, it indicates the presence of bilateral fetal [[Topics/Artery, Posterior Communicating\|PCOM arteries]] (**C** and **D**), which means these arteries are the primary source of blood to the PCAs, a configuration reminiscent of the fetal brain’s circulation. 
