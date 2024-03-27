@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/arteries-deep-temporal/","tags":["anatomy","artery","vessel"],"created":"2023-07-23T13:31:41.838-07:00","updated":"2024-01-10T11:03:39.552-08:00"}
+{"dg-publish":true,"permalink":"/topics/arteries-deep-temporal/","tags":["anatomy","artery","vessel"],"created":"2023-07-23T13:31:41.838-07:00","updated":"2024-03-25T19:08:50.821-07:00"}
 ---
 
 
