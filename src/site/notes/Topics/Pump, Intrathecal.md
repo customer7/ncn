@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/pump-intrathecal/","created":"2024-03-01T13:34:06.764-08:00","updated":"2024-03-28T11:18:07.089-07:00"}
+{"dg-publish":true,"permalink":"/topics/pump-intrathecal/","created":"2024-03-01T13:34:06.764-08:00","updated":"2024-03-28T12:17:46.286-07:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 
 ### 1
 
-![](https://i.imgur.com/KZRisx2.jpeg)
+![](https://i.imgur.com/7UymdNA.jpeg)
 Step-by-Step Tutorial: Intrathecal Pump Interrogation Under Fluorosocpy
 
 *Step 1: Placement of the Needle*
@@ -28,6 +28,6 @@ Aspirate to withdraw [[Topics/Fluid, Cerebrospinal\|CSF]].
 (**D**): Detection of free-floating contrast within the intrathecal space (<span style="color: palegreen">green</span> arrow) confirms a patent catheter system. The <span style="color: cornflowerblue">blue</span> arrow indicates the intrathecal catheter tip.
 
 *Step 4: Device Check*
-(**E**) and (**F**): Program the device to administer a small amount of the medication and verify its functionality on pre- (E) and post- (F) fluoroscopies, noting the rotation of the peristaltic pump (<span style="color: yellow">yellow</span> arrow).
+(**E**) and (**F**): Program the device to administer a small amount of the medication and verify its functionality on pre- (E) and post- (F) fluoroscopies, noting the counter-clockwise 60° rotation of the peristaltic pump.
 
 \*It is recommended to have a medical representative from the pump company present to assist with programming the device.
