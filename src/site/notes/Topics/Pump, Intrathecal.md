@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/pump-intrathecal/","created":"2024-03-01T13:34:06.764-08:00","updated":"2024-03-28T12:17:46.286-07:00"}
+{"dg-publish":true,"permalink":"/topics/pump-intrathecal/","created":"2024-03-01T13:34:06.764-08:00","updated":"2024-03-28T12:25:04.368-07:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 
 ### 1
 
-![](https://i.imgur.com/7UymdNA.jpeg)
+![](https://i.imgur.com/YYdoPMz.jpeg)
 Step-by-Step Tutorial: Intrathecal Pump Interrogation Under Fluorosocpy
 
 *Step 1: Placement of the Needle*
