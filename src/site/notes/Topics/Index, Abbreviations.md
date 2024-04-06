@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2024-02-28T13:33:25.844-08:00"}
+{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2024-04-05T18:53:30.391-07:00"}
 ---
 
 
@@ -77,6 +77,8 @@
 - **ROM** - range of motion
 - **RUE** - right upper extremity
 - **SCA** - [[Topics/Artery, Superior Cerebellar\|superior cerebellar artery]]
+- **T1WI** - T1-weighted image
+- **T2WI** - T2-weighted image
 - **TCAR** - transcarotid artery revascularization
 - **TCD** - transcranial doppler
 - **TICI** - thrombolysis in cerebral infarction scale
