@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-subclavian/","tags":["anatomy","artery"],"created":"2023-10-23T17:15:38.155-07:00","updated":"2024-04-07T17:18:49.133-07:00"}
+{"dg-publish":true,"permalink":"/topics/artery-subclavian/","tags":["anatomy","artery"],"created":"2023-10-23T17:15:38.155-07:00","updated":"2024-04-07T17:21:16.134-07:00"}
 ---
 
 
@@ -58,8 +58,8 @@ This is an MRA neck of another patient who has an aberrant right subclavian arte
 
 ---
 
-![](https://i.imgur.com/mMRcaC3.png)
-An interesting observation from the 3D reconstruction of this aberrant right subclavian artery from the CTA is that the right [[Topics/Artery, Vertebral\|VA]] originates from the right [[Topics/Artery, Common Carotid\|CCA]].
+![](https://i.imgur.com/LwFck36.png)
+An interesting observation from the 3D reconstruction of this aberrant right subclavian artery from the CTA is that the right [[Topics/Artery, Vertebral\|VA]] originates from the right [[Topics/Artery, Common Carotid\|CCA]] (<span style="color: white">white</span> arrow).
 
 - <span style="color: red">Red</span> arrow: right aberrant [[Topics/Artery, Subclavian\|subclavian artery]].
 - <span style="color:yellow">Yellow</span> arrow: Right [[Topics/Artery, Common Carotid\|CCA]]. 
