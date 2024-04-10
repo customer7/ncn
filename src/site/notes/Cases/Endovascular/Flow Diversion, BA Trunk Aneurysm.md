@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2024-04-10T15:39:02.348-07:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2024-04-10T15:40:29.559-07:00"}
 ---
 
 
@@ -232,7 +232,7 @@ The final fluoroscopy showed the stent position and contrast stasis.
 
 Six-month follow-up angiogram demonstrated occlusion of the No. 2 small aneurysm, however, the large BA trunk and No. 3 aneurysms were of similar sizes and shapes. Patient stopped clopidogrel while continued aspirin and rivaroxaban.
 
-![](https://i.imgur.com/TBsY2qW.jpeg)
+![](https://i.imgur.com/1TXFnl5.jpeg)
 Left column: 6-month follow-up angiogram.
 Right column: Pre-interventional angiogram.
 
