@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2024-04-10T15:40:29.559-07:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2024-04-11T18:13:48.909-07:00"}
 ---
 
 
@@ -54,8 +54,8 @@ It appeared that there was calcification and stenosis at the right VA origin (<s
 - Black blood MRI illustrates bilateral [[Topics/Artery, Vertebral\|VA]] vessel wall and aneurysm wall enhancement -> high risk of rupturing
 - Plan for flow diversion embolization
 - [[Literature/Triple Therapy, VBA Aneurysm - 2022\|Triple therapy]]^[[Triple therapy versus dual-antiplatelet therapy for dolichoectatic vertebrobasilar fusiform aneurysms treated with flow diverters | Journal of NeuroInterventional Surgery](https://jnis.bmj.com/content/15/7/655)] for anti-thrombotic management
-	- Daily 81 mg of aspirin - response: 369 ARU
-	- Daily 75 mg of clopidogrel - P2Y12 response: 78 PRU
+	- Daily 81 mg of aspirin (ARU: 369)
+	- Daily 75 mg of clopidogrel (PRU: 78)
 	- Daily 10 mg of rivaroxaban
 
 ---
@@ -230,7 +230,7 @@ The final fluoroscopy showed the stent position and contrast stasis.
 
 ## Follow-Up DSA (6m)
 
-Six-month follow-up angiogram demonstrated occlusion of the No. 2 small aneurysm, however, the large BA trunk and No. 3 aneurysms were of similar sizes and shapes. Patient stopped clopidogrel while continued aspirin and rivaroxaban.
+Patient recovered well without new neurological deficits. Six-month follow-up angiogram demonstrated occlusion of the No. 2 small aneurysm. The large BA trunk (No. 1) and No. 3 aneurysms were of similar sizes and shapes. Patient stopped clopidogrel while continued aspirin and rivaroxaban.
 
 ![](https://i.imgur.com/1TXFnl5.jpeg)
 Left column: 6-month follow-up angiogram.
