@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/miscellaneous/software/","created":"2023-03-10T11:55:47.000-08:00","updated":"2024-01-24T21:25:02.305-08:00"}
+{"dg-publish":true,"permalink":"/miscellaneous/software/","created":"2023-03-10T11:55:47.000-08:00","updated":"2024-04-14T16:54:44.178-07:00"}
 ---
+
 
 Everybody has their own individual preferences when it comes to how the workflow is done. 
 
@@ -14,8 +15,8 @@ Here is the software that we rely on to build this website.
 - [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/) - publish platform
 - [iMovie - Apple (CA)](https://www.apple.com/ca/imovie/) - video editor
 - [Keynote - Apple](https://www.apple.com/keynote/) - image editor
-- [Secure, Fast & Private Web Browser with Adblocker | Brave Browser](https://brave.com/) - web browser
 - [Obsidian](https://obsidian.md/) - note-taking app
+- [Secure, Fast & Private Web Browser with Adblocker | Brave Browser](https://brave.com/) - web browser
 
 ---
 
