@@ -102,7 +102,6 @@ This page indexes all the pages on this website alphabetically.
 - [[Topics/Sizes, Arteries\|Sizes, Arteries]]
 - [[Miscellaneous/Software\|Software]]
 - [[Topics/Spondylolisthesis\|Spondylolisthesis]]
-- [[Topics/Stenosis, Subclavian\|Stenosis, Subclavian]]
 - [[Topics/Stent, Flow Diverter\|Stent, Flow Diverter]]
 - [[Topics/Stroke, Ischemic\|Stroke, Ischemic]]
 - [[Topics/Syndrome, Marin-Amat\|Syndrome, Marin-Amat]]
