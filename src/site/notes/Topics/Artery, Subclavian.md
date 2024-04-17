@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-subclavian/","tags":["anatomy","artery","syndrome"],"created":"2023-10-23T17:15:38.155-07:00","updated":"2024-04-17T10:25:02.090-07:00"}
+{"dg-publish":true,"permalink":"/topics/artery-subclavian/","tags":["anatomy","artery","syndrome"],"created":"2023-10-23T17:15:38.155-07:00","updated":"2024-04-17T10:30:19.533-07:00"}
 ---
 
 
 The right **subclavian artery** usually shares a common origin with the right [[Topics/Artery, Common Carotid\|CCA]] called the brachiocephalic artery. However, it could originate directly from the aortic arch and be called **lusorian artery** ([[Topics/Artery, Subclavian#1 Aberrant Right Subclavian Artery\|Case 1]]).
 
-Pre-vertebral subclavian artery stenosis/occlusion can cause subclavian artery steal syndrome ([[Topics/Artery, Subclavian#\|Artery, Subclavian#]]).
+Pre-vertebral subclavian artery stenosis/occlusion can cause subclavian artery steal syndrome ([[Topics/Artery, Subclavian#2 Left Subclavian Artery Origin Occlusion\|Case 2]]).
 
 ---
 
