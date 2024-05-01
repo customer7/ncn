@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2024-01-10T11:25:38.795-08:00"}
+{"dg-publish":true,"permalink":"/topics/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2024-05-01T16:05:17.655-07:00"}
 ---
 
 
@@ -125,3 +125,10 @@ The Simmons 2 catheter could also be utilized for transfemoral access to select 
 (**D**): Withdraw the catheter until the secondary curve (<span style="color:red">red</span> arrow) reaches the aortic arch.
 (**E**): Twist and advance the catheter to push the secondary curve into the aortic arch.
 (**F**): Push the catheter into the ascending aorta.
+
+---
+
+### 7
+
+![](https://i.imgur.com/v0QjaqX.png)
+After completing the left [[Topics/Artery, Vertebral\|VA]] [[Topics/Angiography, Digital Subtraction\|DSA]], the Simmons 2 catheter was advanced into the descending aorta. This was a position that prevented the selection of the last target - left [[Topics/Artery, Common Carotid\|CCA]] (**A**). The catheter was then retracted into the brachiocephalic artery (**B**) and advanced into the ascending aorta (**C**). Selection of the left CCA was achieved (**D**).
