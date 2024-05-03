@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.000-07:00","updated":"2024-05-03T12:57:23.134-07:00"}
+{"dg-publish":true,"permalink":"/topics/anastomosis-ec-ic/","tags":["DSA","anatomy"],"created":"2023-09-14T14:09:03.000-07:00","updated":"2024-05-03T13:13:10.295-07:00"}
 ---
 
 
@@ -15,7 +15,7 @@ In this article, we gathered cases with interesting external carotid-internal ca
 
 **DSA - Right ICA Injection (PA \[Top\] and Lateral \[Bottom\])**
 ![](https://i.imgur.com/O3RCMBz.jpg)
-The right [[Topics/Artery, Recurrent Meningeal\|middle meningeal artery]] (<span style="color:red">red</span> arrows) is arising from the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:cornflowerblue">blue</span> arrow), as observed during an injection into the right ICA. By the way, did you notice the aneurysm?
+The right [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (<span style="color:red">red</span> arrows) is arising from the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:cornflowerblue">blue</span> arrow), as observed during an injection into the right ICA. By the way, did you notice the aneurysm?
 
 --- 
 
@@ -23,7 +23,7 @@ The right [[Topics/Artery, Recurrent Meningeal\|middle meningeal artery]] (<span
 
 **Right ICA Injection**
 ![](https://i.imgur.com/tzvd5PW.jpg)
-This patient presented with stroke activation, and the right [[Topics/Artery, Internal Carotid\|internal carotid artery]] run showed a right M 1 occlusion (<span style="color:yellow">yellow</span> arrow). Interestingly, an anastomosis was also observed between the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:red">red</span> arrow) and the right [[Topics/Artery, Recurrent Meningeal\|middle meningeal artery]] (<span style="color:palegreen">green</span> arrow). Subsequent mechanical thrombectomy achieved a TICI 2 C reperfusion (inset images).
+This patient presented with stroke activation, and the right [[Topics/Artery, Internal Carotid\|internal carotid artery]] run showed a right M 1 occlusion (<span style="color:yellow">yellow</span> arrow). Interestingly, an anastomosis was also observed between the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:red">red</span> arrow) and the right [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (<span style="color:palegreen">green</span> arrow). Subsequent mechanical thrombectomy achieved a TICI 2 C reperfusion (inset images).
 
 (**A**): PA view.
 (**B**): Lateral view.
@@ -44,7 +44,7 @@ This patient presented with chronic complete occlusion of the right cervical [[T
 <span style="color:red">Red</span> arrow: Right [[Topics/Artery, Occipital\|occipital artery]].
 <span style="color:magenta">Magenta</span> arrow: Right [[Topics/Artery, Superficial Temporal\|superficial temporal artery]].
 <span style="color:SaddleBrown">Brown</span> arrow: [[Topics/Artery, Maxillary\|Internal maxillary artery]].
-<span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Recurrent Meningeal\|Middle meningeal artery]].
+<span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]].
 <span style="color:white">White</span> arrow: Choroidal blush.
 
 ---
@@ -52,7 +52,7 @@ This patient presented with chronic complete occlusion of the right cervical [[T
 #### 1.4
 
 ![](https://i.imgur.com/Gh8n9F7.jpeg)
-On the right [[Topics/Artery, Internal Carotid\|ICA]] run (top row), the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:red">red</span> arrow) briefly opacified and disappeared with the retrograde flow. On the right [[Topics/Artery, External Carotid\|ECA]] run (bottom row), an anastomosis (<span style="color:red">red</span> circle) between the frontal branch (<span style="color:cornflowerblue">blue</span> arrow) of the right [[Topics/Artery, Recurrent Meningeal\|MMA]] (<span style="color:yellow">yellow</span> arrow) and right ophthalmic artery was observed with robust flow from the former to the latter. Note: The anastomosis point was right where the ophthalmic artery forward flow stopped on the ICA run.
+On the right [[Topics/Artery, Internal Carotid\|ICA]] run (top row), the right [[Topics/Artery, Ophthalmic\|ophthalmic artery]] (<span style="color:red">red</span> arrow) briefly opacified and disappeared with the retrograde flow. On the right [[Topics/Artery, External Carotid\|ECA]] run (bottom row), an anastomosis (<span style="color:red">red</span> circle) between the frontal branch (<span style="color:cornflowerblue">blue</span> arrow) of the right [[Topics/Artery, Middle Meningeal\|MMA]] (<span style="color:yellow">yellow</span> arrow) and right ophthalmic artery was observed with robust flow from the former to the latter. Note: The anastomosis point was right where the ophthalmic artery forward flow stopped on the ICA run.
 
 > [!warning] Caution!
 > This type of anastomosis poses a potential risk of vision loss in the setting of MMA embolization. 
@@ -77,7 +77,7 @@ On this left ECA angiogram, an anastomosis (<span style="color:cornflowerblue">b
 
 - <span style="color:orange">Orange</span> arrow: [[Topics/Artery, Basilar\|Basilar artery]].
 - <span style="color:magenta">Magenta</span> arrow: [[Topics/Artery, Superficial Temporal\|Superficial temporal artery]].
-- <span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Recurrent Meningeal\|Middle meningeal artery]].
+- <span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]].
 
 ---
 
@@ -90,7 +90,7 @@ On this ECA angiogram, an anastomosis (<span style="color:cornflowerblue">blue</
 - <span style="color:SaddleBrown">Brown</span> arrow: [[Topics/Artery, Maxillary\|Internal maxillary artery]]
 - <span style="color:orange">Orange</span> arrow: [[Topics/Artery, Basilar\|Basilar artery]].
 - <span style="color:magenta">Magenta</span> arrow: [[Topics/Artery, Superficial Temporal\|Superficial temporal artery]].
-- <span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Recurrent Meningeal\|Middle meningeal artery]].
+- <span style="color:cyan">Cyan</span> arrow: [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]].
 
 ---
 
