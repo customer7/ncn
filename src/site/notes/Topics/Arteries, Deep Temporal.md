@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/arteries-deep-temporal/","tags":["anatomy","artery","vessel"],"created":"2023-07-23T13:31:41.838-07:00","updated":"2024-03-25T19:08:50.821-07:00"}
+{"dg-publish":true,"permalink":"/topics/arteries-deep-temporal/","tags":["anatomy","artery","vessel"],"created":"2023-07-23T13:31:41.838-07:00","updated":"2024-05-03T12:57:23.210-07:00"}
 ---
 
 
@@ -11,7 +11,7 @@ The **deep temporal arteries** are branches from the second part of the [[Topics
 
 ### 1
 
-A patient presented with left subdural hematoma and underwent Onyx embolization of the left [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (MMA). The deep temporal arteries are better seen after the MMA embolization.
+A patient presented with left subdural hematoma and underwent Onyx embolization of the left [[Topics/Artery, Recurrent Meningeal\|middle meningeal artery]] (MMA). The deep temporal arteries are better seen after the MMA embolization.
 
 ![](https://i.imgur.com/GcvEPSg.jpg)
 **A**: pre-embolization, left external carotid artery (ECA) injection, PA view.
