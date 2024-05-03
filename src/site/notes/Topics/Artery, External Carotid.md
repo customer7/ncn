@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-external-carotid/","tags":["anatomy","artery"],"created":"2023-09-01T12:23:14.259-07:00","updated":"2024-03-25T19:18:20.569-07:00"}
+{"dg-publish":true,"permalink":"/topics/artery-external-carotid/","tags":["anatomy","artery"],"created":"2023-09-01T12:23:14.259-07:00","updated":"2024-05-03T12:57:23.233-07:00"}
 ---
 
 
@@ -17,7 +17,7 @@ The **external carotid artery** (**ECA**) is one of the two branches of the [[To
 3. [[Topics/Artery, Superficial Temporal\|Superficial temporal artery]]
 4. Parietal branch of the superficial temporal artery
 5. Frontal branch of the superficial temporal artery
-6. [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]]
+6. [[Topics/Artery, Recurrent Meningeal\|Middle meningeal artery]]
 7. Posterior division of the middle meningeal artery
 8. Anterior division of the middle meningeal artery
 9. [[Topics/Artery, Maxillary\|Internal maxillary artery]]
