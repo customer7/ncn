@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-recurrent-meningeal/","tags":["artery","anatomy"],"created":"2024-05-03T13:13:28.232-07:00","updated":"2024-05-03T13:13:59.397-07:00"}
+{"dg-publish":true,"permalink":"/topics/artery-recurrent-meningeal/","tags":["artery","anatomy"],"created":"2024-05-03T13:13:28.232-07:00","updated":"2024-05-03T13:16:19.421-07:00"}
 ---
 
 
-The **recurrent meningeal artery** originated from the [[Topics/Artery, Ophthalmic\|ophthalmic artery]] and supplied the dura of the anterior cranial fossa.
+The **recurrent meningeal artery** originates from the [[Topics/Artery, Ophthalmic\|ophthalmic artery]] and supplies the dura of the anterior cranial fossa.
 
 ---
 
