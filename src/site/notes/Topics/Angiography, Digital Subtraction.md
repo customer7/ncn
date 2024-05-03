@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2024-03-16T11:31:03.161-07:00"}
+{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2024-05-03T12:57:23.164-07:00"}
 ---
 
 
@@ -57,7 +57,7 @@ An air bubble can be seen injected into the [[Topics/Artery, Maxillary\|internal
 
 **Left Column: PA Views; Right Column: Lateral Views**
 ![](https://i.imgur.com/y13RvmQ.jpeg)
-In this scenario, the goal was to super-select the <span style="color: palegreen">green</span> branch of the frontal division (<span style="color: black">black</span>) of the [[Topics/Artery, Middle Meningeal\|middle meningeal artery]] (**B**). However, challenges arose due to anatomical constraints, including: 1. An acute angle at the origin of the target branch observed on PA views; 2. Limited diameter of the artery, impeding the manipulation of the microwire tip. As a workaround, the <span style="color: red">red</span> branch was intentionally blocked using coils.
+In this scenario, the goal was to super-select the <span style="color: palegreen">green</span> branch of the frontal division (<span style="color: black">black</span>) of the [[Topics/Artery, Recurrent Meningeal\|middle meningeal artery]] (**B**). However, challenges arose due to anatomical constraints, including: 1. An acute angle at the origin of the target branch observed on PA views; 2. Limited diameter of the artery, impeding the manipulation of the microwire tip. As a workaround, the <span style="color: red">red</span> branch was intentionally blocked using coils.
 
 (**A**): The microwire was advanced into the <span style="color: red">red</span> branch.
 (**B**): Illustrative depiction of the arterial branches.
