@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/topics/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2024-05-01T16:05:17.655-07:00"}
+{"dg-publish":true,"permalink":"/topics/catheter-simmons/","tags":["catheter"],"created":"2023-10-02T20:02:30.306-07:00","updated":"2024-05-22T11:16:15.427-07:00"}
 ---
 
 
-The **Simmons catheter** is a group of reverse-curve selective catheters widely used in the [[Topics/Access, Radial Artery\|radial access]] approach for selecting target arteries. In most cases, the catheter must be shaped into its intended configuration ([[Topics/Catheter, Simmons#1\|Case 1]], [[Topics/Catheter, Simmons#2\|Case 2]], [[Topics/Catheter, Simmons#3\|Case 3]], [[Topics/Catheter, Simmons#4\|Case 4]], [[Topics/Catheter, Simmons#6\|Case 6]]) before it can be used to select the target artery. The catheter features three curves.^[[Simmons catheter | Radiology Reference Article | Radiopaedia.org](https://radiopaedia.org/articles/simmons-catheter?lang=us)] 
+The **Simmons catheter** is a group of reverse-curve selective catheters widely used in the [[Topics/Access, Radial Artery\|radial access]] approach for selecting target arteries. In most cases, the catheter must be shaped into its intended configuration ([[Topics/Catheter, Simmons#1\|Case 1]], [[Topics/Catheter, Simmons#2\|Case 2]], [[Topics/Catheter, Simmons#3\|Case 3]], [[Topics/Catheter, Simmons#4\|Case 4]], [[Topics/Catheter, Simmons#7 Femoral Access\|Case 6]]) before it can be used to select the target artery. The catheter features three curves.^[[Simmons catheter | Radiology Reference Article | Radiopaedia.org](https://radiopaedia.org/articles/simmons-catheter?lang=us)] 
 
 ---
 
@@ -113,8 +113,14 @@ This patient presents for a diagnostic cerebral angiography for a left temporal 
 - <span style="color:magenta">Magenta</span> arrow: Left subclavian artery.
 
 ---
-
 ### 6
+
+![](https://i.imgur.com/v0QjaqX.png)
+After completing the left [[Topics/Artery, Vertebral\|VA]] [[Topics/Angiography, Digital Subtraction\|DSA]], the Simmons 2 catheter was advanced into the descending aorta. This was a position that prevented the selection of the last target - left [[Topics/Artery, Common Carotid\|CCA]] (**A**). The catheter was then retracted into the brachiocephalic artery (**B**) and advanced into the ascending aorta (**C**). Selection of the left CCA was achieved (**D**).
+
+---
+
+### 7 Femoral Access
 
 ![](https://i.imgur.com/IkQye0s.jpg)
 The Simmons 2 catheter could also be utilized for transfemoral access to select target arteries. It can be reformed using the left subclavian artery.
@@ -128,7 +134,11 @@ The Simmons 2 catheter could also be utilized for transfemoral access to select 
 
 ---
 
-### 7
+Here is another example of using the Simmons 2 catheter via the femoral access in a bovine arch case.
 
-![](https://i.imgur.com/v0QjaqX.png)
-After completing the left [[Topics/Artery, Vertebral\|VA]] [[Topics/Angiography, Digital Subtraction\|DSA]], the Simmons 2 catheter was advanced into the descending aorta. This was a position that prevented the selection of the last target - left [[Topics/Artery, Common Carotid\|CCA]] (**A**). The catheter was then retracted into the brachiocephalic artery (**B**) and advanced into the ascending aorta (**C**). Selection of the left CCA was achieved (**D**).
+![](https://i.imgur.com/Fmt5O28.jpeg)
+
+![](https://i.imgur.com/ipwtfZd.jpeg)
+(**A**-**D**): Formation of the Simmons 2 catheter into the desired shape.
+(**E**): Selection of the right brachiocephalic artery.
+(**F**): Selection of the left [[Topics/Artery, Common Carotid\|CCA]].
