@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anomaly-developmental-venous/","tags":["anatomy vascular"],"created":"2023-06-05T07:59:38.000-07:00","updated":"2024-06-05T13:53:26.089-07:00"}
+{"dg-publish":true,"permalink":"/topics/anomaly-developmental-venous/","tags":["anatomy vascular"],"created":"2023-06-05T07:59:38.000-07:00","updated":"2024-06-05T13:56:33.358-07:00"}
 ---
 
 
@@ -45,7 +45,7 @@ It presents as caput medusae sign of multiple smaller veins draining into a sing
 **Top row**: Axial CTA
 **Bottom row**: MRI SWI
 
-***Diagnostic Cerebral Angiography***
+***Diagnostic Cerebral Angiography (Right VA)***
 ![](https://i.imgur.com/IWrl71o.jpeg)
 **Top row**: There were no early draining veins in the arterial phase.
 **Bottom row**: Early venous phase demonstrates the DVA as seen from pre-operative imaging.
