@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/topics/drain-lumbar/","tags":["CSF"],"created":"2023-10-17T11:33:15.000-07:00","updated":"2024-01-10T11:01:20.549-08:00"}
+{"dg-publish":true,"permalink":"/topics/drain-lumbar/","tags":["CSF"],"created":"2023-10-17T11:33:15.000-07:00","updated":"2024-06-09T12:12:02.293-07:00"}
 ---
 
+
 A **lumbar drain** is indicated for various conditions, such as CSF leak, NPH, intraoperative CSF drainage, etc. It is usually placed under fluoroscopy, as shown in [[Topics/Drain, Lumbar#1\|Case 1]].
+
+Potential complications include CSF leak, orthostatic headache, epidural fluid collection/infection/abscess, nerve root(s) injury, etc. 
 
 ---
 
@@ -21,3 +24,8 @@ The patient is placed prone on the biplane table, with their lower back steriliz
 \* The target should be below the L1/L2 level to avoid injury to the spinal cord/conus medullaris. In this case, the catheter enters the L3/L4 level.
 
 ---
+
+### 2 
+
+![](https://i.imgur.com/4bDcOMH.jpeg)
+On this post-puncture axial T2WI lumbar MRI, a small amount of epidural fluid collection (<span style="color: orange">orange</span> arrow) was observed.
