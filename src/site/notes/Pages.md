@@ -63,6 +63,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Cases/Endovascular/Flow Diversion, BA Trunk Aneurysm\|Flow Diversion, BA Trunk Aneurysm]]
 - [[Books/Handbook of Cerebrovascular Disease and Neurointerventional Technique\|Handbook of Cerebrovascular Disease and Neurointerventional Technique]]
 - [[Books/Handbook of Neurosurgery\|Handbook of Neurosurgery]]
+- [[Topics/Hyperplasia, Intimal\|Hyperplasia, Intimal]]
 - [[Topics/Hypotension, Intracranial\|Hypotension, Intracranial]]
 - [[Topics/Hypoxia\|Hypoxia]]
 - [[Cases/Vascular/ICH, Right Midbrain\|ICH, Right Midbrain]]
