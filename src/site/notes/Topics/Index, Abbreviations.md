@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2024-04-05T18:53:30.391-07:00"}
+{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2024-06-17T19:22:03.857-07:00"}
 ---
 
 
@@ -13,6 +13,7 @@
 - **AICA** - [[Topics/Artery, Anterior Inferior Cerebellar\|anterior inferior cerebellar artery]]
 - **AIF** - arterial input function
 - **AKA** - also known as
+- **AUD** - alcohol use disorder
 - **BA** - [[Topics/Artery, Basilar\|basilar artery]]
 - **BLE** - bilateral lower extremities
 - **BUE** - bilateral upper extremities
@@ -77,6 +78,7 @@
 - **ROM** - range of motion
 - **RUE** - right upper extremity
 - **SCA** - [[Topics/Artery, Superior Cerebellar\|superior cerebellar artery]]
+- **SUD** - substance use disorder
 - **T1WI** - T1-weighted image
 - **T2WI** - T2-weighted image
 - **TCAR** - transcarotid artery revascularization
