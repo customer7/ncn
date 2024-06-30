@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/pump-intrathecal/","created":"2024-03-01T13:34:06.764-08:00","updated":"2024-03-28T12:25:04.368-07:00"}
+{"dg-publish":true,"permalink":"/topics/pump-intrathecal/","tags":["pump"],"created":"2024-03-01T13:34:06.764-08:00","updated":"2024-06-29T21:38:22.002-07:00"}
 ---
 
 
