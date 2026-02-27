@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/catheter-vtk/","tags":["catheter"],"created":"2023-10-26T09:15:05.548-07:00","updated":"2024-02-22T12:10:36.480-08:00"}
+{"dg-publish":true,"permalink":"/topics/catheter-vtk/","tags":["catheter"],"created":"2023-10-26T12:15:05.000-04:00","updated":"2026-02-27T13:29:15.727-05:00"}
 ---
 
 
@@ -48,5 +48,5 @@ This patient has a bovine-type arch, and the VTK catheter makes the selection of
 
 #### 2.2
 
-![](https://i.imgur.com/Ji0ohbF.jpeg)
+![](https://imgur.com/Z97jhfu.png)
 To achieve catheterization of the right [[Topics/Artery, Common Carotid\|CCA]], the VTK catheter tip (<span style="color:orange">orange</span> arrow) is first placed in the bovine arch to obtain a roadmap (**A**). The Glidewire (<span style="color:black">black</span> arrow) first enters the left CCA following the trajectory of the VTK catheter (**B**). Gentle push of the VTK catheter will "pop" its tip out of the left ICA into the brachiocephalic artery (**C**). Gently advance the Glidewire into the right CCA until the VTK catheter is strengthened (**D**). Firmly hold the VTK catheter and advance the guide catheter (<span style="color:palegreen">green</span> arrow) to follow the Glidewire into the right CCA (**E**).
