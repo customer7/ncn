@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/topics/aneurysm-cavernous-carotid/","tags":["anatomy","aneurysm","DSA"],"created":"2024-01-13T20:16:08.000-08:00","updated":"2024-01-24T18:30:19.000-08:00"}
+{"dg-publish":true,"permalink":"/topics/aneurysm-cavernous-carotid/","tags":["anatomy","aneurysm","DSA"],"created":"2024-01-24T21:30:19.000-05:00","updated":"2026-01-11T00:38:20.565-05:00"}
 ---
 
 
-According to the [[Literature/ISUIA, Lancet - 2003\|ISUIA]] study published in Lancet in 2003, cavernous carotid aneurysms have been considered to have a lower risk of rupturing compared to aneurysms in other locations. However, as the size of the aneurysm increases,  local mass effects could cause cranial nerve palsies.
+According to the [[Literature/ISUIA (Lancet) - 2003\|ISUIA]] study published in Lancet in 2003, cavernous carotid aneurysms have been considered to have a lower risk of rupturing compared to aneurysms in other locations. However, as the size of the aneurysm increases,  local mass effects could cause cranial nerve palsies.
 
 ---
 

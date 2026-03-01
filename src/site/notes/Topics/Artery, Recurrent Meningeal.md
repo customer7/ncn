@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-recurrent-meningeal/","tags":["artery","anatomy"],"created":"2024-05-03T13:13:28.232-07:00","updated":"2024-05-03T13:16:19.421-07:00"}
+{"dg-publish":true,"permalink":"/topics/artery-recurrent-meningeal/","tags":["artery","anatomy"],"created":"2024-05-03T16:16:19.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

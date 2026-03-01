@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T20:05:52.000-07:00","updated":"2024-06-17T19:22:03.857-07:00"}
+{"dg-publish":true,"permalink":"/topics/index-abbreviations/","tags":["index"],"created":"2023-05-12T23:05:52.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

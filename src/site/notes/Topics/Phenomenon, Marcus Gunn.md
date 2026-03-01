@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/phenomenon-marcus-gunn/","created":"2023-06-03T20:18:21.000-07:00","updated":"2023-06-04T19:40:53.000-07:00"}
+{"dg-publish":true,"permalink":"/topics/phenomenon-marcus-gunn/","created":"2023-06-03T23:18:21.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

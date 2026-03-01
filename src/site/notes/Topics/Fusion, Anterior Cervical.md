@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/fusion-anterior-cervical/","tags":["spine","cervical","fusion"],"created":"2025-03-09T18:10:25.032-07:00","updated":"2025-03-10T11:27:58.972-07:00"}
+{"dg-publish":true,"permalink":"/topics/fusion-anterior-cervical/","tags":["spine","cervical","fusion"],"created":"2025-03-09T21:10:25.000-04:00","updated":"2025-03-10T14:27:58.000-04:00"}
 ---
 
 

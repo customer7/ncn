@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T00:38:10.000-07:00","updated":"2024-05-03T13:13:10.336-07:00"}
+{"dg-publish":true,"permalink":"/topics/angiography-digital-subtraction/","tags":["DSA","anatomy","artery"],"created":"2023-09-16T03:38:10.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 
@@ -49,7 +49,7 @@ This patient underwent mechanical thrombectomy under moderate sedation for acute
 ### 4 - Air Bubble
 
 <div style="padding:96.75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/898832192?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Air Bubble"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-An air bubble can be seen injected into the [[Topics/Artery, Maxillary\|internal maxillary artery]], fortunately without causing any significant clinical complications.
+An air bubble can be seen injected into the [[Artery, Maxillary\|internal maxillary artery]], fortunately without causing any significant clinical complications.
 
 ---
 

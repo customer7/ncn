@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/sizes-arteries/","tags":["anatomy","vessel","MCA","BA","VA"],"created":"2023-07-09T08:58:25.565-07:00","updated":"2023-07-09T09:08:54.127-07:00"}
+{"dg-publish":true,"permalink":"/topics/sizes-arteries/","tags":["anatomy","vessel","MCA","BA","VA"],"created":"2023-07-09T12:08:54.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

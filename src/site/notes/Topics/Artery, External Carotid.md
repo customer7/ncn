@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-external-carotid/","tags":["anatomy","artery"],"created":"2023-09-01T12:23:14.259-07:00","updated":"2024-05-03T13:13:10.367-07:00"}
+{"dg-publish":true,"permalink":"/topics/artery-external-carotid/","tags":["anatomy","artery"],"created":"2023-09-01T15:23:14.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 
@@ -20,7 +20,7 @@ The **external carotid artery** (**ECA**) is one of the two branches of the [[To
 6. [[Topics/Artery, Middle Meningeal\|Middle meningeal artery]]
 7. Posterior division of the middle meningeal artery
 8. Anterior division of the middle meningeal artery
-9. [[Topics/Artery, Maxillary\|Internal maxillary artery]]
+9. [[Artery, Maxillary\|Internal maxillary artery]]
 10. Middle [[Topics/Arteries, Deep Temporal\|deep temporal artery]]
 11. Anterior [[Topics/Arteries, Deep Temporal\|deep temporal artery]]
 12. Infraoribal arteray
@@ -42,7 +42,7 @@ There is no ECA originating from the right CCA.
 
 DSA - Right CCA Injection (PA and Lateral)
 ![](https://i.imgur.com/5Eo29Nw.png)
-It seems there is an anastomosis between the cavernous segment of the right [[Topics/Artery, Internal Carotid\|ICA]] and the right [[Topics/Artery, Maxillary\|internal maxillary artery]] (<span style="color:yellow">yellow</span> arrow).
+It seems there is an anastomosis between the cavernous segment of the right [[Topics/Artery, Internal Carotid\|ICA]] and the right [[Artery, Maxillary\|internal maxillary artery]] (<span style="color:yellow">yellow</span> arrow).
 
 DSA - Right CCA Injection (3D)
 ![](https://i.imgur.com/j59pqXH.png)

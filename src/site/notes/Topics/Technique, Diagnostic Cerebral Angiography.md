@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/technique-diagnostic-cerebral-angiography/","tags":["DSA","technique"],"created":"2023-11-27T20:54:50.000-08:00","updated":"2024-06-04T12:03:40.144-07:00"}
+{"dg-publish":true,"permalink":"/topics/technique-diagnostic-cerebral-angiography/","tags":["DSA","technique"],"created":"2023-11-27T23:54:50.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

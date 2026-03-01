@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/yasargil/","title":"Yasargil","tags":["book","biography","microneurosurgery"],"created":"2023-11-11T11:13:59.240-08:00","updated":"2023-11-11T11:17:30.239-08:00"}
+{"dg-publish":true,"permalink":"/books/yasargil/","title":"Yasargil","tags":["book","biography","microneurosurgery"],"created":"2023-11-11T14:13:59.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 ![](http://books.google.com/books/content?id=DC36sgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)

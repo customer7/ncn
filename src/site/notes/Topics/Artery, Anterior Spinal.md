@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-anterior-spinal/","tags":["anatomy","DSA"],"created":"2024-03-08T12:25:40.037-08:00","updated":"2024-03-08T16:06:56.510-08:00"}
+{"dg-publish":true,"permalink":"/topics/artery-anterior-spinal/","tags":["anatomy","DSA"],"created":"2024-03-08T19:06:56.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

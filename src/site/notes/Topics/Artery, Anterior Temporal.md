@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-anterior-temporal/","tags":["anatomy","vessel","artery"],"created":"2023-05-24T03:17:40.000-07:00","updated":"2023-08-15T14:13:12.000-07:00"}
+{"dg-publish":true,"permalink":"/topics/artery-anterior-temporal/","tags":["anatomy","vessel","artery"],"created":"2023-05-24T06:17:40.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

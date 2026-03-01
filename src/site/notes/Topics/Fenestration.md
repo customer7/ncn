@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/fenestration/","created":"2023-09-22T11:59:05.000-07:00","updated":"2023-11-11T10:07:02.232-08:00"}
+{"dg-publish":true,"permalink":"/topics/fenestration/","created":"2023-09-22T14:59:05.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 Originating in the early 19th century, "**Fenestra**," a Latin word for "window," is used to describe a hole in an anatomical structure.^[[Fenestra - Oxford Reference](https://www.oxfordreference.com/display/10.1093/acref/9780195392883.001.0001/m_en_us1246648?rskey=Z7D9Eg&result=1)]^[[Fenestra - Wikipedia](https://en.wikipedia.org/wiki/Fenestra)] Its derivative, "**fenestration**," meaning the surgical creation of such an opening, has, however, been more widely used to describe a natural luminal separation in an artery.

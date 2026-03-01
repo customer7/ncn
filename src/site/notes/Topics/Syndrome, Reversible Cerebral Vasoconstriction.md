@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/syndrome-reversible-cerebral-vasoconstriction/","created":"2023-09-26T17:32:08.964-07:00","updated":"2024-01-10T11:25:38.795-08:00"}
+{"dg-publish":true,"permalink":"/topics/syndrome-reversible-cerebral-vasoconstriction/","created":"2023-09-26T20:32:08.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 **Reversible cerebral vasoconstriction syndrome**, AKA **RCVS**, refers to a group of diseases with similar clinical presentations and imaging features. As indicated by the name itself, typical findings on DSA would show multifocal segmental cerebral artery vasoconstriction. [[Topics/Score, RCVS2\|RCVS2]] score could be used to help with diagnosis.

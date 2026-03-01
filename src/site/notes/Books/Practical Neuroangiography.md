@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/practical-neuroangiography/","title":"Practical Neuroangiography","tags":["endovascular","DSA"],"created":"2024-02-24T11:06:56.000-08:00","updated":"2024-02-24T22:14:26.000-08:00"}
+{"dg-publish":true,"permalink":"/books/practical-neuroangiography/","title":"Practical Neuroangiography","tags":["endovascular","DSA"],"created":"2024-02-25T01:14:26.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

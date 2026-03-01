@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-subclavian/","tags":["anatomy","artery","syndrome"],"created":"2023-10-23T17:15:38.155-07:00","updated":"2024-04-17T10:30:19.533-07:00"}
+{"dg-publish":true,"permalink":"/topics/artery-subclavian/","tags":["anatomy","artery","syndrome"],"created":"2023-10-23T20:15:38.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

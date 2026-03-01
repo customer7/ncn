@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/imaging-vrt/","tags":["CT","MRI"],"created":"2024-02-28T13:25:55.845-08:00","updated":"2024-02-28T15:13:57.414-08:00"}
+{"dg-publish":true,"permalink":"/topics/imaging-vrt/","tags":["CT","MRI"],"created":"2024-02-28T18:13:57.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

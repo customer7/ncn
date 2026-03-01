@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/sign-hyperdense-artery/","tags":["CT","stroke","stroke/ischemic"],"created":"2023-12-03T21:01:21.000-08:00","updated":"2024-01-10T11:04:11.695-08:00"}
+{"dg-publish":true,"permalink":"/topics/sign-hyperdense-artery/","tags":["CT","stroke","stroke/ischemic"],"created":"2023-12-04T00:01:21.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

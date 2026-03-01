@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/vein-superficial-middle-cerebral/","tags":["anatomy","vein"],"created":"2023-07-23T21:22:25.000-07:00","updated":"2023-09-10T21:22:50.780-07:00"}
+{"dg-publish":true,"permalink":"/topics/vein-superficial-middle-cerebral/","tags":["anatomy","vein"],"created":"2023-09-11T00:22:50.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

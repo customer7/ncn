@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/topics/arteries-deep-temporal/","tags":["anatomy","artery","vessel"],"created":"2023-07-23T13:31:41.838-07:00","updated":"2024-05-03T13:13:10.360-07:00"}
+{"dg-publish":true,"permalink":"/topics/arteries-deep-temporal/","tags":["anatomy","artery","vessel"],"created":"2023-07-23T16:31:41.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 
-The **deep temporal arteries** are branches from the second part of the [[Topics/Artery, Maxillary\|maxillary artery]]. They ascend between the pericranium and the temporalis muscle.
+The **deep temporal arteries** are branches from the second part of the [[Artery, Maxillary\|maxillary artery]]. They ascend between the pericranium and the temporalis muscle.
 
 ---
 

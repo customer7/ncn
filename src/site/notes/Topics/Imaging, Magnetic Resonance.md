@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/imaging-magnetic-resonance/","tags":["MRI","imaging"],"created":"2024-04-05T18:41:42.842-07:00","updated":"2024-04-05T22:31:27.100-07:00"}
+{"dg-publish":true,"permalink":"/topics/imaging-magnetic-resonance/","tags":["MRI","imaging"],"created":"2024-04-06T01:31:27.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

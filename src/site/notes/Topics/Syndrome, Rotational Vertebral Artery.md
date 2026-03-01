@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/syndrome-rotational-vertebral-artery/","tags":["anatomy","DSA","syndrome"],"created":"2024-01-11T13:42:01.000-08:00","updated":"2024-01-15T08:24:49.000-08:00"}
+{"dg-publish":true,"permalink":"/topics/syndrome-rotational-vertebral-artery/","tags":["anatomy","DSA","syndrome"],"created":"2024-01-15T11:24:49.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

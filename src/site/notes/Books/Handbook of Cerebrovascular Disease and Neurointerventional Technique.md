@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/handbook-of-cerebrovascular-disease-and-neurointerventional-technique/","title":"Handbook of Cerebrovascular Disease and Neurointerventional Technique","created":"2024-03-03T13:45:12.239-08:00","updated":"2024-03-03T13:58:12.311-08:00"}
+{"dg-publish":true,"permalink":"/books/handbook-of-cerebrovascular-disease-and-neurointerventional-technique/","title":"Handbook of Cerebrovascular Disease and Neurointerventional Technique","created":"2024-03-03T16:58:12.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

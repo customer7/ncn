@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/sinus-falcine/","created":"2023-05-25T16:08:47.000-07:00","updated":"2023-09-10T21:28:07.894-07:00"}
+{"dg-publish":true,"permalink":"/topics/sinus-falcine/","created":"2023-05-25T19:08:47.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

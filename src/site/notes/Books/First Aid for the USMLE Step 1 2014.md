@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/first-aid-for-the-usmle-step-1-2014/","title":"First Aid for the USMLE Step 1 2014","tags":["book","USMLE"],"created":"2023-11-11T10:55:47.393-08:00","updated":"2023-11-11T11:13:08.998-08:00"}
+{"dg-publish":true,"permalink":"/books/first-aid-for-the-usmle-step-1-2014/","title":"First Aid for the USMLE Step 1 2014","tags":["book","USMLE"],"created":"2023-11-11T13:55:47.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 ![](http://books.google.com/books/content?id=0TZPAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)

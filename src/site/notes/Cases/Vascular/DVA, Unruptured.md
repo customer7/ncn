@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["todo","DVA","IPH","DSA"],"created":"2023-06-05T08:00:51.000-07:00","updated":"2023-12-27T14:17:41.285-08:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/dva-unruptured/","tags":["todo","DVA","IPH","DSA"],"created":"2023-06-05T11:00:51.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

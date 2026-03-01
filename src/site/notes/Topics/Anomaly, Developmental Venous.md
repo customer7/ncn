@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/anomaly-developmental-venous/","tags":["anatomy vascular"],"created":"2023-06-05T07:59:38.000-07:00","updated":"2024-06-05T13:56:33.358-07:00"}
+{"dg-publish":true,"permalink":"/topics/anomaly-developmental-venous/","tags":["anatomy vascular"],"created":"2023-06-05T10:59:38.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

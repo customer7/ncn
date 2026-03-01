@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/score-rcvs-2/","tags":["score","grading"],"created":"2023-05-12T06:28:27.000-07:00","updated":"2023-10-07T15:04:09.264-07:00"}
+{"dg-publish":true,"permalink":"/topics/score-rcvs-2/","tags":["score","grading"],"created":"2023-05-12T09:28:27.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

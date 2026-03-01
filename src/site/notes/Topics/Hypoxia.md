@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/hypoxia/","tags":["stroke","stroke/ischemic","anatomy"],"created":"2023-11-22T11:18:22.000-08:00","updated":"2024-01-10T11:04:11.695-08:00"}
+{"dg-publish":true,"permalink":"/topics/hypoxia/","tags":["stroke","stroke/ischemic","anatomy"],"created":"2023-11-22T14:18:22.000-05:00","updated":"2026-02-28T21:08:14.547-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-14T21:43:13.000-07:00","updated":"2024-04-07T17:19:39.438-07:00"}
+{"dg-publish":true,"permalink":"/topics/access-radial-artery/","tags":["anatomy","artery","access"],"created":"2023-08-15T00:43:13.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

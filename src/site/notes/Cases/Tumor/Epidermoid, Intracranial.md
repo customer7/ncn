@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-07T21:54:29.524-07:00","updated":"2023-12-27T14:17:11.768-08:00"}
+{"dg-publish":true,"permalink":"/cases/tumor/epidermoid-intracranial/","tags":["tumor","tumor/brain","cyst"],"created":"2023-09-08T00:54:29.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

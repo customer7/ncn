@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/miscellaneous/software/","created":"2023-03-10T11:55:47.000-08:00","updated":"2024-04-14T16:54:44.178-07:00"}
+{"dg-publish":true,"permalink":"/miscellaneous/software/","created":"2023-03-10T14:55:47.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

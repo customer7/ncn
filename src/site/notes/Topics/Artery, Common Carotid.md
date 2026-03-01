@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-common-carotid/","tags":["anatomy","artery"],"created":"2023-10-23T16:48:58.231-07:00","updated":"2024-04-01T12:18:01.199-07:00"}
+{"dg-publish":true,"permalink":"/topics/artery-common-carotid/","tags":["anatomy","artery"],"created":"2023-10-23T19:48:58.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

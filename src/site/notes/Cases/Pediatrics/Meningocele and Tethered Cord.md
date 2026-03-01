@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pediatrics/meningocele-and-tethered-cord/","tags":["pediatric"],"created":"2023-10-14T22:48:32.188-07:00","updated":"2023-12-27T14:14:16.689-08:00"}
+{"dg-publish":true,"permalink":"/cases/pediatrics/meningocele-and-tethered-cord/","tags":["pediatric"],"created":"2023-10-15T01:48:32.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

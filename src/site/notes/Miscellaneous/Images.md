@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/miscellaneous/images/","created":"2023-12-22T17:18:32.000-08:00","updated":"2023-12-24T21:52:24.000-08:00"}
+{"dg-publish":true,"permalink":"/miscellaneous/images/","created":"2023-12-22T20:18:32.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 <p align=center>❤️</p>

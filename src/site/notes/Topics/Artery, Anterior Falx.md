@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-anterior-falx/","tags":["anatomy","artery"],"created":"2023-10-12T12:17:03.308-07:00","updated":"2024-01-10T12:02:19.555-08:00"}
+{"dg-publish":true,"permalink":"/topics/artery-anterior-falx/","tags":["anatomy","artery"],"created":"2023-10-12T15:17:03.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 The **anterior falx artery** is a branch of the [[Artery, Anterior Ethmoidal\|anterior ethmoidal artery]] and supplies the anterior portion of the falx cerebri.^[[The Anterior Falx Artery: Normal and Pathologic Anatomy](https://pubs.rsna.org/doi/epdf/10.1148/91.6.1089)]

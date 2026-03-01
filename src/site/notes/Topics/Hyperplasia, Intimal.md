@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/hyperplasia-intimal/","created":"2024-06-13T11:00:55.417-07:00","updated":"2024-06-13T13:38:26.792-07:00"}
+{"dg-publish":true,"permalink":"/topics/hyperplasia-intimal/","created":"2024-06-13T16:38:26.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

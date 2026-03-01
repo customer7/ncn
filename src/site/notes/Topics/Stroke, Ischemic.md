@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/stroke-ischemic/","tags":["stroke","DSA","thrombectomy","stroke/ischemic"],"created":"2023-10-13T12:43:34.272-07:00","updated":"2024-01-22T15:59:48.662-08:00"}
+{"dg-publish":true,"permalink":"/topics/stroke-ischemic/","tags":["stroke","DSA","thrombectomy","stroke/ischemic"],"created":"2023-10-13T15:43:34.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

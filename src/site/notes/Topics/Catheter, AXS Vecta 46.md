@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/catheter-axs-vecta-46/","tags":["catheter"],"created":"2023-11-15T16:49:07.643-08:00","updated":"2023-12-20T09:38:35.067-08:00"}
+{"dg-publish":true,"permalink":"/topics/catheter-axs-vecta-46/","tags":["catheter"],"created":"2023-11-15T19:49:07.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

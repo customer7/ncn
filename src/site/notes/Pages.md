@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/","tags":["index"],"created":"2023-11-15T17:29:52.000-08:00","updated":"2024-01-11T13:57:45.468-08:00"}
+{"dg-publish":true,"permalink":"/pages/","tags":["index"],"created":"2023-11-15T20:29:52.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 
@@ -16,7 +16,6 @@ This page indexes all the pages on this website alphabetically.
 - [[Topics/Aneurysm, PCOM\|Aneurysm, PCOM]]
 - [[Topics/Angiography, 3D Dual-Volume\|Angiography, 3D Dual-Volume]]
 - [[Topics/Angiography, Digital Subtraction\|Angiography, Digital Subtraction]]
-- [[Topics/Angioplasty, Balloon\|Angioplasty, Balloon]]
 - [[Topics/Anomaly, Developmental Venous\|Anomaly, Developmental Venous]]
 - [[Topics/Arteries, Deep Temporal\|Arteries, Deep Temporal]]
 - [[Topics/Artery, Anterior Cerebral\|Artery, Anterior Cerebral]]
@@ -61,6 +60,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Topics/Fistula, CSF-Venous\|Fistula, CSF-Venous]]
 - [[Topics/Fistula, Dural Arteriovenous\|Fistula, Dural Arteriovenous]]
 - [[Cases/Endovascular/Flow Diversion, BA Trunk Aneurysm\|Flow Diversion, BA Trunk Aneurysm]]
+- [[Topics/Fusion, Anterior Cervical\|Fusion, Anterior Cervical]]
 - [[Books/Handbook of Cerebrovascular Disease and Neurointerventional Technique\|Handbook of Cerebrovascular Disease and Neurointerventional Technique]]
 - [[Books/Handbook of Neurosurgery\|Handbook of Neurosurgery]]
 - [[Topics/Hyperplasia, Intimal\|Hyperplasia, Intimal]]
@@ -74,11 +74,11 @@ This page indexes all the pages on this website alphabetically.
 - [[ABNS/Index, ABNS\|Index, ABNS]]
 - [[Books/Index, Books\|Index, Books]]
 - [[Cases/Index, Cases\|Index, Cases]]
-- [[Topics/Index, Catheters\|Index, Catheters]]
 - [[Literature/Index, Literature\|Index, Literature]]
 - [[Topics/Index, Topics\|Index, Topics]]
-- [[Literature/ISUIA, Lancet - 2003\|ISUIA, Lancet - 2003]]
+- [[Literature/ISUIA (Lancet) - 2003\|ISUIA (Lancet) - 2003]]
 - [[Cases/Spine/Kyphosis, Cervical\|Kyphosis, Cervical]]
+- [[Topics/Lymphoma, CNS\|Lymphoma, CNS]]
 - [[Topics/Malformation, Arteriovenous\|Malformation, Arteriovenous]]
 - [[Cases/Pediatrics/Meningocele and Tethered Cord\|Meningocele and Tethered Cord]]
 - [[Books/Neuroanatomy Through Clinical Cases\|Neuroanatomy Through Clinical Cases]]
@@ -91,7 +91,6 @@ This page indexes all the pages on this website alphabetically.
 - [[Pages\|Pages]]
 - [[Topics/Phenomenon, Inverse Marcus Gunn\|Phenomenon, Inverse Marcus Gunn]]
 - [[Topics/Phenomenon, Marcus Gunn\|Phenomenon, Marcus Gunn]]
-- [[Topics/Plexus, Choroid\|Plexus, Choroid]]
 - [[Books/Practical Neuroangiography\|Practical Neuroangiography]]
 - [[Topics/Pump, Intrathecal\|Pump, Intrathecal]]
 - [[Miscellaneous/Quotes\|Quotes]]
@@ -119,11 +118,11 @@ This page indexes all the pages on this website alphabetically.
 - [[Cases/Spine/Thoracic Epidural Lesion\|Thoracic Epidural Lesion]]
 - [[Topics/Thrombus\|Thrombus]]
 - [[Topics/Tips and Tricks\|Tips and Tricks]]
-- [[Literature/Triple Therapy, VBA Aneurysm - 2022\|Triple Therapy, VBA Aneurysm - 2022]]
-- [[Literature/UCAS, Japan - 2012\|UCAS, Japan - 2012]]
+- [[Literature/Triple Therapy, VBA Aneurysm (JNIS) - 2022\|Triple Therapy, VBA Aneurysm (JNIS) - 2022]]
+- [[Literature/UCAS, Japan (NEJM) - 2012\|UCAS, Japan (NEJM) - 2012]]
 - [[Topics/Vein, Superficial Middle Cerebral\|Vein, Superficial Middle Cerebral]]
 - [[Topics/Veins, Deep Cerebral\|Veins, Deep Cerebral]]
-- [[Literature/Venous Embolization, CFS-Venous Fistula - 2021\|Venous Embolization, CFS-Venous Fistula - 2021]]
+- [[Literature/Venous Embolization, CFS-Venous Fistula (AJNR) - 2021\|Venous Embolization, CFS-Venous Fistula (AJNR) - 2021]]
 - [[Books/Yasargil\|Yasargil]]
 
 { .block-language-dataview}

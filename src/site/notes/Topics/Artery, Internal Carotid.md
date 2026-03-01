@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-internal-carotid/","created":"2023-10-19T13:27:23.960-07:00","updated":"2024-03-07T09:28:10.333-08:00"}
+{"dg-publish":true,"permalink":"/topics/artery-internal-carotid/","created":"2023-10-19T16:27:23.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

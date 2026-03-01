@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/catheter-excelsior-sl-10/","tags":["catheter","microcatheter","Stryker"],"created":"2023-12-06T18:37:12.000-08:00","updated":"2023-12-07T22:27:49.000-08:00"}
+{"dg-publish":true,"permalink":"/topics/catheter-excelsior-sl-10/","tags":["catheter","microcatheter","Stryker"],"created":"2023-12-06T21:37:12.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T18:36:27.000-07:00","updated":"2024-01-10T11:04:11.696-08:00"}
+{"dg-publish":true,"permalink":"/cases/pns/cervical-rib-and-tos/","tags":["TOS","PNS","rib"],"created":"2023-05-23T21:36:27.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 
