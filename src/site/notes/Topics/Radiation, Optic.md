@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/radiation-optic/","tags":["anatomy","MRI","brain"],"created":"2023-08-21T11:39:32.776-07:00","updated":"2024-01-10T11:04:11.696-08:00"}
+{"dg-publish":true,"permalink":"/topics/radiation-optic/","tags":["anatomy","MRI","brain"],"created":"2024-01-10T14:04:11.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
 ---
 
 
