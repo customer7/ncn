@@ -2,19 +2,6 @@ body {
   font-family: "Noto Serif", serif;
   line-height: 1.75;
   font-size: 18px;
+  max-width: 900px;
   margin: auto;
-}
-
-
-// Remove extra spacing between footnotes
-.footnotes {
-  ol {
-    li {
-      margin-bottom: 0;
-
-      p {
-        margin-bottom: 0;
-      }
-    }
-  }
 }
