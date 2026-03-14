@@ -6,8 +6,10 @@ body {
   margin: auto;
 }
 
-.footnotes li,
 .footnotes li p {
-  margin: 0 !important;
-  padding: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.footnotes li {
+    margin-bottom: 0 !important;
 }
