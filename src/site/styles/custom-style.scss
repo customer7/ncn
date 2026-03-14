@@ -9,3 +9,11 @@ body {
 .footnotes br {
     display: none;
 }
+
+.footnotes li,
+.footnotes li p,
+.wp-block-footnotes li,
+.wp-block-footnotes li p {
+    margin: 0 !important;
+    padding: 0 !important;
+}
