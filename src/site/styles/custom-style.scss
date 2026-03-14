@@ -6,14 +6,21 @@ body {
   margin: auto;
 }
 
-.footnotes br {
-    display: none;
-}
+// Targets the footnote list items to remove extra vertical gaps
+.easy-footnotes-wrapper {
+    .easy-footnote-margin-adjust {
+        margin-bottom: 0; // Removes margin below the footnote container
+    }
 
-.footnotes li,
-.footnotes li p,
-.wp-block-footnotes li,
-.wp-block-footnotes li p {
-    margin: 0 !important;
-    padding: 0 !important;
+    ol.easy-footnotes {
+        li {
+            margin-bottom: 5px; // Adjust this value to your liking (e.g., 0 or 2px)
+            padding-bottom: 0;
+            
+            p {
+                margin-bottom: 0; // Removes the "extra line" created by internal paragraphs
+                display: inline;  // Keeps the text tight against the number
+            }
+        }
+    }
 }
