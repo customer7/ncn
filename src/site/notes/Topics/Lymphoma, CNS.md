@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/lymphoma-cns/","tags":["lymphoma","MRI","CT"],"created":"2026-02-03T20:20:35.188-08:00","updated":"2026-04-03T18:52:59.986-07:00"}
+{"dg-publish":true,"permalink":"/topics/lymphoma-cns/","tags":["lymphoma","MRI","CT"],"created":"2026-02-03T20:20:35.188-08:00","updated":"2026-04-03T18:55:07.630-07:00"}
 ---
 
 
@@ -20,7 +20,7 @@ A senior patient presented with altered mental status. CT head without contrast 
 
 ### 2 
 
-A middle-aged patient presented with a one-week history of confusion. A CT scan of the head revealed a 3.5 cm left frontal lesion with associated perilesional edema and a 4 mm midline shift. Brain MRI with contrast demonstrated a left frontal, contrast-enhancing lesion (red arrow) displaying an open-ring sign (yellow arrow). Sagittal views also showed suspected [[Topics/Finger, Dawson's\|Dawson's finger]] (cyan arrow) oriented perpendicular to the left lateral ventricle. The differential diagnosis included demyelinating disease (specifically tumefactive [[Topics/Sclerosis, Multiple\|multiple sclerosis]]) and neoplastic processes. A left frontal stereotactic needle biopsy was performed, and histopathology confirmed high-grade diffuse large B-cell lymphoma (DLBCL). Post-operative CT head showed a small hemorrhage (<span style="color: palegreen">green</span> arrow) at the biopsy site. The patient subsequently underwent chemotherapy and recovered well. At the three-month clinical follow-up, the patient had a [[Topics/Scale, Glasgow Coma\|GCS]] of 15 and no neurological deficits.
+A middle-aged patient presented with a one-week history of confusion. A CT scan of the head revealed a 3.5 cm left frontal lesion with associated perilesional edema and a 4 mm midline shift. Brain MRI with contrast demonstrated a left frontal, contrast-enhancing lesion (<span style="color: red">red</span> arrow) displaying an open-ring sign (<span style="color: yellow">yellow</span> arrow). Sagittal views also showed suspected [[Topics/Finger, Dawson's\|Dawson's finger]] (<span style="color: Cyan">cyan</span> arrow) oriented perpendicular to the left lateral ventricle. The differential diagnosis included demyelinating disease (specifically tumefactive [[Topics/Sclerosis, Multiple\|multiple sclerosis]]) and neoplastic processes. A left frontal stereotactic needle biopsy was performed, and histopathology confirmed high-grade diffuse large B-cell lymphoma (DLBCL). Post-operative CT head showed a small hemorrhage (<span style="color: palegreen">green</span> arrow) at the biopsy site. The patient subsequently underwent chemotherapy and recovered well. At the three-month clinical follow-up, the patient had a [[Topics/Scale, Glasgow Coma\|GCS]] of 15 and no neurological deficits.
 
 ![Imgur](https://imgur.com/kXHnK2L.png)
 
