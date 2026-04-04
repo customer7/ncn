@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/stents/","tags":["stent","stents"],"created":"2024-05-08T00:48:50.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
+{"dg-publish":true,"permalink":"/topics/stents/","tags":["stent","stents"],"created":"2024-05-07T21:48:50.000-07:00","updated":"2024-11-21T13:58:00.000-08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/artery-posterior-meningeal/","tags":["artery","anatomy","DSA"],"created":"2023-09-01T18:48:01.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
+{"dg-publish":true,"permalink":"/topics/artery-posterior-meningeal/","tags":["artery","anatomy","DSA"],"created":"2023-09-01T15:48:01.000-07:00","updated":"2024-11-21T13:58:00.000-08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/vascular/ich-right-midbrain/","tags":["ICH","midbrain"],"created":"2023-05-12T23:23:44.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
+{"dg-publish":true,"permalink":"/cases/vascular/ich-right-midbrain/","tags":["ICH","midbrain"],"created":"2023-05-12T20:23:44.000-07:00","updated":"2024-11-21T13:58:00.000-08:00"}
 ---
 
 

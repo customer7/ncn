@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T13:44:30.000-04:00","updated":"2026-01-11T00:39:49.362-05:00"}
+{"dg-publish":true,"permalink":"/cases/endovascular/flow-diversion-ba-trunk-aneurysm/","tags":["stent","aneurysm","aneurysm/unruptured","DSA","Surpass","endovascular"],"created":"2023-10-26T10:44:30.000-07:00","updated":"2026-01-10T21:39:49.362-08:00"}
 ---
 
 

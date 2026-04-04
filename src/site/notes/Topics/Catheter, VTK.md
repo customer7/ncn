@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/catheter-vtk/","tags":["catheter"],"created":"2023-10-26T12:15:05.000-04:00","updated":"2026-02-27T13:29:15.727-05:00"}
+{"dg-publish":true,"permalink":"/topics/catheter-vtk/","tags":["catheter"],"created":"2023-10-26T09:15:05.000-07:00","updated":"2026-02-27T10:29:15.727-08:00"}
 ---
 
 

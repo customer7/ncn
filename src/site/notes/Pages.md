@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/","tags":["index"],"created":"2023-11-15T20:29:52.000-05:00","updated":"2024-11-21T16:58:00.000-05:00"}
+{"dg-publish":true,"permalink":"/pages/","tags":["index"],"created":"2023-11-15T17:29:52.000-08:00","updated":"2024-11-21T13:58:00.000-08:00"}
 ---
 
 
@@ -76,6 +76,7 @@ This page indexes all the pages on this website alphabetically.
 - [[Cases/Index, Cases\|Index, Cases]]
 - [[Literature/Index, Literature\|Index, Literature]]
 - [[Topics/Index, Topics\|Index, Topics]]
+- [[Topics/Intelligence, Artificial\|Intelligence, Artificial]]
 - [[Literature/ISUIA (Lancet) - 2003\|ISUIA (Lancet) - 2003]]
 - [[Cases/Spine/Kyphosis, Cervical\|Kyphosis, Cervical]]
 - [[Topics/Lymphoma, CNS\|Lymphoma, CNS]]

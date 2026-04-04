@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/malformation-arteriovenous/","tags":["DSA"],"created":"2023-10-12T00:14:56.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
+{"dg-publish":true,"permalink":"/topics/malformation-arteriovenous/","tags":["DSA"],"created":"2023-10-11T21:14:56.000-07:00","updated":"2026-03-28T21:13:42.384-07:00"}
 ---
 
 

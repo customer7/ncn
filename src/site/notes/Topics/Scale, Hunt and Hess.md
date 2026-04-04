@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/topics/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T18:11:12.000-04:00","updated":"2024-11-21T16:58:00.000-05:00"}
+{"dg-publish":true,"permalink":"/topics/scale-hunt-and-hess/","tags":["SAH","scale"],"created":"2023-05-27T15:11:12.000-07:00","updated":"2026-03-14T04:07:13.392-07:00"}
 ---
 
 
-The **Hunt and Hess scale**^[[Surgical risk as related to time of intervention in the repair of intracranial aneurysms - PubMed](https://pubmed.ncbi.nlm.nih.gov/5635959/)] is used to classify the severity of a [[Hemorrhage, Subarachnoid\|subarachnoid hemorrhage]] based on clinical condition. It can be used to predict patient's prognosis/outcome.
+The **Hunt and Hess scale**^[[Surgical risk as related to time of intervention in the repair of intracranial aneurysms - PubMed](https://pubmed.ncbi.nlm.nih.gov/5635959/)] is used to classify the severity of a [[Hemorrhage, Subarachnoid 1\|subarachnoid hemorrhage]] based on clinical condition. It can be used to predict patient's prognosis/outcome.
 
 | Grade | Clinical Presentation                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------- |
