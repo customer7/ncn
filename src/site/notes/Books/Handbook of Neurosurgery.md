@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/books/handbook-of-neurosurgery/","title":"Handbook of Neurosurgery","tags":["ABNS"],"created":"2023-11-11T10:59:54.000-08:00","updated":"2024-11-21T13:58:00.000-08:00"}
+{"dg-publish":true,"permalink":"/books/handbook-of-neurosurgery/","title":"Handbook of Neurosurgery","tags":["ABNS"],"created":"2023-11-11T10:59:54.000-08:00","updated":"2026-04-25T23:15:59.078-07:00","dg-note-properties":{"aliases":null,"tags":["ABNS"],"title":"Handbook of Neurosurgery","subtitle":null,"author":"Mark S. Greenberg","authors":"Mark S. Greenberg","category":"Medical","publisher":"Thieme Medical Publishers","totalPage":1784,"coverUrl":"https://m.media-amazon.com/images/I/81FzJ2Dnw+L._SY522_.jpg","coverSmallUrl":"https://m.media-amazon.com/images/I/81FzJ2Dnw+L._SY522_.jpg","publishDate":2019,"description":"\"Renowned for its depth and breadth, this updated text with nearly 1,800 pages encompasses the entire spectrum of neurosurgery including anatomy, physiology, differential diagnosis, and current principles of nonsurgical and surgical management. The text covers a huge scope of inherited, developmental, and acquired neurological disorders impacting pediatric to geriatric patients. As with prior editions, this must-have daily reference book makes essential neurosurgical information, current trends, breakthrough research, and reviews readily accessible to all neurosurgeons and allied health practitioners.\"--from the publisher description.","link":"https://books.google.com/books/about/Handbook_of_Neurosurgery.html?hl=&id=Iu9owAEACAAJ","previewLink":"http://books.google.com/books?id=Iu9owAEACAAJ&dq=handbook+of+neurosurgery+2019&hl=&as_pt=BOOKS&cd=1&source=gbs_api","isbn10":1684201373,"isbn13":9781684201372,"rating":"★★★★☆","comment":"In the era of the Internet, the value of this book has been drastically depreciated.","status":"neurosurgery","date created":"11/11/2023, 10:59:54","date modified":"11/11/2023, 11:01:30"}}
 ---
 
 
-![](http://books.google.com/books/content?id=Iu9owAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![](https://m.media-amazon.com/images/I/81FzJ2Dnw+L._SY522_.jpg)
 **Title**: Handbook of Neurosurgery
 **Subtitle**: 
 **Author**: Mark S. Greenberg
