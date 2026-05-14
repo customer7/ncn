@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/index-cases/","pinned":true,"tags":["index"],"created":"2023-05-11T12:23:01.000-07:00","updated":"2024-11-21T13:58:00.000-08:00"}
+{"dg-publish":true,"permalink":"/cases/index-cases/","pinned":true,"tags":["index"],"created":"2023-05-11T12:23:01.000-07:00","updated":"2024-11-21T13:58:00.000-08:00","dg-note-properties":{"aliases":null,"tags":["index"],"date created":"05/11/2023, 14:23:01","date modified":"10/14/2023, 22:53:35"}}
 ---
 
 
@@ -58,6 +58,7 @@ This "Cases" folder contains detailed cases on each topic and this "Index, Cases
 ### Neoplasm
 
 - [[Cases/Spine/Thoracic Epidural Lesion\|Thoracic Epidural Lesion]]
+- [[Cases/Tumor/Meningioma, Thoracic intrathecal extramedullary\|Meningioma, Thoracic intrathecal extramedullary]]
 
 { .block-language-dataview}
 
@@ -66,6 +67,7 @@ This "Cases" folder contains detailed cases on each topic and this "Index, Cases
 ### Benign
 
 - [[Cases/Tumor/Epidermoid, Intracranial\|Epidermoid, Intracranial]]
+- [[Cases/Tumor/Meningioma, Thoracic intrathecal extramedullary\|Meningioma, Thoracic intrathecal extramedullary]]
 
 { .block-language-dataview}
 
