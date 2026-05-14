@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cases/tumor/meningioma-thoracic-intrathecal-extramedullary/","tags":["meningioma","spine","thoracic","tumor"],"created":"2026-05-02T17:52:04.050-07:00","updated":"2026-05-10T17:21:48.115-07:00","dg-note-properties":{"aliases":[],"tags":["meningioma","spine","thoracic","tumor"],"status":null,"function":null,"date created":"05/02/2026, 17:52:04","date modified":"05/10/2026, 17:21:40"}}
+{"dg-publish":true,"permalink":"/cases/tumor/meningioma-thoracic-intrathecal-extramedullary/","tags":["meningioma","spine","thoracic","tumor"],"created":"2026-05-02T17:52:04.050-07:00","updated":"2026-05-14T11:19:07.587-07:00","dg-note-properties":{"aliases":[],"tags":["meningioma","spine","thoracic","tumor"],"status":"neoplasm-spine, tumor","function":null,"date created":"05/02/2026, 17:52:04","date modified":"05/14/2026, 11:19:02"}}
 ---
 
 
