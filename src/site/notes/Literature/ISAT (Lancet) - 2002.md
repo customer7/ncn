@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literature/isat-lancet-2002/","tags":["aneurysm","aneurysm/ruptured","Lancet"],"created":"2026-06-18T13:38:17.077-07:00","updated":"2026-06-18T14:32:31.608-07:00","dg-note-properties":{"aliases":["ISAT"],"tags":["aneurysm","aneurysm/ruptured","Lancet"],"status":null,"function":null,"date created":"06/18/2026, 13:38:17","date modified":"06/18/2026, 14:29:49"}}
+{"dg-publish":true,"permalink":"/literature/isat-lancet-2002/","tags":["aneurysm","aneurysm/ruptured","Lancet"],"created":"2026-06-18T13:38:17.077-07:00","updated":"2026-06-18T15:26:02.940-07:00","dg-note-properties":{"aliases":["ISAT"],"tags":["aneurysm","aneurysm/ruptured","Lancet"],"status":null,"function":null,"date created":"06/18/2026, 13:38:17","date modified":"06/18/2026, 14:29:49"}}
 ---
 
 
@@ -44,3 +44,4 @@ In this paper^[[International Subarachnoid Aneurysm Trial (ISAT) of neurosurgica
 ### Cases
 
 - [[Topics/Aneurysm\|Aneurysm]]
+- [[Cases/Endovascular/Coiling, Ruptured Left Pcom Aneurysm\|Coiling, Ruptured Left Pcom Aneurysm]]
