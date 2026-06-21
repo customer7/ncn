@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/residency/how-to-be-a-great-resident/","tags":["residency"],"created":"2026-06-21T12:35:11.918-07:00","updated":"2026-06-21T12:43:41.148-07:00","dg-note-properties":{"aliases":[],"tags":["residency"],"status":null,"function":null,"date created":"06/21/2026, 12:35:11","date modified":"06/21/2026, 12:43:39"}}
+{"dg-publish":true,"permalink":"/residency/how-to-be-a-great-resident/","tags":["residency"],"created":"2026-06-21T12:35:11.918-07:00","updated":"2026-06-21T12:46:07.549-07:00","dg-note-properties":{"aliases":[],"tags":["residency"],"status":null,"function":null,"date created":"06/21/2026, 12:35:11","date modified":"06/21/2026, 12:43:39"}}
 ---
 
 
@@ -15,3 +15,4 @@
 10. Be a team player.
 11. Always review the case before going to the OR. Know all the details.
 12. Treat everybody with respect.
+13. "Eat whenever you can, sleep whenever you can, and s\*\*t whenever you can."
